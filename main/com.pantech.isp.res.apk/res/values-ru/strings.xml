@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SelectAll">Выбрать все</string>
+    <string name="DeselectAll">Отменить выбор</string>
+    <string name="Selected">выбрано</string>
+    <string name="DragDropHere"><b>"Перетащите
+кнопку сюда"</b></string>
+</resources>

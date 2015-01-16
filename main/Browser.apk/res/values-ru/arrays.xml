@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>Всегда вкл.</item>
+        <item>По запросу</item>
+        <item>Выкл.</item>
+    </string-array>
+    <string-array name="pref_content_plugins_values">
+        <item>ON</item>
+        <item>ON_DEMAND</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Текущая страница</item>
+        <item>Пустая страница</item>
+        <item>Страница по умолчанию</item>
+        <item>Часто посещаемые сайты</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="pref_homepage_values">
+        <item>current</item>
+        <item>blank</item>
+        <item>default</item>
+        <item>most_visited</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Мелкий</item>
+        <item>Маленький</item>
+        <item>Обычный</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Далекий</item>
+        <item>Средний</item>
+        <item>Близкий</item>
+    </string-array>
+    <string-array name="pref_default_zoom_values">
+        <item>FAR</item>
+        <item>MEDIUM</item>
+        <item>CLOSE</item>
+    </string-array>
+    <string-array name="pref_development_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
+    </string-array>
+    <string-array name="pref_development_ua_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Латиница-1 (ISO-8859-1)</item>
+        <item>Юникод (UTF-8)</item>
+        <item>Китайский (GBK)</item>
+        <item>Китайский (Big5)</item>
+        <item>Японский (ISO-2022-JP)</item>
+        <item>Японский (SHIFT_JIS)</item>
+        <item>Японский (EUC-JP)</item>
+        <item>Корейский (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_values">
+        <item>Latin-1</item>
+        <item>UTF-8</item>
+        <item>GBK</item>
+        <item>Big5</item>
+        <item>ISO-2022-JP</item>
+        <item>SHIFT_JIS</item>
+        <item>EUC-JP</item>
+        <item>EUC-KR</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Никогда</item>
+        <item>Только по WI-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_data_preload_values">
+        <item>@string/pref_data_preload_value_never</item>
+        <item>@string/pref_data_preload_value_wifi_only</item>
+        <item>@string/pref_data_preload_value_always</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Никогда</item>
+        <item>Только по WI-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_values">
+        <item>@string/pref_link_prefetch_value_never</item>
+        <item>@string/pref_link_prefetch_value_wifi_only</item>
+        <item>@string/pref_link_prefetch_value_always</item>
+    </string-array>
+    <string-array name="bookmarks">
+        <item>Google</item>
+        <item>http://www.google.co.kr/</item>
+        <item>Naver</item>
+        <item>http://www.naver.com/</item>
+        <item>Daum</item>
+        <item>http://www.daum.net/</item>
+        <item>Nate</item>
+        <item>http://www.nate.com/</item>
+        <item>T world</item>
+        <item>http://www.tworld.co.kr/</item>
+        <item>T world shop</item>
+        <item>http://www.tworldshop.co.kr/</item>
+        <item>VEGA Mobile</item>
+        <item>http://m.ivega.co.kr/</item>
+        <item>Pantech Service</item>
+        <item>http://m.pantechservice.co.kr/</item>
+        <item>AccuWeather</item>
+        <item>http://www.accuweather.com/?p=pantech</item>
+    </string-array>
+    <string-array name="bookmarks_kt">
+        <item>Google</item>
+        <item>http://www.google.com/</item>
+        <item>AccuWeather</item>
+        <item>http://www.accuweather.com/</item>
+    </string-array>
+    <string-array name="bookmarks_lgt">
+        <item>U+ Page</item>
+        <item>http://page.uplus.co.kr/</item>
+        <item>Naver</item>
+        <item>http://www.naver.com/</item>
+        <item>Daum</item>
+        <item>http://www.daum.net/</item>
+        <item>Google</item>
+        <item>http://www.google.co.kr/</item>
+        <item>Nate</item>
+        <item>http://www.nate.com/</item>
+        <item>LG U+</item>
+        <item>http://www.uplus.co.kr/</item>
+        <item>VEGA Mobile</item>
+        <item>http://m.ivega.co.kr/</item>
+        <item>Pantech Service</item>
+        <item>http://m.pantechservice.co.kr/</item>
+        <item>AccuWeather</item>
+        <item>http://www.accuweather.com/?p=pantech</item>
+    </string-array>
+    <string-array name="pref_newtab_homepage_values">
+        <item>current</item>
+        <item>blank</item>
+        <item>default</item>
+        <item>most_visited</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Никогда</item>
+        <item>Только по WI-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+</resources>

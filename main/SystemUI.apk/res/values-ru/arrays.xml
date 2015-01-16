@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="noti_panel_settings">
+        <item>Стиль панели уведомлений</item>
+        <item>Описание значков наверху</item>
+        <item>Помощь</item>
+    </string-array>
+    <string-array name="quick_array">
+        <item>Звук</item>
+        <item>Wi-Fi</item>
+        <item>Мобильные данные</item>
+        <item>GPS</item>
+        <item>Обычный режим</item>
+        <item>Авто поворот</item>
+        <item>Чтен./Зап P2P</item>
+        <item>Bluetooth</item>
+        <item>Голосовые команды</item>
+        <item>Сенсор</item>
+        <item>Синхронизация</item>
+        <item>Режим полета</item>
+        <item>Режим блокировки</item>
+        <item>LED Уведомления</item>
+        <item>Беспроводной монитор</item>
+    </string-array>
+    <string-array name="status_bar_theme_entries">
+        <item>Модерн</item>
+        <item>Небесно голубой</item>
+        <item>Уникальный</item>
+    </string-array>
+    <string-array name="status_bar_help_title_array">
+        <item>Секретные жалюзи</item>
+        <item>Перемещение</item>
+        <item>Изменить</item>
+    </string-array>
+</resources>

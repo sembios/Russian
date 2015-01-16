@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Неправильный PIN-код SIM-карты, Осталось %d попыток.</item>
+        <item quantity="one">Неправильный PIN-код SIM-карты, Осталось %d попытки прежде чем обратитесь к своему оператору, чтобы разблокировать устройство.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Неправильный PUK-код SIM-карты, Осталось %d попытки потом SIM карта становится непригодна.</item>
+        <item quantity="one">Неправильный PUK-код SIM-карты, Осталось %d попытки потом SIM карта становится непригодна.</item>
+    </plurals>
+</resources>

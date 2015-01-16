@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">DualWindowUI</string>
+    <string name="activity_not_found">Приложение не установлено.</string>
+    <string name="unable_open_app_this_window">Невозможно открыть приложение в этом окне</string>
+    <string name="unable_open_same_app">Невозможно открыть то же самое приложение в одно время</string>
+    <string name="edit">Изменить</string>
+    <string name="edit_title">Изменить Мульти окно</string>
+    <string name="edit_showing_list_title">Приложения Мульти окна</string>
+    <string name="edit_hidden_list_title">Доступные приложения</string>
+    <string name="edit_guide_bottom">"Нажмите и удерживайте значок для 
+перемещения в мульти окно"</string>
+    <string name="edit_guide_panel">"Перетащите значок сюда, чтобы удалить из 
+ Мульти окна"</string>
+    <string name="edit_showing_emtpy_panel">Нет приложений</string>
+    <string name="edit_hidden_emtpy_panel">Нет доступных приложений</string>
+    <string name="out_of_space">Нет больше места.</string>
+    <string name="shortcut_duplicate">Значек \"%s\" уже существует.</string>
+    <string name="title_select_application">Выберите приложение</string>
+    <string name="menu_add">Добавить</string>
+    <string name="menu_manage_apps">Управление приложениями</string>
+    <string name="menu_wallpaper">Обои</string>
+    <string name="menu_search">Поиск</string>
+    <string name="menu_notifications">Уведомления</string>
+    <string name="menu_settings">Системные настройки</string>
+    <string name="menu_help">Помощь</string>
+    <string name="help_url" />
+    <string name="dockbar_description_format">Док бар %1$d</string>
+    <string name="default_scroll_format">Страница %1$d из %2$d</string>
+    <string name="dockbar_scroll_format">Док бар %1$d из %2$d</string>
+</resources>

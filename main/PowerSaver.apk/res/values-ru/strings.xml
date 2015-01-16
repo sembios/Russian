@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Экономия энергии</string>
+    <string name="action_settings">Настройки</string>
+    <string name="noti_title">Экономия энергии</string>
+    <string name="noti_sub">Экономия энергии используется.</string>
+    <string name="actionbar_title">Применение параметров энергосбережения</string>
+    <string name="selected">выбранно</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="deselect_all">Отменить все</string>
+    <string name="app_content">Когда включено энергосбережение, справочные данные выбранного приложения будут отключены при выключенном экране телефона, чтобы предотвратить потребление батареи</string>
+    <string name="alarm_popup_title">Внимание</string>
+    <string name="alarm_popup_string_01">"Выбор  "</string>
+    <string name="alarm_popup_string_02">"  приложение приведет к блокировке уведомления, когда экран телефона выключен. (Оно будет работать в обычном режиме, когда экран включен) 
+
+Выбрать все равно?"</string>
+    <string name="string_ok">OK</string>
+    <string name="string_cancel">Отмена</string>
+    <string name="service_on">Энергосбережение активировано</string>
+</resources>

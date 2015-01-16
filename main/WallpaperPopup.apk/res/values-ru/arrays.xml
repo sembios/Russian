@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Сразу</item>
+        <item>5 сек.</item>
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>30 мин.</item>
+    </string-array>
+    <string-array name="lock_after_timeout_values">
+        <item>0</item>
+        <item>5000</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+    </string-array>
+    <string-array name="background_entries">
+        <item>Фон Галереи</item>
+        <item>По умолчанию фон</item>
+        <item>Фон Главного экрана</item>
+    </string-array>
+    <string-array name="background_values">
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="background_simple_entries">
+        <item>Фон Галереи</item>
+        <item>По умолчанию фон</item>
+    </string-array>
+    <string-array name="background_simple_values">
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="effect_entries">
+        <item>Пузыри</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="effect_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

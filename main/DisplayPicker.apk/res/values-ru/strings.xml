@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Выбрать обои из</string>
+    <string name="tab_title_gallery">Галерея</string>
+    <string name="tab_title_wallpaper">Базовые</string>
+    <string name="tab_title_livewallpaper">Живые</string>
+    <string name="tab_title_download">Загруженные</string>
+    <string name="tab_title_pattern">Граф.ключ</string>
+    <string name="create_new_pattern">Новый Граф.ключ</string>
+    <string name="select_pattern">ВЫБЕРИТЕ ГРАФ.КЛЮЧ</string>
+    <string name="delete_pattern">Удалить Граф.ключ</string>
+    <string name="select_col_pat">ВЫБЕРИТЕ ЦВЕТ И ГРАФ.КЛЮЧ</string>
+    <string name="selected_prompt">0 выбрано</string>
+    <string name="pattern_preview">ПРЕД. ПРОСМОТР</string>
+    <string name="pattern_nopattern">Нет Граф.ключа</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="live_wallpaper_empty">Нет живых обоев</string>
+    <string name="no_sd_card">Нет SD карты. Пожалуйста, вставьте карту памяти.</string>
+    <string name="activity_init_failed">Не удалось инициализировать.</string>
+    <string name="data_is_not_exist">Нет содержимого для сохранения</string>
+    <string name="no_download_wallpaper">Нет обоев</string>
+    <string name="no_gallery_wallpaper">Нет изображений в галерее</string>
+    <string name="usb_used_unable_database">Используется в качестве USB-накопителя. Не удается загрузить базу данных.</string>
+    <string name="appsbg_transparent">Прозрачность</string>
+    <string name="appsbg_semi_transparent">Полупрозрачный</string>
+    <string name="couldnot_load">Не удается загрузить</string>
+    <string name="cannot_find_gallery_app">Галерея не найдена</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="deselect_all">Отменить все</string>
+    <string name="nomore_create_user_pattern">Граф.ключ установлен, удалите неиспользуемый Граф.ключ</string>
+    <string name="deleted">удален</string>
+    <string name="wallpaper">Установка обоев...</string>
+    <string name="unable_storage">Нет памяти</string>
+    <string name="label_color">Цвет</string>
+    <string name="apply">Применить</string>
+</resources>

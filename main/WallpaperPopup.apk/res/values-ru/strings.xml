@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hold_saving_image">"Сохранение изображения..
+Пожалуйста, подождите"</string>
+    <string name="wallpaper_setting_title">Обои</string>
+    <string name="home_title">Главный экран</string>
+    <string name="lock_title">Экран блокировки</string>
+    <string name="lock_home_title">Главный &amp; Экран блокировки</string>
+    <string name="smart_flip_title">Чехол</string>
+    <string name="dialog_home_title">Установить на Главный экран</string>
+    <string name="dialog_lock_title">Установить на Экран блокировки</string>
+    <string name="dialog_lock_home_title">Установить на Главный &amp; Экран блокировки обои</string>
+    <string name="warning_dialog_message_visual_lock">При использовании экрана Визуальный блокировки можно выбрать только папки изображений</string>
+    <string name="warning_dialog_message_visual_lock_home">"При использовании экрана Визуальный блокировки, можно изменить только фоновый рисунок Главного экрана.
+Продолжить?"</string>
+    <string name="warning_dialog_message_simplemode">"Когда вы используете обычный режим, вы можете только изменить обои экрана блокировки.
+Продолжить?"</string>
+    <string name="warning_dialog_message_live_wallpaper">Выбранные обои будут также применяться как обои экрана блокировки</string>
+    <string name="chooser_wallpaper">Выбрать обои из</string>
+</resources>

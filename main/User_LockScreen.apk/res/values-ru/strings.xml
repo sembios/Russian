@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Защита</string>
+    <string name="wday_month_day_no_year">MMMM dd EEE</string>
+    <string name="only_call">Позвонить владельцу телефона</string>
+    <string name="emergency_call">Экстренный вызов</string>
+    <string name="vprotection_alarm">Защита сигнализацией</string>
+    <string name="wrong_password">Извините. попробуйте еще раз.</string>
+    <string name="fail_unlock">"Вы ввели неправильно пароль 5 раз.
+
+Повторите попытку через 30 секунд."</string>
+    <string name="str_pwd_fail">Неверный пароль</string>
+    <string name="str_login_fail">Неверный логин</string>
+    <string name="time_text">Повторите попытку через %s сек.</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="forget_password_ef56">Забыли пароль?</string>
+    <string name="unlock_hold">Отключить защиту</string>
+    <string name="login_google">"Если Вы забыли аккаунт iVEGA, посетите Pantech сервисный центр, чтобы разблокировать телефон.
+Для получения справки о блокировка экрана свяжитесь с Pantech сервисного центра по телефону 1588-9111."</string>
+    <string name="password">Пароль</string>
+    <string name="cancel">Отменить</string>
+    <string name="confirm_id">Неверное имя пользователя или пароль.</string>
+    <string name="no_number">000-000-0000</string>
+    <string name="certus_lockscreen_no_use_func">Вы не можете использовать данную функцию, когда вкл. удаленная блокировка</string>
+    <string name="str_certus_checking_google_account">Пожалуйста, подождите.</string>
+    <string name="str_certus_checking_google_account_title">В процессе</string>
+    <string name="str_net_disable_err">Невозможно использовать сеть.</string>
+    <string name="remote_forward_wrong_password">Неправильно указан пароль.</string>
+    <string name="remote_forward_receive_sms">Прием SMS-сообщений</string>
+    <string name="remote_forward_outgoing_sms">Исходящие SMS-сообщения</string>
+    <string name="remote_forward_number">число</string>
+    <string name="remote_forward_receive_call">Прием вызова</string>
+    <string name="remote_forward_outgoing_call">Исходящий вызов</string>
+    <string name="remote_forward_request_number">Номер запроса</string>
+    <string name="remote_forward_no_information">Нет информации</string>
+    <string name="remote_forward_forward_off">Вперед</string>
+    <string name="remote_forward_forward_off_body">Вперед служба была выпущена с устройства.</string>
+    <string name="remote_forward_title">Удаленная служба защиты</string>
+    <string name="str_vprotection_alarm">Защита сигнализацией</string>
+    <string name="remote_forward_receive">Получить</string>
+    <string name="remote_forward_outgoing">Отправить</string>
+    <string name="str_input_vprotction_pw">Чтобы разблокировать, введите пароль защиты.</string>
+    <string name="str_foward_call_sms" formatted="false">Передача %s к %s. Если служба остановлена, Пожалуйста проверте настройки.</string>
+    <string name="str_foward_call">Переадресация</string>
+    <string name="str_foward_sms">SMS переадресация</string>
+    <string name="str_no_description">пусто</string>
+    <string name="str_confirm">Подтвердить</string>
+    <string name="str_fail">Ошибка в пароле</string>
+    <string name="str_release_service">"Служба защиты работает.
+Введите пароль, чтобы освободить удаленный сервис."</string>
+    <string name="str_release_remote_service">[Защита] Запуск удаленной службы.</string>
+    <string name="str_error_vprotection">[Защита]Проблемы в области безопасности Пожалуйста, перезагрузите.</string>
+    <string name="str_remain_time" formatted="false">Оставшееся время (%02d:%02d)</string>
+    <string name="str_contiune_time">Оставшееся время</string>
+</resources>

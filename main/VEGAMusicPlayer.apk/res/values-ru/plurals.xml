@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addtocart_result_success_duplication">
+        <item quantity="other">Добавлено %2$d песен в %1$s за исключением дублированных песен</item>
+        <item quantity="zero">Добавлено %2$d песен в %1$s за исключением дублированных песен</item>
+        <item quantity="one">Добавлено %2$d песен в %1$s за исключением дублированных песен</item>
+    </plurals>
+    <plurals name="addtocart_result_success">
+        <item quantity="other">Добавлено %2$d песен в %1$s</item>
+        <item quantity="zero">Добавлено %2$d песен в %1$s</item>
+        <item quantity="one">Добавлено %2$d песен в %1$s</item>
+    </plurals>
+    <plurals name="progressSafeBoxMoving">
+        <item quantity="other">Перемещение музыкальных файлов</item>
+        <item quantity="one">Перемещение музыкальных файлов</item>
+    </plurals>
+    <plurals name="progressSafeBoxMoveDone">
+        <item quantity="other">Музыкальные файлы перемещены</item>
+        <item quantity="one">Музыкальные файлы перемещены</item>
+    </plurals>
+    <plurals name="progressSafeBoxMoveFail">
+        <item quantity="other">Перемещение музыкальных файлов не удалось</item>
+        <item quantity="one">Перемещение музыкальных файлов не удалось</item>
+    </plurals>
+    <plurals name="progressSafeBoxMoveCancel">
+        <item quantity="other">Перемещение музыкальных файлов отменено</item>
+        <item quantity="one">Перемещение музыкальных файлов отменено</item>
+    </plurals>
+    <plurals name="SafeBoxNotificationMoveDone">
+        <item quantity="other">%1d музыка перемещена</item>
+        <item quantity="zero">%1d музыка перемещена</item>
+        <item quantity="one">%1d музыка перемещена</item>
+    </plurals>
+    <plurals name="SafeBoxNotificationMoveCancel">
+        <item quantity="other">%1d музыка отменена</item>
+        <item quantity="zero">%1d музыка отменена</item>
+        <item quantity="one">%1d музыка отменена</item>
+    </plurals>
+    <plurals name="SafeBoxNotificationMoveFail">
+        <item quantity="other">%1d музыка не удалось</item>
+        <item quantity="zero">%1d музыка не удалось</item>
+        <item quantity="one">%1d музыка не удалось</item>
+    </plurals>
+    <plurals name="count_of_albums">
+        <item quantity="other">%1d Альбомы</item>
+        <item quantity="zero">%1d Альбом</item>
+        <item quantity="one">%1d Альбом</item>
+    </plurals>
+    <plurals name="count_of_artist_songs">
+        <item quantity="other">%1d песни</item>
+        <item quantity="zero">%1d песня</item>
+        <item quantity="one">%1d песня</item>
+    </plurals>
+    <plurals name="count_of_songs">
+        <item quantity="other">%1d песни</item>
+        <item quantity="zero">%1d песня</item>
+        <item quantity="one">%1d песня</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d выбрано</item>
+        <item quantity="zero">%1$d выбрано</item>
+        <item quantity="one">%1$d выбрано</item>
+    </plurals>
+    <plurals name="count_of_space_songs">
+        <item quantity="other">%1d песни</item>
+        <item quantity="zero">%1d песня</item>
+        <item quantity="one">%1d песня</item>
+    </plurals>
+</resources>

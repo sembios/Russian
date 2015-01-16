@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Стиль значков</string>
+    <string name="icon_style">Стиль значков</string>
+    <string name="icon_style_info">Выберите стиль значков в отношении всех ярлыков на главном экране</string>
+    <string name="icon_style_change_popup_check">Включать лично украшенные иконы</string>
+    <string name="icon_style_change_wallpaper">Также изменить для соответствия обои</string>
+    <string name="icon_type_vega">VEGA</string>
+    <string name="icon_type_download">Загрузка</string>
+    <string name="icon_style_default_name">Модерн</string>
+    <string name="icon_style_change_popup_content">"Применить '%s стиль' ко всем иконкам?"</string>
+    <string name="blank_body">Нет загруженных стилей значков</string>
+    <string name="download_icon_style">Скачать стиль значков</string>
+    <string name="trashcan_title">Удалить</string>
+    <string name="multiselect_actionbar_selected_item_count">%d выбранный</string>
+    <string name="multiselect_actionbar_select_all">Выбрать все</string>
+    <string name="multiselect_actionbar_deselect_all">Удалить все</string>
+    <string name="reset_title">Сброс</string>
+    <string name="label_preview">ПРЕД.ПРОСМОТР</string>
+    <string name="label_text">ВЫБРАТЬ НАСТРОЙКИ ТЕКСТА</string>
+    <string name="label_background">ВЫБРАТЬ НАСТРОЙКИ ФОНА</string>
+    <string name="icon_label_1">Контакты</string>
+    <string name="icon_label_2">Сообщения</string>
+    <string name="icon_label_3">Музыкальный плеер</string>
+    <string name="text_option_size">Размер текста</string>
+    <string name="text_option_size_small">Маленький</string>
+    <string name="text_option_size_normal">Нормальный</string>
+    <string name="text_option_size_large">Большой</string>
+    <string name="text_option_shadow">Тень</string>
+    <string name="text_option_color">Цвет</string>
+    <string name="text_option_rotation">Поворот</string>
+    <string name="background_options">Фон</string>
+    <string name="background_shape">Форма и цвет</string>
+    <string name="background_opacity">Прозрачность</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="cancel">Отмена</string>
+    <string name="apply">Применить</string>
+    <string name="delete">Удалить</string>
+    <string name="apply_changes">Применить изменения?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+</resources>

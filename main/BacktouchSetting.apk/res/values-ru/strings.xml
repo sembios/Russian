@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">V touch</string>
+    <string name="title_activity_skybacktracksettings">"Откройте приложение
+
+нажав на сенсор дважды"</string>
+    <string name="title">V touch</string>
+    <string name="explain">Используя конкретные жесты на V touch, вы можете просто запустить приложение, открыть уведомления и управлять приложениями Вега .</string>
+    <string name="disabled">Нет</string>
+    <string name="list">Запустите нажав секретную клавишу два раза</string>
+    <string name="help">Помощь</string>
+    <string name="power">Выкл. при повороте экрана</string>
+    <string name="home">Клавиша домой</string>
+    <string name="menu">Клавиша меню</string>
+    <string name="back">Клавиша возврата</string>
+    <string name="capture">Клавиша захвата</string>
+    <string name="back_mode_category">Настройка фокуса</string>
+    <string name="back_mode">Тип V touch</string>
+    <string name="gesture_mode">Способ жеста</string>
+    <string name="focus_mode">Режим фокусировки</string>
+    <string name="gesture_help">Помощь</string>
+    <string name="gesture_help_title">О V touch</string>
+    <string name="focus_help">О режиме фокусировки</string>
+    <string name="recv_call">Принять вызов с помощью секретной клавиши</string>
+    <string name="enter_secret_mode">Введите секретный режим</string>
+    <string name="gesture_mode_title">Способ жеста</string>
+    <string name="gesture_mode_summary">Опираясь на backtrak конкретный жест, вы можете просто запустить приложение, открыть уведомления и контролировать некоторые полезные функции.</string>
+    <string name="focus_mode_title">Режим фокусировки</string>
+    <string name="focus_mode_summary">Вы можете переместить или выберите фокус на экране.</string>
+    <string name="gesture_mode_help">О режиме жестов</string>
+    <string name="mouse_mode_help">О режиме мышь</string>
+    <string name="using_third_app">Контроль загруженных приложения через V touch</string>
+    <string name="for_more_information">Для получения более подробной информации см. в руководстве.</string>
+    <string name="detail_settings">Подробное описание настройки</string>
+    <string name="focus_type_title">Режим фокусировки</string>
+    <string name="focus_type_summary">Переместить фокус и выберите сфокусированный элемент, двигая пальцем по области сканирования пальца или нажатием на секретную клавишу.</string>
+    <string name="hard_key_type_title">Тип клавиш</string>
+    <string name="hard_key_type_summary">Используйте V touch вместо Домой, Назад, Меню, и Клавиши регулировки громкости, нажав на секретную клавишу или сделать жест на области сканирования пальца.</string>
+    <string name="vega_type_title">VEGA тип функции</string>
+    <string name="vega_type_summary">VEGA тип функции - Контролируйте приложения с VEGA функции нажав секретную клавишу или рисунок жест на области сканирования пальца.</string>
+    <string name="focus_switch_title">Используйте управление фокусом</string>
+    <string name="focus_switch_summary">Переместить фокус и выберите сфокусированный элемент, двигая пальцем по области сканирования пальца или нажатием на секретный ключ.</string>
+    <string name="backtouch_app_name">V Touch помощь</string>
+    <string name="next">Далее</string>
+    <string name="prev">Назад</string>
+    <string name="done">Готово</string>
+    <string name="receive_call">Принять вызов</string>
+    <string name="open_status_bar">Откройте панель уведомлений</string>
+    <string name="take_picture">Сделать снимок с помощью секретной клавиши</string>
+    <string name="change_mode">Изменение V touch режима</string>
+    <string name="use_gesture_mode">Как использовать режим жестов</string>
+    <string name="use_focus_mode">Как использовать тип фокусировки</string>
+    <string name="use_mouse_mode">Как использовать режим мыши</string>
+    <string name="move_back_help">Вернуться к предыдущему экрану</string>
+    <string name="use_hard_key_mode">Как использовать клавиши</string>
+    <string name="use_vega_mode">Как использовать VEGA тип функции</string>
+    <string name="receive_call_msg">Нажмите и удерживайте V touch кнопку, чтобы принять вызов.</string>
+    <string name="open_status_bar_msg">Переверните телефон, нажимая V touch кнопку, чтобы открыть панель уведомлений.</string>
+    <string name="take_picture_msg">Нажмите и удерживайте V touch кнопку при использовании приложение камеры, чтобы сделать снимок.</string>
+    <string name="change_mode_msg">Нажмите и удерживайте V touch кнопку более 3 секунд, чтобы изменить V touch режим.</string>
+    <string name="use_focus_mode_msg">Проведите пальцем по V touch площади для перемещения фокуса по экрану. Нажмите, чтобы выбрать сфокусированный элемент.</string>
+    <string name="use_mouse_mode_msg">Проведите пальцем по V touch чтобы переместить указатель мыши по экрану.</string>
+    <string name="back_to_previous">Долго нажмите V touch для возврата к предыдущему экрану.</string>
+    <string name="close">Закрыть</string>
+</resources>

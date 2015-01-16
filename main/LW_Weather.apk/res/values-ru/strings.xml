@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_setting">Параметры обоев с прогнозом погоды</string>
+    <string name="app_name">Погода</string>
+    <string name="description">Отображение прогноза погоды на всех панелях главного экрана.</string>
+    <string name="no_city">Город не выбран</string>
+    <string name="no_weather_data_found">Не удалось получить текущее местополож.</string>
+    <string name="weather_auto_update">Автообновление</string>
+    <string name="min_30">30 минут</string>
+    <string name="hour_1">1 час</string>
+    <string name="hour_3">3 часа</string>
+    <string name="hour_6">6 часов</string>
+    <string name="hour_12">12 часов</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">OK</string>
+    <string name="current_location_info">Текущее местоположение</string>
+    <string name="auto_update_description">Выбор периода автообновления прогноза погоды</string>
+    <string name="waiting">"Получение текущего местоположения.
+Подождите."</string>
+    <string name="question">"Не удалось подключиться к сети.
+Настроить местоположение (используется подключение к беспроводной сети)?"</string>
+    <string name="no_network">"Не удалось подключиться к сети.
+Настроить подключение к беспроводной сети?"</string>
+    <string name="progress">Информация</string>
+    <string name="question_dialog_title">Вопрос</string>
+    <string name="update_complete">Обновление завершено</string>
+</resources>

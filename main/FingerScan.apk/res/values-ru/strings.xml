@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_fingerscan">Распознавания отпечатков пальцев</string>
+    <string name="title_fingerscan_add_register">Зарегистрировать больше отпечатков пальцев</string>
+    <string name="title_fingerscan_reset">Сброс отпечатков пальцев</string>
+    <string name="title_fingerscan_help">Руководство Распознавание отпечатков пальцев</string>
+    <string name="title_fingerscan_register">Регистрация отпечатка пальца</string>
+    <string name="title_fingerscan_verify">Подтвердите ваш отпечаток пальца</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="btn_fingerscan_cancel">Отменить</string>
+    <string name="btn_fingerscan_ok">OK</string>
+    <string name="btn_fingerprint_success">Готово</string>
+    <string name="btn_fingerprint_reset">Сброс отпечатков пальцев</string>
+    <string name="btn_fingerprint_before_reset">Сброс отпечатков пальцев</string>
+    <string name="test">Тест</string>
+    <string name="empty_data_dlg_titile">Нет зарегистрированных отпечатков пальцев</string>
+    <string name="empty_data_dlg_message">Зарегистрируйте Ваш отпечаток пальца для использования распознавание по отпечаткам пальцев</string>
+    <string name="empty_data_dlg_btn_txt">Регистрация отпечатков пальцев</string>
+    <string name="reset_used_otherapp_message">"Текущий метод отключения безопасности является отпечатков пальцев.
+один отпечаток пальца должен быть зарегистрирован. Проведите зарегистрированным отпечатком пальца."</string>
+    <string name="reset_for_verify_message">"Зарегистрированные отпечатки пальцев будут сброшены. 
+Возможно зарегистрировать новые отпечатки пальцев после сброса."</string>
+    <string name="reset_message">Сброс все регистрированные отпечатки пальцев за исключением одного выбранного.</string>
+    <string name="txt_addregister_try_scan">Регистрация отпечатков пальцев</string>
+    <string name="register_title_fail">Повторить регистрацию отпечатка пальца</string>
+    <string name="master_clear_gesture_prompt">Нарисуйте графический ключ</string>
+    <string name="master_clear_gesture_explanation">Вам нужно начертить графический ключ для подтверждения Сброс данных.</string>
+    <string name="unlock_set_unlock_disabled_summary">Отключено администратором, политику шифрования, или хранилище учетных данных</string>
+    <string name="lockpassword_choose_your_password_header">Выберите ваш пароль</string>
+    <string name="lockpassword_choose_your_pattern_header">Выберите свой графический ключ</string>
+    <string name="lockpassword_choose_your_pin_header">Выберите свой PIN-код</string>
+    <string name="lockpassword_confirm_your_password_header">Подтвердите пароль</string>
+    <string name="lockpassword_confirm_your_pattern_header">Подтвердите ваш графический ключ</string>
+    <string name="lockpassword_confirm_your_pin_header">Подтвердить свой PIN-код</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Пароли не совпадают</string>
+    <string name="lockpassword_confirm_pins_dont_match">PIN-коды не совпадают</string>
+    <string name="lockpassword_choose_lock_generic_header">Способ разблокировки</string>
+    <string name="lockpassword_ok_label">OK</string>
+    <string name="secondary_lock">Резервное копирования ПИН-кода</string>
+    <string name="lockpassword_password_too_short">Пароль должен быть не менее %d символов</string>
+    <string name="lockpassword_pin_too_short">PIN-код должен быть по крайней мере %d символов</string>
+    <string name="lockpassword_password_too_long">Пароль должен быть не менее %d символов.</string>
+    <string name="lockpassword_pin_too_long">ПИН-код должен быть меньше, чем %d цифр.</string>
+    <string name="lockpassword_illegal_character">Пароль содержит недопустимый символ.</string>
+    <string name="lockpassword_pin_contains_non_digits">PIN-код должен содержать только цифры 0-9.</string>
+    <string name="lockpassword_password_requires_alpha">Пароль должен содержать не менее одной буквы.</string>
+    <string name="lockpassword_password_requires_digit">Пароль должен содержать не менее одной цифры.</string>
+    <string name="lockpassword_pin_recently_used">Диспетчер устройств не позволяет использовать недавний PIN.</string>
+    <string name="lockpassword_press_continue">Нажмите Продолжить когда готово</string>
+    <string name="lockpassword_password_recently_used">Диспетчер устройств не позволяет использовать недавний пароль.</string>
+    <string name="lockpattern_recording_inprogress">Отпустите палец, когда готово.</string>
+    <string name="lockpattern_retry_button_text">Повторить</string>
+    <string name="lockpattern_continue_button_text">Продолжить</string>
+    <string name="lockpattern_confirm_button_text">Подтвердить</string>
+    <string name="lockpattern_restart_button_text">Изменить</string>
+    <string name="lockpattern_recording_intro_header">Нарисуйте графический ключ разблокировки</string>
+    <string name="lockpattern_settings_help_how_to_record">Как нарисовать графический ключ разблокировки</string>
+    <string name="lockpattern_recording_incorrect_too_short">Соедините по крайней мере %d точки. Попробовать еще раз:</string>
+    <string name="lockpattern_pattern_entered_header">Графический ключ зарегистрирован.</string>
+    <string name="lockpattern_need_to_confirm">Нарисуйте графический ключ еще раз для подтверждения:</string>
+    <string name="lockpattern_pattern_confirmed_header">Ваш новый графический ключ разблокировки:</string>
+    <string name="lockpattern_need_to_unlock_wrong">Попробуйте еще раз:</string>
+    <string name="lockpattern_need_to_unlock">Подтвердите сохраненный графический ключ</string>
+    <string name="secondary_lock_notice">"Если вы забыли свой графический ключ, Вы можете
+ ввести ваш PIN резервного копирования, чтобы разблокировать."</string>
+    <string name="lockpassword_cancel_label">Отменить</string>
+    <string name="lockpassword_continue_label">Продолжить</string>
+    <string name="lockpattern_tutorial_cancel_label">Отменить</string>
+    <string name="lockpattern_tutorial_continue_label">Далее</string>
+    <string name="empty_test_data_dlg_titile">Отпечаток пальца зарегистрирован.</string>
+    <string name="empty_test_data_dlg_message">Вы уверены, что хотите удалить зарегистрированный отпечаток пальца?</string>
+    <string name="empty_test_dlg_btn_txt">Удалить отпечатки пальцев</string>
+    <string name="deleted_test_finger_msg_txt">Удалить полный тест отпечатков пальцев!!</string>
+    <string name="app_verify_name">BTP Проверка</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="enrol_header_title">Настройка Crucialtec BTP</string>
+    <string name="fingerprint_not_enough">"Провели пальцем не правильно.
+"</string>
+    <string name="try_again">Попробуйте еще раз</string>
+    <string name="swipe_fast">Провели пальцем слишком быстро.</string>
+    <string name="swipe_slow">Провели пальцем медленно.</string>
+    <string name="short_swipe">Изображения отпечатков пальцев подержали слишком мало.</string>
+    <string name="out_of_skewness">Изображение отпечатка пальца слишком искажено.</string>
+    <string name="align_center">Проведите пальцем в центре.</string>
+    <string name="not_found_template">Не удается загрузить файл шаблона отпечатков пальцев из запоминающего устройства.</string>
+    <string name="invalid_fingerprint">Не удается идентифицировать отпечаток пальца.</string>
+    <string name="io_exception">Произошла ошибка ввода-вывода датчика.</string>
+    <string name="out_of_memory">Система выходит из состояние памяти.</string>
+    <string name="not_same_finger">Не тот палец в качестве разблокировки.</string>
+    <string name="already_enrolled">Этот палец уже регистрировался.</string>
+    <string name="app_lik_dialog_title">Выберите приложение, чтобы связать</string>
+    <string name="recognizing">Распознание…</string>
+    <string name="verification">Проверка</string>
+    <string name="swipe_test">Тест Косания</string>
+    <string name="verify_description">Сканировать ваш палец, чтобы разблокировать экран</string>
+    <string name="swipe_test_description">Сканирование отпечатков пальцев для теста косания</string>
+    <string name="verify_mismatch">"Отпечатки пальцев не соответствует.
+Попробуйте еще раз"</string>
+    <string name="verify_retry">"Привышен лимит попыток.
+Вы хотите попробовать снова?"</string>
+    <string name="enroll_message">"Нет зарегистрированных  отпечатков пальцев.
+Вы хотите зарегистрировать сейчас?"</string>
+    <string name="enroll_reg_dialog_title">Пожалуйста, проведите выбранный палец на датчик 3 раза правильно.</string>
+    <string name="app_add_dialog_title">Назначение считыватель отпечатков пальцев кнопка быстрого доступа</string>
+    <string name="app_change_dialog_title">Изменение комбинации считывателя отпечатков пальцев</string>
+    <string name="applications">Приложения</string>
+    <string name="contacts">Контакты</string>
+    <string name="remove_fingerprint">Удаление отпечатков пальцев</string>
+    <string name="app_assign_shortcut_dialog_title">Назначение считыватель отпечатков пальцев кнопка быстрого доступа</string>
+    <string name="remove_fingerprint_message">Вы уверены, что хотите удалить зарегистрированные отпечатки пальцев?</string>
+    <string name="remove_shortcut_message">Вы уверены, что хотите удалить кнопку быстого доступа?</string>
+    <string name="current_level">Текущий уровень</string>
+    <string name="path">ПУТЬ</string>
+    <string name="sdcard">sdcard</string>
+    <string name="swipe_version">v1.28</string>
+    <string name="test_finish">Завершение теста косания тест закончен.</string>
+    <string name="select_sdcard_path">Выберите путь</string>
+    <string name="forward">Вперед</string>
+    <string name="verify_success">Успешно</string>
+    <string name="verify_fail">Ошибка</string>
+    <string name="app_heatrun_name">SkyTestMenu</string>
+    <string name="test_tx_onoff">Tx ВКЛ/ВЫКЛ</string>
+    <string name="test_on">Сенсор ВКЛ</string>
+    <string name="test_off">Сенсор ВЫКЛ</string>
+    <string name="test_tx_ontime">Tx ВКЛ Время(sec)</string>
+    <string name="test_tx_offtime">Tx ВЫКЛ Время(sec)</string>
+    <string name="test_sensor_on_cnt">"Сенсор ВКЛ считывание : "</string>
+    <string name="level_default">По умолчанию</string>
+    <string name="level_low">Ниже</string>
+    <string name="level_lower">Ещё ниже</string>
+    <string name="level_lowest">Самый низкий</string>
+    <string name="level_set">ВЫБОР</string>
+    <string name="next">Далее</string>
+    <string name="prev">Назад</string>
+    <string name="finish">Готово</string>
+    <string name="close">Закрыть</string>
+    <string name="title_google_account">Аккаунт Google</string>
+    <string name="login_username_hint">Google ID</string>
+    <string name="login_password_hint">Пароль</string>
+    <string name="sign_in">Войдите</string>
+    <string name="description">"Чтобы разблокировать, вход
+с вашей учетной записью Google."</string>
+    <string name="progress_title">Разблокировка учетной записи</string>
+    <string name="progress_msg">Проверка...</string>
+    <string name="fingerscan_help">Советы</string>
+    <string name="fingerscan_register">Зарегистрировать отпечатки пальцев</string>
+    <string name="fingerscan_backup_lock">Вторичный метод</string>
+    <string name="count">st</string>
+    <string name="count2">nd</string>
+    <string name="count3">rd</string>
+    <string name="count4">th</string>
+    <string name="count5">th</string>
+    <string name="txt_verify_before">Проведите зарегистрированный отпечаток пальца на датчике</string>
+    <string name="txt_verify_before_sub">Проведите пальцем по сканеру отпечатков пальцев вниз по прямой через датчик</string>
+    <string name="txt_verify_5_fail_popup_title">Подтвердите дополнительный метод</string>
+    <string name="txt_verify_5_fail_popup_sub">"Возможность подтвердить, используя вторичный метод, как PIN-код или графический ключ для ситуации когда датчик не может распознать отпечаток пальца.
+Использовать дополнительный метод?"</string>
+    <string name="txt_verify_error_toofast">Провели пальцем слишком быстро.</string>
+    <string name="txt_verify_error_toofast_sub">Пожалуйста, проведите немного медленнее.</string>
+    <string name="txt_verify_error_tooslow">Провели пальцем слишком медленно.</string>
+    <string name="txt_verify_error_tooslow_sub">Пожалуйста проведите пальцем немного быстрее</string>
+    <string name="txt_verify_error_short">Провели слишком мало.</string>
+    <string name="txt_verify_error_short_sub">Пожалуйста проведите дольше</string>
+    <string name="txt_verify_error_skewness">Отпечаток слишком перекошен.</string>
+    <string name="txt_verify_error_skewness_sub">Пожалуйста проведите пальцем прямо</string>
+    <string name="txt_verify_error_align_center">Провели не по центру.</string>
+    <string name="txt_verify_error_align_center_sub">Пожалуйста проведите пальцем в центре датчика.</string>
+    <string name="txt_verify_error_mismatch">Недействительный отпечаток пальца.</string>
+    <string name="txt_verify_error_mismatch_sub">Пожалуйста проведите зарегистрированным пальцем.</string>
+    <string name="txt_verify_error_invalid">Зарегистрированный палец не распознан. Возможно подтвердить с помощью доп. способа. Использовать дополнительный метод?</string>
+    <string name="txt_is_running_service">"Проверка отпечатка...
+Пожалуйста, попробуйте еще раз, когда значок отпечатков пальцев исчезнет на индикаторе."</string>
+    <string name="connected_dialog_title">Зарядка аккумуляторной батареи при распознавания отпечатков пальцев</string>
+    <string name="connected_dialog_msg">Возможность улучшения распознавания при удалении зарядное устройство в случае датчик не может распознать ваших отпечатков пальцев.</string>
+    <string name="popup_register_fail_title">Регистрация отпечатков пальцев снова</string>
+    <string name="popup_register_fail_message">Пожалуйста, зарегистрируйтесь пальцев снова для правильного отпечатка пальца.</string>
+    <string name="popup_register_fail_invalid_msg">Отпечаток пальца не поддерживается. Зарегистрируйте отпечаток снова для правильной идентификации.</string>
+    <string name="popup_new_register_title">Новая регистрация отпечатков пальцев</string>
+    <string name="popup_new_register_message">"Нужно зарегистрировать новый отпечаток пальца, зарегистрированный отпечатков пальцев не признается.
+Пожалуйста, зарегистрируйтесь новый отпечаток для использования отпечатка пальца позволило приложение."</string>
+    <string name="popup_new_register_invalid_msg">"Нужно зарегистрировать новый отпечаток , зарегистрированный отпечаток файла не поддерживается.
+Пожалуйста, зарегистрируйте новый отпечаток для использования отпечатков включена безопасность приложения."</string>
+    <string name="txt_register_try_scan">Проведите пальцем для регистрации</string>
+    <string name="txt_register_try_scan_sub">"Проведите пальцем центр считыватель отпечатков пальцев вниз по прямой 
+через датчик
+Проведите чтобы зарегистрироваться крайней мере 4 раза."</string>
+    <string name="txt_register_try_scan_success_title">Отпечаток пальца был успешно признан.</string>
+    <string name="txt_register_try_scan_success_sub">Выбрать другой метод для ситуации когда датчик не может распознать отпечатки пальцев.</string>
+    <string name="txt_improve_recognition_rate">"Проведите зарегистрированным отпечатком пальцев 
+чтобы повысить качество распознавания"</string>
+    <string name="txt_improve_recognition_rate_sub">"Проведите  пальцем прямо по датчику
+Проведите чтобы повысить качество распознавания не менее 4 раз"</string>
+    <string name="ragister_connected_usb_dialog_msg">состоянии улучшить скорость распознавания при удалении зарядное устройство</string>
+    <string name="txt_backup_lock_sub">Выберите другой метод как ПИН-код или граф ключ для ситуации, датчик является неспособным признать отпечаток пальца.</string>
+    <string name="txt_backup_lock_pattern_title">Графический ключ</string>
+    <string name="txt_backup_lock_pattern_">Разблокировка, рисуя графический ключ</string>
+    <string name="txt_backup_lock_pin_title">ПИН-код</string>
+    <string name="txt_backup_lock_pin_sub">Разблокировка путем ввода 4-значного номера</string>
+    <string name="txt_backup_lock_password_title">Пароль</string>
+    <string name="txt_backup_lock_password_sub">Разблокировать путем ввода букв и цифр</string>
+    <string name="popup_register_success_title">Отпечаток пальца зарегистрирован</string>
+    <string name="popup_register_success_msg">Позволяет использовать секретные функции Веги</string>
+    <string name="popup_register_success_secret_btn">Включить секретный режим</string>
+    <string name="popup_register_success_txt_top">Защитить содержимое безопасно!</string>
+    <string name="popup_register_success_txt_bottom">Тайно сохранить вашу личную жизнь!</string>
+    <string name="popup_register_success_message_set_keyguard">Отпечаток пальца зарегистрирован успешно.</string>
+    <string name="popup_register_success_message_title">Отпечаток пальца зарегистрирован успешно.</string>
+    <string name="popup_register_success_message_sub">Вы можете использовать отпечатки пальцев для настройки параметров безопасности и блокировки экрана.</string>
+    <string name="popup_register_success_lock_btn">Настройки блокировки экрана</string>
+    <string name="popup_register_success_ok_btn">Сделанный</string>
+    <string name="popup_register_cancel_title">Отмена регистрации отпечатков пальцев</string>
+    <string name="popup_register_cancel_message">"Нужно сохранить дополнительный метод для регистрации отпечатков пальцев.
+Вы уверены, что хотите прервать регистрацию отпечатков пальцев?"</string>
+    <string name="popup_register_cancel_message_2">Вы действительно хотите остановить регистрацию отпечатков пальцев?</string>
+    <string name="toast_success_lockscreen">Распознавание отпечатков пальцев установить для экрана блокировки.</string>
+    <string name="popup_fingerprint_options">Параметры считывателя отпечатков пальцев</string>
+    <string name="popup_improve_recognition_rate_title">Улучшить скорость распознавания</string>
+    <string name="popup_improve_recognition_rate_sub">"Улучшить показатель признания путем регистрации уже зарегистрированных отпечатков пальцев несколько раз.
+Теперь у вас есть %1$dвозможностей в запасе."</string>
+    <string name="popup_max_recognition_rate_sub">"У вас нет больше шансов регистрации.
+Зарегистрировать новый отпечатков пальцев для случая, если датчик не может распознать ваших отпечатков пальцев."</string>
+    <string name="popup_max_recognition_rate_btn">Регистрация новых отпечатков пальцев</string>
+    <string name="title_tab">ㆍ</string>
+    <string name="toast_remove">Отпечатки пальцев удаленны</string>
+    <string name="popup_remove_title">Удаление отпечатков пальцев</string>
+    <string name="popup_remove_sub">"При удалении отпечатков пальцев,  приложения разблокироваются.
+Вы уверены, что хотите удалить отпечатки пальцев?"</string>
+    <string name="popup_remove_lock_sub">Ниже приложений защищены отпечатком пальца. Удалите отпечаток пальца после изменяющихся параметров настройки безопасности.</string>
+    <string name="popup_remove_an_app"> Обеспечивается отпечатком пальцев. Удалить отпечатки пальцев после изменения настроек безопасности.</string>
+    <string name="popup_remove_msg">Секретные функции обеспечивается отпечатком пальцев. Удалить отпечаток после отмены регистрации секретный компонент.</string>
+    <string name="toast_change_backuplock">Метод блокировки изменился</string>
+    <string name="txt_register_mismatch">Нет совпадений с предыдущим отпечатком пальцев.</string>
+    <string name="txt_register_mismatch_sub">Пожалуйста, проведите снова.</string>
+    <string name="txt_register_fail">Отпечатки пальцев не зарегистрированы.</string>
+    <string name="txt_register_fail_sub">Пожалуйста, попробуйте еще раз.</string>
+    <string name="vpn_auth_error_dialog_msg">Аккаунт Google или введенный вами пароль — неправильный.</string>
+    <string name="confirm_pattern_title">Графический ключ</string>
+    <string name="confirm_pattern_msg">Забыли графический ключ? Вы хотите разблокировать через аккаунт Google?</string>
+    <string name="confirm_password_title">Пароль</string>
+    <string name="confirm_password_msg">Забыл свой защитный код? Вы хотите разблокировать через аккаунт Google?</string>
+    <string name="custom_preference_description">Если отпечаток не распознается, нажмите кнопку, чтобы использовать другой метод для подтверждения.</string>
+    <string name="fingerscan_dlg_title_before_chooselock_regi">Регистрация отпечатков пальцев</string>
+    <string name="fingerscan_dlg_msg_before_chooselock_regi_pattern">"Вы можете зарегистрировать отпечаток пальца, чтобы разблокировать ваш телефон, а также Граф.ключ.
+Зарегистрировать отпечаток сейчас?"</string>
+    <string name="fingerscan_dlg_msg_before_chooselock_regi_pin">"Вы можете зарегистрировать отпечаток пальца, чтобы разблокировать ваш телефон, а также 4-х значный пароль.
+Зарегистрировать отпечаток сейчас?"</string>
+    <string name="fingerscan_dlg_msg_before_chooselock_regi_password">"Вы можете зарегистрировать отпечаток пальца, чтобы разблокировать ваш телефон, а также ввести буквы и цифры.
+Зарегистрировать отпечаток сейчас?"</string>
+    <string name="fingerscan_dlg_msg_before_chooselock_regi_faceunlock">"Вы можете зарегистрировать отпечаток пальца, чтобы разблокировать ваш телефон, а также признание лица.
+Зарегистрировать отпечаток сейчас?"</string>
+    <string name="fingerscan_dlg_title_after_chooselock_regi">Защищенный с отпечатком пальца</string>
+    <string name="fingerscan_dlg_msgs_after_chooselock_regi_pattern">"Ваш телефон защищен Граф.ключом.
+Вы можете также зарегистрировать отпечаток  чтобы использовать как дополнительный метод для разблокировки телефона.
+Зарегистрировать отпечаток сейчас?"</string>
+    <string name="fingerscan_dlg_msgs_after_chooselock_regi_pin">"Ваш телефон защищен PIN кодом.
+Вы можете также зарегистрировать отпечаток  чтобы использовать как дополнительный метод для разблокировки телефона.
+Зарегистрировать отпечаток сейчас?"</string>
+    <string name="fingerscan_dlg_msgs_after_chooselock_regi_password">"Ваш телефон защищен Паролем.
+Вы можете также зарегистрировать отпечаток  чтобы использовать как дополнительный метод для разблокировки телефона.
+Зарегистрировать отпечаток сейчас?"</string>
+    <string name="bumper_connected_dlg_title">Подключить секретный бокс</string>
+    <string name="bumper_connected_dlg_message_not_enrolled">Позволяет использовать функции и отпечатков пальцев после регистрации отпечатков . Вы хотите зарегистрировать отпечатки пальцев?</string>
+    <string name="bumper_connected_dlg_checkbox">Больше не показывать</string>
+    <string name="bumper_connected_dlg_btn_enrol">Регистрация отпечатков</string>
+    <string name="bumper_connected_dlg_btn_secret_mode_secure_confirm">시크릿 모드 보안 인증</string>
+    <string name="bumper_connected_dlg_btn_secure_settings">추가 보안 설정</string>
+    <string name="bumper_dlg_btn_cancel">Отмена</string>
+    <string name="bumper_disconnected_dlg_title">Удалить секретный бокс</string>
+    <string name="bumper_disconnected_dlg_message">Секретный бокс был удален. Завершена работа секретного режима и отпечатка пальца.</string>
+    <string name="btn_secret_mode_secure">시크릿 모드 보안 인증</string>
+    <string name="fingerscan_dlg_delete">Удалить</string>
+    <string name="icon_title_fingerprint">Распознавание отпечатков</string>
+    <string name="icon_title_secret_mode">Секретный режим</string>
+    <string name="icon_title_secret_box">Секретный бокс</string>
+    <string name="toast_bumper_on">Секретный бокс был создан</string>
+    <string name="toast_bumper_off">Секретный бокс был удален</string>
+</resources>

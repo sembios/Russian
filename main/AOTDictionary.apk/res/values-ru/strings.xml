@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">мини Словарь</string>
+    <string name="title_text">Словарь</string>
+    <string name="no_db">Словарь не найден.</string>
+    <string name="no_result">Нет результатов поиска</string>
+    <string name="error_excute_app">Включить словарь в Системных настройках</string>
+</resources>

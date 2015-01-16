@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_screen_type_entries">
+        <item>Отдельное изображение</item>
+        <item>Папка с изображ.</item>
+    </string-array>
+    <string-array name="pref_screen_folder_order_entries">
+        <item>По имени</item>
+        <item>По дате</item>
+        <item>Случайный</item>
+    </string-array>
+    <string-array name="pref_draw_transition_entries">
+        <item>Нет</item>
+        <item>Слайд</item>
+        <item>Флип</item>
+        <item>Провести</item>
+        <item>Плавный переход</item>
+        <item>Замена</item>
+        <item>Случайный</item>
+    </string-array>
+    <string-array name="pref_folder_duration_entries">
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>12 часов</item>
+        <item>1 день</item>
+        <item>3 дня</item>
+        <item>1 неделя</item>
+    </string-array>
+    <string-array name="category">
+        <item>Внутренняя память</item>
+        <item>SD Карта</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тема VEGA G3</string>
+    <string name="theme_title">Значки G3</string>
+    <string name="dark_text">false</string>
+</resources>

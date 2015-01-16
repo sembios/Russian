@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tempScale">
+        <item>Фаренгейт (°F)</item>
+        <item>Цельсий (°C)</item>
+    </string-array>
+    <string-array name="updateInterval">
+        <item>1 час</item>
+        <item>3 час</item>
+        <item>6 час</item>
+        <item>12 час</item>
+        <item>24 час</item>
+    </string-array>
+    <string-array name="kindOfAdd">
+        <item>Добав. текущее местоположение</item>
+        <item>Добавить город для поиска</item>
+    </string-array>
+    <string-array name="kindOfAdd2">
+        <item>Добавить текущее местоположение</item>
+    </string-array>
+    <string-array name="sdfShortDayOfWeek">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="sdfLongDayOfWeek">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="sdfDayOfWeek">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="month_item">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="month_long_item">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="weatherConditionText">
+        <item>Солнечно</item>
+        <item>В основном солнечно</item>
+        <item>Переменная облачность</item>
+        <item>Порывистый ветер</item>
+        <item>Легкий туман</item>
+        <item>В основном облачно</item>
+        <item>Облачно</item>
+        <item>Пасмурно</item>
+        <item>Пасмурно</item>
+        <item>Туман</item>
+        <item>Туман</item>
+        <item>Сильный дождь</item>
+        <item>Облачно, сильный дождь</item>
+        <item>Переменная облачность, сильный дождь</item>
+        <item>Гроза</item>
+        <item>Облачно, гроза</item>
+        <item>Переменная облачность, гроза</item>
+        <item>Дождь</item>
+        <item>Сильный ветер</item>
+        <item>Облачно, сильный ветер</item>
+        <item>Переменная облачность, сильный ветер</item>
+        <item>Снег</item>
+        <item>Облачно, снег</item>
+        <item>Гололед</item>
+        <item>Мокрый снег</item>
+        <item>Снег с дождем, гололед</item>
+        <item>Жара</item>
+        <item>Мороз</item>
+        <item>Снег с дождем</item>
+        <item>Жара</item>
+        <item>Мороз</item>
+        <item>Ветрено</item>
+        <item>Удалить</item>
+        <item>В основном солнечно</item>
+        <item>Переменная облачность</item>
+        <item>Переменная облачность</item>
+        <item>Туман</item>
+        <item>В основном облачно</item>
+        <item>Переменная облачность, сильный дождь</item>
+        <item>Облачно, сильный дождь</item>
+        <item>Переменная облачность, гроза</item>
+        <item>Облачно, гроза</item>
+        <item>Облачно, сильный ветер</item>
+        <item>Облачно, снег</item>
+    </string-array>
+    <string-array name="DetailedWeatherView_str_day">
+        <item>День</item>
+        <item>Ночь</item>
+    </string-array>
+    <string-array name="DetailedWeatherView_str_lowhigh">
+        <item>(Высок.)</item>
+        <item>(Низк.)</item>
+    </string-array>
+    <string-array name="lifeWeatherConditionText">
+        <item>Мороз</item>
+        <item>Грипп</item>
+        <item>Комары</item>
+        <item>Мигрень</item>
+        <item>Прогулка с собакой</item>
+        <item>Гольф</item>
+        <item>Пеший туризм</item>
+        <item>Наблюдение за звездами</item>
+        <item>Лыжный спорт</item>
+        <item>Отдых на природе</item>
+        <item>Отдых в помещении</item>
+        <item>Катание на велосипедах</item>
+        <item>Пробежка</item>
+        <item>Отдых на пляже</item>
+        <item>Запущено</item>
+        <item>Артрит (днем)</item>
+        <item>Артрит (ночью)</item>
+        <item>Астма</item>
+        <item>Шашлыки</item>
+        <item>Рыбалка</item>
+        <item>Завивка</item>
+        <item>Травосеяние</item>
+        <item>Запуск воздуш. змеев</item>
+        <item>Стрижка газона</item>
+        <item>Концерт под открытым небом</item>
+        <item>Парусный спорт</item>
+        <item>Синус. голов. боль</item>
+        <item>Конькобежный спорт</item>
+        <item>Теннис</item>
+    </string-array>
+    <string-array name="lifeWeatherInfomationText">
+        <item>Мороз</item>
+        <item>Грипп</item>
+        <item>Комары</item>
+        <item>Мигрень</item>
+        <item>Прогулка с собакой</item>
+        <item>Гольф</item>
+        <item>Пеший туризм</item>
+        <item>Наблюдение за звездами</item>
+        <item>Лыжный спорт</item>
+        <item>Отдых на природе</item>
+        <item>Отдых в помещении</item>
+        <item>Катание на велосипедах</item>
+        <item>Пробежка</item>
+        <item>Отдых на пляже</item>
+        <item>Запущено</item>
+        <item>Артрит (днем)</item>
+        <item>Артрит (ночью)</item>
+        <item>Астма</item>
+        <item>Шашлыки</item>
+        <item>Рыбалка</item>
+        <item>Завивка</item>
+        <item>Травосеяние</item>
+        <item>Запуск воздуш. змеев</item>
+        <item>Стрижка газона</item>
+        <item>Концерт под открытым небом</item>
+        <item>Парусный спорт</item>
+        <item>Синус. голов. боль</item>
+        <item>Конькобежный спорт</item>
+        <item>Теннис</item>
+    </string-array>
+    <string-array name="lifeWeatherComment">
+        <item>Сегодня существует риск подхватить простуду</item>
+        <item>Сегодня существует риск подхватить грипп</item>
+        <item>Погодные условия способствуют увеличению количества комаров</item>
+        <item>"Сегодня может возникать мигрень или головная боль,
+связанная со сменой погоды"</item>
+        <item>Сегодня хороший день для прогулки с собакой</item>
+        <item>Сегодня хороший день для игры в гольф</item>
+        <item>Сегодня хороший день для пешей прогулки</item>
+        <item>Сегодня хорошая ночь для наблюдения за звездами</item>
+        <item>Сегодня хороший день для того, чтобы покататься на лыжах</item>
+        <item>Сегодня хороший день для отдыха на природе</item>
+        <item>Сегодня хороший день для отдыха в помещении</item>
+        <item>Сегодня хороший день для велосипедной прогулки</item>
+        <item>Сегодня хороший день для небольшой пробежки</item>
+        <item>Сегодня хороший день для отдыха на пляже</item>
+        <item>Сегодня хороший день для пробежки</item>
+        <item>Сегодня могут возникать артритные боли (дневные)</item>
+        <item>Сегодня могут возникать артритные боли (ночные)</item>
+        <item>Сегодня могут возникать приступы астмы, связанные с погодными условиями</item>
+        <item>Сегодня хороший день для шашлыков</item>
+        <item>Сегодня хороший день для рыбалки</item>
+        <item>Завивка подходит для всех типов волос</item>
+        <item>Сегодня хороший день для того, чтобы посеять траву</item>
+        <item>Сегодня хороший день для запуска воздушных змеев</item>
+        <item>Сегодня хороший день для стрижки газона</item>
+        <item>Сегодня хороший день для посещения концерта под открытым небом</item>
+        <item>Сегодня хороший день для прогулки под парусом</item>
+        <item>Сегодня могут возникать приступы синусовой головной боли, связан. с погод. условиями</item>
+        <item>Сегодня хороший день для катания на роликах</item>
+        <item>Сегодня хороший день для игры в теннис</item>
+    </string-array>
+    <string-array name="smartNotiTitle">
+        <item>Ожидается дождь</item>
+        <item>Ожидается гроза</item>
+        <item>Ожидается гроза</item>
+        <item>Ожидается снег</item>
+        <item>Ожидается снег с дождем</item>
+        <item>Ожидается сильный ветер</item>
+        <item>Ожидается мороз</item>
+        <item>Ожидается жара</item>
+    </string-array>
+    <string-array name="smartNotiVibrate">
+        <item>Всегда</item>
+        <item>Только в режиме Без звука</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="smartNotiText">
+        <item>Возможен дождь. Возьмите с собой зонтик.</item>
+        <item>Возможна гроза. Примите это во внимание, отправляясь на природу.</item>
+        <item>Возможна гроза. Возьмите с собой зонтик.</item>
+        <item>Возможен снег. Возьмите с собой зонтик.</item>
+        <item>Возможен снег с дождем. Возьмите с собой зонтик.</item>
+        <item>Возможен сильный ветер. Примите это во внимание, отправляясь на природу.</item>
+        <item>Возможен мороз. Примите это во внимание, отправляясь на природу.</item>
+        <item>Возможна жара. Примите это во внимание, отправляясь на природу.</item>
+    </string-array>
+    <string-array name="EnDayOfWeek">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="developermode_list">
+        <item>См. раздел Вход в режим пользователя</item>
+        <item>Удаление данных</item>
+        <item>Копирование данных</item>
+    </string-array>
+</resources>

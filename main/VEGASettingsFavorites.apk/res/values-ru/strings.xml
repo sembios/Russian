@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">Настройки</string>
+    <string name="settings_favorite">Настройки избранного</string>
+    <string name="selected_item_count_1">"Текущий "</string>
+    <string name="selected_item_count_2">" (Макс 10)"</string>
+    <string name="settings_favorite_guide">Выбранный элемент отображается в избранные</string>
+    <string name="warning_max_count">Максимум 10 шт.</string>
+    <string name="hint_settings">Настройки поиска</string>
+    <string name="toast_complete">Изменены избранные элементы настройки</string>
+    <string name="no_contents">Нет содержимого</string>
+    <string name="apply">Применить</string>
+</resources>

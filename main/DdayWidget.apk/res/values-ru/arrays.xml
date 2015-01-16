@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dday_event_select_types">
+        <item>Добавить в юбилей</item>
+        <item>Добавить новое событие</item>
+    </string-array>
+</resources>

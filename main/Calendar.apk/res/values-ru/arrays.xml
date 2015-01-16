@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Оповещение</item>
+        <item>Эл. почта</item>
+        <item>SMS</item>
+        <item>Сигнал</item>
+    </string-array>
+    <integer-array name="reminder_methods_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 мин</item>
+        <item>1 мин</item>
+        <item>5 мин</item>
+        <item>10 мин</item>
+        <item>15 мин</item>
+        <item>20 мин</item>
+        <item>25 мин</item>
+        <item>30 мин</item>
+        <item>45 мин</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часов</item>
+        <item>24 часов</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+    </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Нет</item>
+        <item>0 мин</item>
+        <item>1 мин</item>
+        <item>5 мин</item>
+        <item>10 мин</item>
+        <item>15 мин</item>
+        <item>20 мин</item>
+        <item>25 мин</item>
+        <item>30 мин</item>
+        <item>45 мин</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часов</item>
+        <item>24 часов</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Часовой умолчанию</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_values">
+        <item>-1</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Занят</item>
+        <item>Доступен</item>
+        <item>Предварительный</item>
+    </string-array>
+    <integer-array name="availability_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="visibility">
+        <item>По умолчанию</item>
+        <item>Частный</item>
+        <item>Общественный</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>первый</item>
+        <item>второй</item>
+        <item>третий</item>
+        <item>четвертый</item>
+        <item>последний</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Нет ответа</item>
+        <item>Да</item>
+        <item>Возможно</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Только это события</item>
+        <item>Это и будущие события</item>
+        <item>Все события</item>
+    </string-array>
+    <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Эти &amp; будущие события</item>
+        <item>Все события</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Только это событие</item>
+        <item>Все события в этой серии</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+        <item>Повестка дня</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Только если отказался</item>
+        <item>Если отказался или не ответил</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_values">
+        <item>declined</item>
+        <item>not_responded</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ПОВТОР ЕЖЕДНЕВНО</item>
+        <item>ПОВТОР ЕЖЕНЕДЕЛЬНО</item>
+        <item>ПОВТОР ЕЖЕМЕСЯЧНО</item>
+        <item>ПОВТОР ЕЖЕГОДНО</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>в каждое первое Воскресенье</item>
+        <item>в каждое второе Воскресенье</item>
+        <item>в каждое третье Воскресенье</item>
+        <item>в каждое четвертое Воскресенье</item>
+        <item>в каждое последнее Воскресенье</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>в каждый первый Понедельник</item>
+        <item>в каждый второй Понедельник</item>
+        <item>в каждый третий Понедельник</item>
+        <item>в каждый четвертый Понедельник</item>
+        <item>в каждый последний Понедельник</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>в каждый первый Вторник</item>
+        <item>в каждый второй Вторник</item>
+        <item>в каждый третий Вторник</item>
+        <item>в каждый четвертый Вторник</item>
+        <item>в каждый последний Вторник</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>в каждую первую Среду</item>
+        <item>в каждую вторую Среду</item>
+        <item>в каждую третью Среду</item>
+        <item>в каждую четвертую Среду</item>
+        <item>в каждую последнюю Среду</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>в каждый первый Четверг</item>
+        <item>в каждый второй Четверг</item>
+        <item>в каждый третий Четверг</item>
+        <item>в каждый четвертый Четверг</item>
+        <item>в каждый последний Четверг</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>в каждую первую Пятницу</item>
+        <item>в каждую вторую Пятницу</item>
+        <item>в каждую третью Пятницу</item>
+        <item>в каждую четвертую Пятницу</item>
+        <item>в каждую последнюю Пятницу</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>в каждую первую Субботу</item>
+        <item>в каждую вторую Субботу</item>
+        <item>в каждую третью Субботу</item>
+        <item>в каждую четвертую Субботу</item>
+        <item>в каждую последнюю Субботу</item>
+    </string-array>
+    <string-array name="smart_cover_calendar_week_of_days">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="preferences_month_view_format_labels">
+        <item>Просмотр события по тексту</item>
+        <item>Просмотр события точкой</item>
+    </string-array>
+    <string-array name="preferences_month_view_format_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="preferences_default_tap_labels">
+        <item>Месяц</item>
+        <item>Неделя</item>
+        <item>День</item>
+        <item>Повестка дня</item>
+    </string-array>
+    <string-array name="preferences_default_tap_values">
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="timezone_rename_ids">
+        <item>Australia/Darwin</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Sydney</item>
+        <item>America/Dawson_Creek</item>
+        <item>America/Regina</item>
+        <item>America/Atikokan</item>
+        <item>America/Blanc-Sablon</item>
+        <item>Pacific/Honolulu</item>
+        <item>America/Adak</item>
+        <item>America/Metlakatla</item>
+        <item>America/Phoenix</item>
+        <item>America/Tijuana</item>
+        <item>America/Ojinaga</item>
+        <item>America/Matamoros</item>
+        <item>America/Hermosillo</item>
+        <item>Africa/Juba</item>
+        <item>America/Kralendijk</item>
+        <item>America/Lower_Princes</item>
+        <item>Europe/Minsk</item>
+        <item>Europe/Kaliningrad</item>
+        <item>America/Porto_Velho</item>
+        <item>America/Belem</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australian Central - NT</item>
+        <item>Australian Central - SA</item>
+        <item>Australian Eastern - QLD</item>
+        <item>Australian Eastern - NSW</item>
+        <item>Mountain Standard - Dawson Creek</item>
+        <item>Central Standard - Saskatchewan</item>
+        <item>Eastern Standard - Atikokan</item>
+        <item>Atlantic Standard - Quebec</item>
+        <item>Hawaii-Aleutian - Hawaii</item>
+        <item>Hawaii-Aleutian - Alaska</item>
+        <item>Pacific Standard - Metlakatla</item>
+        <item>Mountain Standard - Arizona</item>
+        <item>Pacific - Baja California</item>
+        <item>Mountain - Chihuahua</item>
+        <item>Central - Tamaulipas</item>
+        <item>Mountain - Sonora</item>
+        <item>East Africa Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Eastern European Time</item>
+        <item>Kaliningrad Time</item>
+        <item>Amazon - Rondônia</item>
+        <item>Brasilia - Pará</item>
+    </string-array>
+    <string-array name="backup_country_codes">
+        <item>SX</item>
+        <item>BQ</item>
+        <item>CW</item>
+        <item>SS</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Синт-Маартен</item>
+        <item>Карибские</item>
+        <item>Кюрасао</item>
+        <item>Южный Судан</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Запуск на пару минут позже</item>
+        <item>Быть там в течение 10 минут</item>
+        <item>Перейти вперед и начать без меня</item>
+        <item>К сожалению, я не могу. Нам придется перепланировать.</item>
+    </string-array>
+    <string-array name="holiday_solar_ko">
+        <item>Новый год</item>
+        <item>День независимости</item>
+        <item>День защиты детей</item>
+        <item>День памяти</item>
+        <item>День национального освобождения</item>
+        <item>Национальный день Кореи</item>
+        <item>День Hangeul</item>
+        <item>Рождество</item>
+    </string-array>
+    <string-array name="holiday_lunar_ko">
+        <item>Лунный Новый год</item>
+        <item>Лунные Новогодние Праздники</item>
+        <item>День рождения Будды</item>
+        <item>Корейский День благодарения</item>
+        <item>Корейские Праздники Благодарения</item>
+    </string-array>
+    <string-array name="holiday_solar_us">
+        <item>Новый год</item>
+        <item>День рождения Короля Мартина Лютера.</item>
+        <item>День рождения Вашингтона</item>
+        <item>День памяти</item>
+        <item>День Независимости</item>
+        <item>День труда</item>
+        <item>День Колумба</item>
+        <item>День ветеранов</item>
+        <item>День благодарения</item>
+        <item>Рождество</item>
+    </string-array>
+    <string-array name="add_field_items">
+        <item>Часовой пояс</item>
+        <item>Гости</item>
+        <item>Покажите мне, как</item>
+        <item>Конфиденциальность</item>
+    </string-array>
+</resources>

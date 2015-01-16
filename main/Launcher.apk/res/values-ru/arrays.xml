@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_screen_looping_items">
+        <item>Устан. на обоих экранах</item>
+        <item>Устан. только на глав. экране</item>
+        <item>Устан. только на экране прилож.</item>
+    </string-array>
+    <string-array name="home_screen_grid_style_items">
+        <item>Размер 4X5</item>
+        <item>Размер 5X6</item>
+    </string-array>
+    <string-array name="home_settings_icon_label_apply_to">
+        <item>Все на главном экране</item>
+        <item>Только панель</item>
+        <item>Launcher bar только</item>
+    </string-array>
+</resources>

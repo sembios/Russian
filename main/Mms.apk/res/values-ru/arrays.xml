@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Счастливый</item>
+        <item>Грустный</item>
+        <item>Подмигивающий</item>
+        <item>Дразнящая рожица</item>
+        <item>Удивленный</item>
+        <item>Поцелуй</item>
+        <item>Крик</item>
+        <item>Крутой</item>
+        <item>Деньги</item>
+        <item>Мне неловко</item>
+        <item>Смущенный</item>
+        <item>Ангел</item>
+        <item>Сомневающийся</item>
+        <item>Плачущий</item>
+        <item>Ничего не скажу</item>
+        <item>Смех</item>
+        <item>Озадаченный</item>
+    </string-array>
+    <string-array name="array_week">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="popup_menu_alert_setting_in_call">
+        <item>Без звука</item>
+        <item>Низкий уров. громкости</item>
+        <item>Вибрация</item>
+    </string-array>
+    <string-array name="popup_menu_alert_setting">
+        <item>Без звука</item>
+        <item>1 раз</item>
+        <item>Напоминания</item>
+    </string-array>
+    <string-array name="chetting_style">
+        <item>Основной стиль</item>
+        <item>Причудливый характер стиль</item>
+        <item>Стиль дневника</item>
+    </string-array>
+    <string-array name="popup_menu_pattern_setting">
+        <item>Выбрать в галерее</item>
+        <item>Образец 1</item>
+        <item>Образец 2</item>
+        <item>Образец 3</item>
+        <item>Образец 4</item>
+        <item>Образец 5</item>
+        <item>Образец 6</item>
+        <item>Образец 7</item>
+        <item>Образец 8</item>
+    </string-array>
+    <string-array name="msg_lock_menu_setting">
+        <item>Нет</item>
+        <item>Граф.ключ</item>
+        <item>Пароль</item>
+        <item>Отпечаток</item>
+    </string-array>
+    <string-array name="msg_lock_menu_setting_except_fingerscan">
+        <item>Нет</item>
+        <item>Граф.ключ</item>
+        <item>Пароль</item>
+    </string-array>
+    <string-array name="auto_retrieval_setting">
+        <item>Автополучение в домашней сети</item>
+        <item>Получение вручную</item>
+        <item>Автополучение</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Все</item>
+        <item>Содержимое</item>
+        <item>Адрес</item>
+    </string-array>
+    <string-array name="popup_menu_move_in_thread">
+        <item>Переместить в папку \"Сохраненные\"</item>
+        <item>Переместить на SIM-карту</item>
+        <item>Копировать на SIM-карту</item>
+    </string-array>
+    <string-array name="popup_menu_move_in_perm">
+        <item>Переместить в диалоговое окно</item>
+        <item>Переместить на SIM-карту</item>
+        <item>Копировать на SIM-карту</item>
+    </string-array>
+    <string-array name="popup_menu_save_in_usim">
+        <item>Переместить в диалоговое окно</item>
+        <item>Копировать в диалоговое окно</item>
+        <item>Переместить в папку Сохраненные</item>
+    </string-array>
+    <string-array name="popup_menu_register_spam">
+        <item>Зарег.номер как нежел.</item>
+        <item>Зарег.слово как нежел.</item>
+    </string-array>
+    <string-array name="link_popup_menu_web_url">
+        <item>Сохранить URL-адрес</item>
+        <item>Перейти по URL</item>
+        <item>Копировать текст</item>
+    </string-array>
+    <string-array name="link_popup_menu_email">
+        <item>Сохранить сообщение эл. почты</item>
+        <item>Отправить сообщение эл. почты</item>
+        <item>Копировать текст</item>
+    </string-array>
+    <string-array name="link_popup_menu_phone">
+        <item>Голосовой вызов</item>
+        <item>Отправить сообщение</item>
+        <item>Сохранить контакт</item>
+        <item>Копировать текст</item>
+    </string-array>
+    <string-array name="link_popup_menu_schedual">
+        <item>Посмотреть календарь</item>
+        <item>Копировать текст</item>
+    </string-array>
+    <string-array name="email_domain">
+        <item>hanmail.net</item>
+        <item>gmail.com</item>
+        <item>hotmail.com</item>
+        <item>naver.com</item>
+        <item>nate.com</item>
+        <item>empal.com</item>
+        <item>yahoo.com</item>
+        <item>daum.net</item>
+        <item>dreamwiz.com</item>
+        <item>outlook.com</item>
+        <item>lycos.com</item>
+        <item>freecal.com</item>
+        <item>korea.com</item>
+    </string-array>
+    <string-array name="local_voice_call_commands">
+        <item>전화걸기</item>
+        <item>통화하기</item>
+        <item>통화연결</item>
+    </string-array>
+    <string-array name="spam_num_filtering_conditions">
+        <item>Точно так же</item>
+        <item>Начинается с</item>
+        <item>Заканчивается на</item>
+        <item>Включая</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 сек.</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
+        <item>10 сек.</item>
+        <item>Другая…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в режиме Без звука</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>всегда</item>
+        <item>бесшумный</item>
+        <item>никогда</item>
+    </string-array>
+</resources>

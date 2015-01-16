@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_auto_update_names">
+        <item>@string/hour_1</item>
+        <item>@string/hour_3</item>
+        <item>@string/hour_6</item>
+        <item>@string/hour_12</item>
+    </string-array>
+    <string-array name="weather_setting_choices">
+        <item>параметры периода обновления</item>
+        <item>станд. параметры прогноза погоды</item>
+    </string-array>
+    <string-array name="weather_setting_default">
+        <item>безоблачный день</item>
+        <item>безоблачная ночь</item>
+        <item>облачный день</item>
+        <item>облачная ночь</item>
+        <item>дождь</item>
+        <item>снег</item>
+        <item>гроза</item>
+    </string-array>
+</resources>

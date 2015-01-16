@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Медиа обложка</string>
+    <string name="hello_world">Здравствуй мир!</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="title_activity_media_pannel">Медиа обложка</string>
+    <string name="mainpannel_toptitle_earphone">Медиа обложка</string>
+    <string name="mainpannel_checkshow_text">Всегда вкл, когда подключены наушники.</string>
+    <string name="mainpannel_shortcut_earphone">Соответствующий ярлык</string>
+    <string name="mainpannel_shortcut_edit">Изменить</string>
+    <string name="mainpannel_shortcut_done">Готово</string>
+    <string name="mainpannel_shortcut_add">ДОБАВИТЬ</string>
+    <string name="mainpannel_shortcut_empty_text">"Связанный с ним ярлык пуст.
+Выберите кнопку Изменить , чтобы добавить ярлык."</string>
+    <string name="mainpannel_shortcut_no_apps">Результаты не найдены.</string>
+    <string name="mainpannel_shortcut_search">Поиск</string>
+    <string name="mainpannel_shortcut_loading">Загрузка...</string>
+    <string name="mainpannel_shortcut_normal_mode">Стандартный режим</string>
+    <string name="mainpannel_shortcut_search_hint">Поиск приложений</string>
+</resources>

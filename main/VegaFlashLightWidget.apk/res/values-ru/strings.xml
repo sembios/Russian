@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Виджет вспышки</string>
+    <string name="widget_name">Вспышка</string>
+    <string name="Warning_Text">Время работы аккумулятора может сократиться при использовании вспышки</string>
+    <string name="error">не удалось открыть виджет вспышки. Повторите попытку.</string>
+    <string name="battery_low">Из-за низкого заряда аккумулятора вспышку будет закрыто.</string>
+    <string name="battery_low_for_entry">не удалось открыть виджет вспышки из-за низкого заряда аккумулятора.</string>
+    <string name="error_disable_camera">Нельзя использовать виджет вспышки из-за ограничения использ. камеры.</string>
+    <string name="error_app_crash">Закройте другое приложение камеры и повторите попытку.</string>
+    <string name="widget_name_1">Фонарик1</string>
+    <string name="widget_name_2">Фонарик2</string>
+</resources>

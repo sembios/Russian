@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SUPPORTED_GALLERY_STYLE">TRUE</string>
+    <string name="IS_FOTA_ENABLE">FALSE</string>
+    <string name="DIARY_VERSION">0</string>
+    <string name="MEMORIAL_VERSION">0</string>
+    <string name="SCHEDULE_VERSION">4</string>
+    <string name="IS_INTERNAL_SD_ENABLE">TRUE</string>
+    <string name="IS_EXTERNAL_SD_ENABLE">TRUE</string>
+    <string name="USB_FILE_TRANSFER_MAX_SIZE">7168</string>
+    <string name="WIFI_FILE_TRANSFER_MAX_SIZE">20480</string>
+    <string name="PHOTO_FUNC_VER">0</string>
+    <string name="SMS_MULTI_SEND">TRUE</string>
+    <string name="MEMO_VERSION">4</string>
+    <string name="DIALOG_STYLE">1</string>
+    <string name="WIDGET_STYLE">2</string>
+    <string name="SMS_SENDER_EDITABLE">FALSE</string>
+    <string name="CONTACT_PHOTO_VERSION">1</string>
+    <string name="SMS_MAX_DONBO_COUNT">30</string>
+    <string name="SMS_STRING_TYPE">0</string>
+    <string name="SNS_FILED">1</string>
+    <string name="SMS_SENDER_VERSION">1</string>
+    <string name="title_app_name">Диспетчер данных</string>
+    <string name="activity_dm_connection">Диспетчер данных Подключение</string>
+    <string name="notification_dm_connect">Диспетчер данных Подключение</string>
+    <string name="notification_dm_connected">Диспетчер данных Подключен</string>
+    <string name="notification_dm_disconnect">Нажмите, чтобы отключить Диспетчер данных</string>
+    <string name="dialog_title_disconnect">Отключить</string>
+    <string name="dialog_title_check_connectivity">Проверьте подключение</string>
+    <string name="dialog_bt_negative">Отмена</string>
+    <string name="dialog_bt_positive">OK</string>
+    <string name="dialog_message_disconnect">"Вы хотите отключить Диспетчер данных?
+Диспетчер данных будет закрыт, если вы отключите."</string>
+    <string name="dialog_message_dm_connection_fail">Ошибка подключения к Диспетчеру данных. После закрытия этого окна нажмите кнопку Подключить в Диспетчере данных.</string>
+    <string name="dialog_message_dm_abort_connection">"Ошибка подключения. 
+Пожалуйста, переподключите Диспетчер данных."</string>
+    <string name="toast_dm_fota_close">"Диспетчер данных остановлнен, потому что 
+синхронизация была выключена"</string>
+</resources>

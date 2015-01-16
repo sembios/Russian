@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CCDAppService</string>
+    <string name="popup_title">Быстрая загрузка</string>
+    <string name="popup_ok">OK</string>
+    <string name="popup_message_description1">Использование мобильной сети и Wi-Fi вместе для загрузки больших файлов быстрее. Активируйте когда мобильная сеть и Wi-Fi включены.</string>
+    <string name="popup_message_description1_highlight">Эта опция может взимать дополнительную оплату.</string>
+    <string name="popup_message_description2">Быстрая загрузка Используя как сеть LTE и Wi-Fi, возможность загружать более быстрыми темпами. Возможно изменить установленное значение. Для того чтобы быстро скачать Wi-Fi и мобильная сеть должны быть включены.</string>
+    <string name="popup_message_description2_highlight">Эта опция может взимать дополнительную оплату.</string>
+    <string name="popup_message_description2_donotshoww">Больше не показывать</string>
+    <string name="popup_download">Загрузка...</string>
+    <string name="toast_message_not_available_contents">Потому что высокоскоростная загрузка не поддерживается сервером, она преобразуется в скорость при нормальной загрузке.</string>
+    <string name="toast_message_stop_lte">Потому что путь LTE сеть приостановлена, она будет преобразована в нормальною загрузку.</string>
+    <string name="toast_message_download_complete">Быстрая загрузка завершена</string>
+    <string name="toast_message_download_stop">Быстрая загрузка остановлена</string>
+    <string name="btn_stop_lte">LTE пауза</string>
+    <string name="btn_show_help">ПОМОЩЬ</string>
+</resources>

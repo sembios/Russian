@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Распознавание отпечатков пальцев</string>
+    <string name="fingerscan_settings">Отпечаток пальца</string>
+    <string name="title_fingerscan">Распознавание отпечатков пальцев</string>
+    <string name="title_fingerscan_add_register">Зарегистрировать больше отпечатков пальцев</string>
+    <string name="title_fingerscan_reset">Сброс отпечатков пальцев</string>
+    <string name="title_fingerscan_sound">Звук для распознавание отпечатков пальцев</string>
+    <string name="title_fingerscan_help">Помощь</string>
+    <string name="title_fingerscan_register">Регистрация отпечатков пальцев</string>
+    <string name="title_fingerscan_verify">Подтвердите свой отпечаток пальца</string>
+    <string name="title_fingerscan_register_management">Регистрация и управление отпечатков пальцев</string>
+    <string name="title_fingerscan_add_register_new">Макс. два отпечатки пальцев могут быть зарегистрированны , нажмите ниже, чтобы зарегистрироваться, повысить качество распознавания и удаления отпечатков пальцев</string>
+    <string name="title_fingerscan_change_backuplock">Изменение метода входа</string>
+    <string name="summary_fingerscan_change_backuplock">Изменить дополнительный метод, такие как ПИН-код или граф ключ для ситуации когда датчик не может распознать отпечатки пальцев</string>
+    <string name="summary_fingerscan_register">Проведите пальцем через датчик на задней стороне для регистрации ваших отпечатков пальцев.</string>
+    <string name="summary_fingerscan_add_register">%1$d Отпечатков пальцев в использовании, %2$d добавить больше отпечатков пальцев</string>
+    <string name="summary_fingerscan_reset">Зарегистрировать новые отпечатки пальцев после сброса</string>
+    <string name="btn_fingerscan_ok">ДА</string>
+    <string name="not_addRegister_message">"Невозможно добавить больше отпечатков пальцев. (Макс. 10 отпечатков пальцев)
+Вы можете зарегистрировать новый отпечаток пальца после сброса"</string>
+    <string name="finger_scan_description_title">Зарегистрировать отпечатки пальцев для контроля безопасности легко и безопасно!</string>
+    <string name="finger_scan_description">Распознавания отпечатков пальцев — это функция, которая использует отпечатков пальцев для защиты персональных данных в вашем телефоне.</string>
+</resources>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Дизайн</string>
+    <string name="deco">Деко редактор</string>
+    <string name="panel_maker">Создать Панель</string>
+    <string name="apps">Выбор приложений</string>
+    <string name="background">Выбор фона</string>
+    <string name="widget_deco">Виджет деко</string>
+    <string name="error_to_show">что-то не так в этой панели. пожалуйста, удалите и сделайте её снова</string>
+    <string name="no_title">no_title</string>
+    <string name="widget_deco_temp">Виджет температуры деко</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="close">Закрыть</string>
+    <string name="db_creator">Панель Db Creator</string>
+    <string name="editor_preview">Панель пред. просмотра</string>
+    <string name="editor_background">Панель Заставки</string>
+    <string name="editor_decor">Панель Оформления</string>
+    <string name="editor_launch">Панель Запуска</string>
+    <string name="editor_grid">Панель Сетка</string>
+    <string name="tab_color">Цвет</string>
+    <string name="tab_image">Картинки</string>
+    <string name="tab_gallery">Галерея</string>
+    <string name="tab_frame">Рамки</string>
+    <string name="tab_sticker">Наклейки</string>
+    <string name="tab_text">Текст</string>
+    <string name="tab_shape">Формы</string>
+    <string name="tab_Icon">Иконки</string>
+    <string name="list_application">Панель списка приложений</string>
+    <string name="list_folder">Панель списка папок</string>
+    <string name="list_shortcut">Панель быстрого доступа</string>
+    <string name="widget_description">Для редактирования, нажмите и удерживайте иконку, перетащите панели таблицы для редактирования в верхнюю часть</string>
+    <string name="widget_data_cleared">"Панель недоступна.
+ Коснитесь и удерживайте, чтобы удалить."</string>
+    <string name="widget_weather_loading">Загрузка...</string>
+    <string name="widget_weather_no_data">Нет данных</string>
+    <string name="panelmaker_save">Сохранить</string>
+    <string name="panelmaker_cancel">Отмена</string>
+    <string name="panelmaker_merge">Соеденить</string>
+    <string name="panelmaker_resplit">Разделить</string>
+    <string name="panelmaker_actionbar_title">Новая сетка</string>
+    <string name="panelmaker_toast_save_same_grid">Такой же вид сетки уже существует.</string>
+    <string name="panelmaker_toast_unsplit_cell">Эта ячейка не может быть разделена.</string>
+    <string name="panelmaker_toast_no_merged_cell">Только объединенные ячейки может быть повторно разделены.</string>
+    <string name="panelmaker_toast_tips">Перетащите, чтобы объединить ячейки.</string>
+    <string name="panelmaker_edit_dialog_text">При объединении или разделении сетки, все содержимое в редактируемой ячейке будет удалено</string>
+    <string name="panelmaker_edit_dialog_title">Редактировать сетки панели</string>
+    <string name="paneleditor_background_btn">Заставка</string>
+    <string name="paneleditor_decoration_btn">Декорирование</string>
+    <string name="paneleditor_launch_settings_btn">Запуск настроек</string>
+    <string name="paneleditor_confirm_btn_apply">Применить</string>
+    <string name="paneleditor_confirm_btn_save">"Сохранить в
+Мой дизайн"</string>
+    <string name="paneleditor_dialog_apply">Применить изменения?</string>
+    <string name="paneleditor_dialog_save_new">Сохранить в \"Мой дизайн\"?</string>
+    <string name="paneleditor_dialog_clearall_background">Очистить все фоны?</string>
+    <string name="paneleditor_dialog_clearall_deco">Очистить все украшения?</string>
+    <string name="paneleditor_dialog_clearall_launch">Очистить все настройки запуска?</string>
+    <string name="paneleditor_dialog_clearall_preview">Удалить все на этой панели?</string>
+    <string name="paneleditor_restore_noti">Восстановить последнее состояние редактирования?</string>
+    <string name="widget_restore_noti">"Редактирование не сохранено.
+ Нажмите и удерживайте перетащите панель, чтобы изменить значок."</string>
+    <string name="paneleditor_dialog_apply_title">Прим.</string>
+    <string name="paneleditor_dialog_restore_title">Восстановить</string>
+    <string name="paneleditor_dialog_button_no">Отмена</string>
+    <string name="paneleditor_dialog_button_yes">Применить</string>
+    <string name="panel_preview_toast">Выберите вариант сверху чтобы применить или изменить элементы</string>
+    <string name="panel_exceed_toast">Превышено Макс. количество элементов на одной панели.</string>
+    <string name="paneleditor_clone_prohibitted">Увеличьте масштаб, чтобы скопировать элемент.</string>
+    <string name="paneleditor_toast_cell_too_small">Выделенная ячейка слишком мала</string>
+    <string name="paneleditor_dialog_apply_without_save">"Дизайн Главная помещается непосредственно на главном экране без сохранения.
+Продолжить?"</string>
+    <string name="paneleditor_dialog_save_complete">Сохранено</string>
+    <string name="paneleditor_dialog_save_complete_mydesign">Сохранить в Мой дизайн</string>
+    <string name="paneleditor_dialog_save_first_title">Сохранить</string>
+    <string name="paneleditor_dialog_save_first">Эта панель будет сохранена в Мой дизайн</string>
+    <string name="paneleditor_dialog_save_progress">Сохранение...</string>
+    <string name="paneleditor_dialog_checkbox">Больше не показывать</string>
+    <string name="paneleditor_dialog_save_overwirte_body">"Текущий дизайн домашней страницы на главном экране также будет изменен.
+Продолжить?"</string>
+    <string name="paneleditor_dialog_save_ing">"Не удается сохранить Дизайн Главного.
+Подождите, пока не будет завершено и повторите попытку позже."</string>
+    <string name="paneleditor_dialog_save_max">"Не удается сохранить дизайн панели.
+Превышено максимальное число в Моем дизайне.
+Удалите и попробуйте еще раз."</string>
+    <string name="paneleditor_dialog_save_option">Выберите опцию сохранения</string>
+    <string name="paneleditor_dialog_save_as_new">Сохранить как новый</string>
+    <string name="paneleditor_dialog_update_title">Обновление</string>
+    <string name="paneleditor_dialog_update_body">Несовместимое содержание обновлено для работы</string>
+    <string name="paneleditor_dialog_save_title">Сохранить</string>
+    <string name="paneleditor_dialog_save">Сохранить изменения?</string>
+    <string name="paneleditor_dialog_save_overwirte">Переписать изменения?</string>
+    <string name="paneleditor_dialog_notinstalled">"Не удается запустить выбранные функции. 
+Используйте следующие способы для запуска функции.
+* Загрузите это приложение из Play Store или AppsPlay.
+* Сброс функций для запуска в дизайн дома."</string>
+    <string name="paneleditor_dialog_disabled">"‘%s’ отключено.
+Включите приложение и попробуйте еще раз.
+
+* Можно включить приложение в Настройки>Менеджер приложений"</string>
+    <string name="paneleditor_contentDescription_undo">Отменить 1 шаг</string>
+    <string name="paneleditor_contentDescription_redo">Повторить 1 шаг</string>
+    <string name="paneleditor_contentDescription_align">Выровнять выбранный элемент</string>
+    <string name="paneleditor_align">Выровнять</string>
+    <string name="paneleditor_move">Вперед</string>
+    <string name="panellaunch_done">Готово</string>
+    <string name="panellaunch_app_actionbar_title">Выберите приложение</string>
+    <string name="panellaunch_folder_limit_toast">Выбрать до 12 приложений, чтобы добавлять в папку</string>
+    <string name="panellaunch_folder_actionbar_count">" выбранные"</string>
+    <string name="panellaunch_shortcut_actionbar_title">Выберите ярлык для добавления</string>
+    <string name="panellaunch_toast_folder_cnt_zero">0 выбрано.</string>
+    <string name="panellaunch_app_applied">Применение приложений</string>
+    <string name="panellaunch_folder_applied">Применение папки</string>
+    <string name="panellaunch_shortcut_applied">Применение ярлыков</string>
+    <string name="panellaunch_folder_hint">Папка</string>
+    <string name="panellaunch_folder_remove">Удалить папку</string>
+    <string name="panellaunch_folder_remove1">"Все приложения в папке либо удалены или отключены. '"</string>
+    <string name="panellaunch_folder_remove2">"' папка будет удалена."</string>
+    <string name="panellaunch_live_size">2x2</string>
+    <string name="panellaunch_live_size_digital">2x1</string>
+    <string name="panellaunch_live_size_googlesearch">6x1</string>
+    <string name="panellaunch_live_digitalclock">Цифровые Часы</string>
+    <string name="panellaunch_live_analogclock">Аналоговые часы</string>
+    <string name="panellaunch_live_weather">Погода</string>
+    <string name="panellaunch_live_calendar">Календарь</string>
+    <string name="panellaunch_live_googlesearch">Google Поиск</string>
+    <string name="panellaunch_menu_title">Настройки запуска</string>
+    <string name="panellaunch_menu_subtitle">Выберите функцию для запуска</string>
+    <string name="panellaunch_tab_name">Имя</string>
+    <string name="panellaunch_tab_none">Нет</string>
+    <string name="panellaunch_tab_change_icon_skt">Мои иконки</string>
+    <string name="panellaunch_tab_change_icon_others">V иконки</string>
+    <string name="panellaunch_tab_edit_folder">Изменить папку</string>
+    <string name="panellaunch_label_display">Выберите пустую ячейку, чтобы установить</string>
+    <string name="panellaunch_label_display2">"Иконки показать набор функций и имена
+ на главном экране"</string>
+    <string name="panellaunch_widget_area">"Площадь
+Виджета"</string>
+    <string name="panellaunch_widget_area_dialog_title">Добавить виджет</string>
+    <string name="panellaunch_widget_area_dialog_content">"Украсьте дизайн дома виджетами.
+Добавить виджеты только в ячейки без возможности запуска."</string>
+    <string name="panellaunch_widget_area_dialog_default">Больше не показывать</string>
+    <string name="panellaunch_widget_overwrap_dialog">"Эта ячейка содержит виджет. Все виджеты в этой ячейке будут удалены, если вы установите другие параметры запуска.
+Продолжить?"</string>
+    <string name="rename_action">OK</string>
+    <string name="cancel_action">Отмена</string>
+    <string name="rename_folder_label">Имя папки</string>
+    <string name="folder_name_filter_alert">Невозможно использовать в качестве имени папки</string>
+    <string name="folder_name_filter_replace_alert">Неверный символ удален</string>
+    <string name="text_option_sample">A</string>
+    <string name="insert_text">Введите текст</string>
+    <string name="outline_btn_fill">Полный</string>
+    <string name="outline_btn_outline">Контур</string>
+    <string name="text_preset_name_0">Модерн</string>
+    <string name="text_preset_name_1">Звезда конфет</string>
+    <string name="text_preset_name_2">Благородный фиолетовый</string>
+    <string name="text_preset_name_3">Вечнозеленый</string>
+    <string name="text_preset_name_4">Газета</string>
+    <string name="text_preset_name_5">Воспоминания</string>
+    <string name="menu_clear_all">Очистить все</string>
+    <string name="menu_tips">Советы</string>
+    <string name="menu_link">Как использовать дизайн</string>
+    <string name="menu_application">"Приложение                                     "</string>
+    <string name="menu_folder">Папка</string>
+    <string name="menu_livesticker">Живые обои</string>
+    <string name="menu_shorcut">Ярлык</string>
+    <string name="create_my_sticker">Мои обои</string>
+    <string name="create_my_icon">Мои иконки</string>
+    <string name="no_frame">Без рамки</string>
+    <string name="go_to_gallery">Галерея</string>
+    <string name="no_image">Нет изображений</string>
+    <string name="no_contents_gallery">Нет изображений в галерее.</string>
+    <string name="link_dialog_title">Использование данных</string>
+    <string name="link_dialog_main">"Как использовать Дизайн учебник использует Интернет-браузер.
+Если телефон подключен к сети передачи данных, может возникнуть дополнительные расходы.
+
+Продолжить?"</string>
+    <string name="no_empty_page_dialog">"Домашний экран полный.
+Сначала сохраните панели или по крайней мере имейте один пустой  экран для импорта дизайн дома."</string>
+    <string name="cling_button_ok">OK</string>
+    <string name="cling_button_next">Далее</string>
+    <string name="cling_button_back">Назад</string>
+    <string name="cling_editor_main_01">Выберите вариант, который вы хотите применить</string>
+    <string name="cling_editor_main_02">Редактировать Дизайн панель</string>
+    <string name="cling_editor_main_03">Вы можете добавить фотографии или украсить панель с наклейками, фигур и текста.</string>
+    <string name="cling_editor_main_04">Параметры запуска можно задать действие для каждой ячейки.</string>
+    <string name="cling_background_01">Скрыть параметры</string>
+    <string name="cling_background_02">Нажмите на выбранной вкладки, чтобы свести к минимуму.</string>
+    <string name="cling_decor_01_01">Увеличить масштаб и уменьшить масштаб</string>
+    <string name="cling_decor_01_02">Свести пальцы вместе или по отдельности, чтобы увеличивать и уменьшать масштаб.</string>
+    <string name="cling_decor_02_01">Копирование элемента</string>
+    <string name="cling_decor_02_02">Дважды нажмите на элемент для размещения копирования и перетащите в нужную ячейку и вставте.</string>
+    <string name="cling_launch_01">Задайте действие</string>
+    <string name="cling_launch_02">Нажмите кнопку +, чтобы установить живые обои или действие в клетке.</string>
+    <string name="cling_launch_03">Нажмите кнопку X чтобы удалить живые обои или действие в клетке.</string>
+    <string name="gallery">갤러리</string>
+    <string name="camera">카메라</string>
+    <string name="livescreen">라이브 스크린</string>
+    <string name="dmb">DMB</string>
+    <string name="playstore">Play 스토어</string>
+    <string name="setting">설정</string>
+    <string name="weather">날씨</string>
+    <string name="music">뮤직</string>
+    <string name="video">동영상</string>
+    <string name="music_app">뮤직 플레이어</string>
+    <string name="video_app">동영상 플레이어</string>
+    <string name="filemanager">파일 매니저</string>
+    <string name="calculator">계산기</string>
+    <string name="message">메시지</string>
+    <string name="internet">인터넷</string>
+    <string name="contacts">전화부</string>
+    <string name="map">지도</string>
+    <string name="email">이메일</string>
+    <string name="memo">메모</string>
+    <string name="safebox">시크릿 박스</string>
+    <string name="secretmode">시크릿 모드</string>
+    <string name="vnote">V 노트</string>
+    <string name="olleh_wifi">올레 Wifi접속</string>
+    <string name="olleh_market">올레 마켓</string>
+    <string name="uplus_box">U+Box</string>
+    <string name="uplus_store">U+스토어</string>
+    <string name="preset01_str01">Live screen</string>
+    <string name="preset01_str02">나에게 반응하는 라이브 스크린을 설정하세요.</string>
+    <string name="preset01_str03">" НАСЛАЖДАЙТЕСЬ
+ В ЦЕНТРЕ ВНИМАНИЯ"</string>
+    <string name="preset01_str04">AppsPlay</string>
+    <string name="preset01_str05">팬택 고객센터</string>
+    <string name="preset01_str06">사용 설명서</string>
+    <string name="preset02_str01">Музыка</string>
+    <string name="preset02_str02">"Хороший день для музыки.
+Давайте Рок-н-ролл!"</string>
+    <string name="preset02_str03">Погода</string>
+    <string name="preset02_str04">"Какая сегодня
+погода?
+Славный солнечный день."</string>
+    <string name="preset03_str01">МУЗЫКА ИГРАТЬ</string>
+    <string name="preset03_str02">ЧУВСТВУЙТЕ МОЕ СЕРДЦЕ</string>
+    <string name="preset03_str03">МУЗЫКА</string>
+    <string name="preset03_str04">"Хороший день для музыки.
+Давайте Рок-н-ролл!"</string>
+    <string name="preset03_str05">ПОГОДА</string>
+    <string name="preset03_str06">"Какпогодаая сегодня?
+Славный солнечный день."</string>
+    <string name="preset03_str07">КАМЕРА</string>
+    <string name="preset03_str08">"Снимайте сцены вашей
+приятной жизни."</string>
+    <string name="preset04_str01">"인생은 노래하듯
+사랑은 열정적으로"</string>
+    <string name="preset05_str01">청춘은 하나의 예술이다</string>
+    <string name="preset05_str02">오스카 와일드</string>
+    <string name="preset_intro">"이 패널을 길게 눌러 편집 아이콘으로
+ 드래그하면 편집 할 수 있습니다"</string>
+    <string name="export_open_file_manager">Открыть диспетчер файлов</string>
+    <string name="import_file_title">Импорт Дизайн дома</string>
+    <string name="import_file_label">Распаковка...</string>
+    <string name="import_file_fail_invalid_file">Нераспознанный формат</string>
+    <string name="import_file_fail_invalid_version">Неподдерживаемый файл версии</string>
+    <string name="import_file_completed">Импорт</string>
+    <string name="export_file_name">Имя файла</string>
+    <string name="export_file_title">Экспорт файла</string>
+    <string name="export_file_label">Упаковка...</string>
+    <string name="export_file_storage_title">Экспорт файла</string>
+    <string name="export_file_finish_label01">Экспорт</string>
+    <string name="export_file_finish_label02">"Сохранен в:
+%s/Дизайн дома"</string>
+    <string name="export_file_fail_title">Ошибка экспорта</string>
+    <string name="export_file_fail_label">Недостаточно места. Удалите файлы и повторите попытку.</string>
+    <string name="export_file_fail_label_sdcard">Экспорт остановлен. Проверьте карту памяти и повторите попытку.</string>
+    <string name="export_file_toast">\"%s\" Уже существует.</string>
+    <string name="export_file_insert_name">Вставьте имя файла.</string>
+    <string name="file_name_filter_alert">Невозможно использовать в качестве имени файла</string>
+    <string name="file_name_filter_replace_alert">"Имена файлов не могут содержать следующие специальные символы и смайлы
+\\ / : * ? \" &lt; > |"</string>
+    <string name="export_file_edittext_hint">Имя файла</string>
+    <string name="design_file_list_tab_title_vegadesign">VEGA</string>
+    <string name="design_file_list_tab_title_mydesign">Мой дизайн</string>
+    <string name="design_file_list_tab_title_download">Загрузки</string>
+    <string name="design_file_list_menu_delete">Удалить</string>
+    <string name="design_file_list_menu_import_export">Импорт / Экспорт</string>
+    <string name="design_file_list_menu_upload">Загрузите на AppsPlay</string>
+    <string name="design_file_list_import_homescreen">Импорт из главного экрана</string>
+    <string name="design_file_list_import_memory">Импорт из памяти</string>
+    <string name="design_file_list_export_memory">Экспорт в память</string>
+    <string name="design_file_list_grid_button_mydesign">Создание новых</string>
+    <string name="design_file_list_grid_button_download">Загрузка</string>
+    <string name="design_file_list_deleted">Удалить</string>
+    <string name="design_file_list_vega_design_longclick">Невозможно поделиться или удалить панель Веги</string>
+    <string name="design_file_list_delete_label">Удалить действие</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="deselect_all">Отменить все</string>
+    <string name="design_file_list_mydesign_max_body">"Не удается создать новый дизайн дома.
+Превышено максимально количество панелей.
+Удалите, и попробуйте еще раз."</string>
+    <string name="design_file_list_delete_dialog_title">Удалить</string>
+    <string name="design_file_list_delete_dialog_body">Удалить выбранные панели?</string>
+    <string name="design_file_list_options_title">Дизайн дома опции</string>
+    <string name="design_file_list_loading_progress">Загрузка...</string>
+    <string name="design_file_list_upload_max_toast">Выберите до 5 панелей</string>
+    <string name="design_file_list_use_link_title">Использование данных</string>
+    <string name="design_file_list_saving">Сохранение панели. Попробуйте позже.</string>
+    <string name="design_file_list_separator_mydesign">МОЙ ДИЗАЙН</string>
+    <string name="design_file_list_separator_download">ЗАГРУЗКИ</string>
+    <string name="design_file_list_separator_homescreen">ГЛАВНЫЙ ЭКРАН</string>
+    <string name="design_file_list_button_upload">Загрузить</string>
+    <string name="design_file_list_button_delete">Удалить</string>
+    <string name="design_file_list_max_toast">"Превышено максимально количество панелей.
+Выберите до $d панелей."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="overwrite">Переписать</string>
+    <string name="string_import">Импорт</string>
+    <string name="export">Экспорт</string>
+    <string name="storage_internal">Внутренняя память</string>
+    <string name="storage_sdcard">SD карта</string>
+    <string name="input_variables_exceeded">Нет больше ввода</string>
+    <string name="activity_not_found">Недоступный ярлык. Может были удален или обновлен.</string>
+    <string name="font_vega">VEGA</string>
+    <string name="font_vaga_brand">VEGA brand</string>
+    <string name="font_android">Android</string>
+    <string name="font_kwangsu">Kwangsu</string>
+    <string name="font_myungjo">Myungjo</string>
+    <string name="font_sky_blue">Sky blue</string>
+    <string name="font_starry_night">Starry night</string>
+    <string name="font_kwangsu_ppori">Kwangsu ppori</string>
+    <string name="font_good_manner">Good manner</string>
+    <string name="font_sweet_candy">Sweet candy</string>
+    <string name="font_lovely_princess">Lovely princess</string>
+    <string name="font_love_poem">Love poem</string>
+    <string name="font_seoul_hangang">Seoul hangang</string>
+    <string name="font_seoul_namsan">Seoul namsan</string>
+    <string name="create_my_sticker_sub">в Photo Punch</string>
+    <string name="create_my_icon_sub">(Импортировать иконки)</string>
+</resources>

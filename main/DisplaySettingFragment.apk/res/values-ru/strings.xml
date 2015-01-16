@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_pulse_title">Индикатор уведомления</string>
+    <string name="display_settings">Экран</string>
+    <string name="accelerometer_title">Автоповорот экрана</string>
+    <string name="brightness">Яркость</string>
+    <string name="screen_timeout">Тайм-аут экрана</string>
+    <string name="screen_timeout_summary">После %1$s бездействия</string>
+    <string name="wallpaper_settings_title">Обои</string>
+    <string name="automatic_brightness">Авто яркость</string>
+    <string name="title_font_size">Размер шрифта</string>
+    <string name="summary_font_size">%1$s</string>
+    <string name="dialog_title_font_size">Размер шрифта</string>
+    <string name="display_CABC_brightness">Авто настройка изображения</string>
+    <string name="display_CABC_brightness_info">Установит уровень яркости автоматически на изображения</string>
+    <string name="Desc_CABCDisable_SecretView">Невозможно использовать изображения автоматических настроек при запуске Секретного режима</string>
+    <string name="Noti_CABCOFF_SecretView">Будет приостановлено изображения автоматической настройки при запуске Секретного режима</string>
+    <string name="font_settings">Настройка шрифта</string>
+    <string name="font_settings_summary_type">%1$s</string>
+    <string name="font_settings_type">Тип шрифта</string>
+    <string name="font_settings_category_setting">Установка</string>
+    <string name="font_settings_category_preview">Просмотр</string>
+    <string name="display_preview_text">"Что, если я скучаю
+ABCDabcd
+0123456789"</string>
+    <string name="Done">Готово</string>
+    <string name="Cancel">Отмена</string>
+    <string name="wallpaper_settings_title_simple">Обои экрана блокировки</string>
+    <string name="systembar_settings">Тип панели навигации</string>
+    <string name="systembar_skin_settings">Тема панели навигации</string>
+    <string name="screenCapture_settings">Область захвата экрана</string>
+    <string name="screenCapture_dialog_title">Как использовать захвата экрана</string>
+    <string name="screenCapture_dialog_text">Длительно нажмите клавишу включения и клавишу уменьшения громкости в то же время, чтобы сделать снимок экрана.</string>
+    <string name="screenCapture_dialog_left">Клавиша уменьшения громкости</string>
+    <string name="screenCapture_dialog_right">Клавиша включения</string>
+    <string name="screenCapture_all">Захват полного экрана</string>
+    <string name="screenCapture_part">Захват части экрана</string>
+    <string name="screenCapture_dialog_tip_text">"[Захват полного экрана]
+Захват полного экрана, включая строку состояния.
+
+[Захват части экрана]
+Захват части экрана без строки состояния."</string>
+    <string name="first_checkbox">Больше не показывать это сообщение</string>
+    <string name="fixed_default_bar_help_top">Панель навигации будет изменена на базовый тип. Она фиксируется в нижней части экрана.</string>
+    <string name="fixed_slim_bar_help_top">Панель навигации будет изменена на тонкий тип. Она устанавливается в нижней части экрана.</string>
+    <string name="movable_hidden_bar_help_top">Панель навигации будет изменена на формат способный переместить позицию и возможность использовать немного больше экран.</string>
+    <string name="movable_hidden_bar_help_middle">При необходимости панель можно уменьшить или увеличить.</string>
+    <string name="extendable_hidden_bar_help_top">Режим отображения панели навигации будет изменен на кнопочный. Панель будет отображаться в виде небольшой кнопки, которую можно перемещать в нижней части экрана. Этот режим позволяет увеличить рабочую зону экрана.</string>
+    <string name="extendable_hidden_bar_help_middle">Чтобы развернуть панель, достаточно нажать эту кнопку. Чтобы открыть меню, нажмите на него, проведите по экрану, не отрывая пальца, а затем отпустите палец. Также меню можно открыть, нарисовав прямую линию, начиная от кнопки нужного меню.</string>
+    <string name="extendable_hidden_bar_help_middle2">Чтобы переместить панель навигации вправо или влево, нажмите и удерживайте соответствующую кнопку.</string>
+    <string name="help_text_bottom">Запущенные в фоновом режиме программы будут закрыты, а сохраняемое в данный момент содержимое – удалено.</string>
+    <string name="brightness_popup_text">Настройка яркости подсветки экрана.</string>
+    <string name="brightness_popup_text_auto">Настройка яркости посветки экрана в соответствии с условиями освещения.</string>
+    <string name="category_style">СТИЛЬ</string>
+    <string name="category_screen">ЭКРАН</string>
+    <string name="category_etc">ДРУГИЕ</string>
+    <string name="touch_key_timeout">Настройка подсветки клавиш навигации</string>
+    <string name="invalid_font">Неизвестный шрифт</string>
+    <string name="touch_mode_title">Режим касания</string>
+    <string name="touch_mode_support_pen">Добавить касание пера</string>
+    <string name="touch_mode_support_pen_summary">Вы можете добавить режим пера в режим касания</string>
+    <string name="touch_mode_warning_toast">Режим касания преобразуется в обычный режим</string>
+    <string name="sensitive_touch_title">Режим перчатки</string>
+    <string name="sensitive_touch_summary">Использовать при ношении перчаток</string>
+    <string name="sensitive_touch_dialog">"Он готов отреагировать на перчатку.
+В режиме перчатки признание может быть не точным ещё когда.
+
+ •Подключено не подлинное зарядное устройство
+ •Электрическое поле/много электростатического напряжения"</string>
+    <string name="sensitive_touch_when_power_dialog">Касания могут не работать в режиме сенсорный перчатки при зарядке.</string>
+    <string name="sensitive_touch_connect_power_dialog">При зарядке экран может не работать в режиме перчатки. Он превращается в обычный режим.</string>
+    <string name="help_url_dreams" />
+    <string name="screensaver_settings_title">Заставка</string>
+    <string name="screensaver_settings_summary_either_long">При подсоединении к док-станции или зарядке</string>
+    <string name="screensaver_settings_summary_either_short">Также</string>
+    <string name="screensaver_settings_summary_sleep">Во время зарядки</string>
+    <string name="screensaver_settings_summary_dock">Вставлен в док-станцию</string>
+    <string name="screensaver_settings_summary_off">Выкл</string>
+    <string name="screensaver_settings_disabled_prompt">Управлять когда телефон в док-станции и когда спит, заставка включена.</string>
+    <string name="screensaver_settings_when_to_dream">Когда заставка</string>
+    <string name="screensaver_settings_dream_start">Начать сейчас</string>
+    <string name="screensaver_settings_button">Настройки</string>
+    <string name="noti_panel_title">Тема панели уведомлений</string>
+    <string name="double_tap_title">Двойное нажатие на экран вкл/выкл</string>
+    <string name="double_tap_summary">Дважды нажмите центр экрана, чтобы включить экран. Дважды нажмите в строке состояния или пустой области блокировки экрана, чтобы отключить экран</string>
+    <string name="double_tap_on_title">Дважды нажмите чтобы включить экран</string>
+    <string name="double_tap_off_title">Дважды нажмите чтобы отключить экран</string>
+    <string name="double_tap_on_summary">Дважды нажмите на центр экрана, чтобы включить экран</string>
+    <string name="double_tap_off_summary">Дважды нажмите в строке состояния на блокировке экрана чтобы отключить экран</string>
+    <string name="mobile_theme_title">Стиль темы</string>
+    <string name="mobile_theme_summary">Иконки, обои, клавиатура, панель уведомлений, выбрать чтобы изменить стиль</string>
+    <string name="mobile_theme_dlg_vega_home">"Стиль иконок изменится к выбранной теме
+
+Продолжить?"</string>
+    <string name="mobile_theme_dlg_other_home">"Стиль иконок можно применить, когда лаунчер VEGA установлен в качестве экрана по умолчанию.
+
+Вы хотите применить эту тему за исключением иконок?"</string>
+    <string name="mobile_theme_warning_icon_style_custom">Включая лично оформленные иконки</string>
+    <string name="live_noti_title">Живое время</string>
+    <string name="live_noti_summary">Проверка каждый час экрана уведомлений</string>
+    <string name="keep_noti_title">Сохранить эффект уведомлений</string>
+    <string name="live_screen_title">Живой экран</string>
+    <string name="live_noti_time">Время резервирования</string>
+    <string name="reservation_time_always">Всегда</string>
+    <string name="reservation_time_start">От</string>
+    <string name="reservation_time_stop">Для</string>
+    <string name="reservation_time_invalid_time">Время начала и конечное время не могут быть тем же самым</string>
+    <string name="category_active_screen">АКТИВНЫЙ ЭКРАН</string>
+    <string name="auto_wakeup_title">Живой верх</string>
+    <string name="auto_wakeup_summary">Обнаружить ваше движение и показать вам экран уведомлений</string>
+    <string name="auto_wakeup_when_autounlock_on">При закрытии крыши чехла Живой верх будет остановлен</string>
+    <string name="auto_wakeup_color_title">Живой верх цветовой эффект</string>
+    <string name="help_title">Помощь</string>
+    <string name="tips_title">Советы</string>
+    <string name="noti_title">Уведомление</string>
+    <string name="dialog_close">Закрыть</string>
+    <string name="title_item_detail">Тип шрифта</string>
+    <string name="add_font">"Добавить шрифт "</string>
+    <string name="no_download_font_contents">Без содержимого</string>
+    <string name="delete">удалить</string>
+    <string name="global_font_change_title">Изменить размер шрифта</string>
+</resources>

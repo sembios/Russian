@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Настройки видеовызова</string>
+    <string name="setting_title">Настройки видеовызова</string>
+    <string name="setting_alter_title">Маска подсети</string>
+    <string name="setting_audio_title">Установка аудио</string>
+    <string name="setting_call_title">Сбой видеовызова</string>
+    <string name="setting_noti_title">Видеозвонок оповещения</string>
+    <string name="setting_control_title">Управление режимами</string>
+    <string name="setting_chat_save">Автосохранение Чата</string>
+    <string name="setting_chat_box">Видеозвонок в чате окно</string>
+    <string name="setting_storage_all">Скриншот/Чат место хранения</string>
+    <string name="setting_storage_capture">Скриншот место хранения</string>
+    <string name="setting_storage_chatting">Чат-место хранения</string>
+    <string name="gallery_not_found">Галерея не найдена!</string>
+    <string name="cancel">Отмена</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="camera_not_found">Камера не найдена!</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">День Д</string>
+    <string name="no_anniversary_text">Нет юбилеев</string>
+    <string name="dday_event_select_dialog_title">Выберите День Д событие</string>
+    <string name="dday_first_day_option_text">Установить День Д как первый день</string>
+    <string name="action_cancel_text">Отмена</string>
+    <string name="action_done_text">Готово</string>
+    <string name="anniversary_no_title">Без названия</string>
+    <string name="loading">Загрузка...</string>
+    <string name="no_dday_text">События (юбилея) не найдено</string>
+</resources>

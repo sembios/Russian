@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мини Музыка</string>
+    <string name="skyapp_name">Музыка</string>
+    <string name="Confirm">Подтвердить</string>
+    <string name="Cancel">Отмена</string>
+    <string name="durationformatshort">%2$d:%5$02d</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+    <string name="popupNoContentToPlay">Нет треков для воспр.</string>
+    <string name="popupCantOpenDuringCall">Не удается запустить мини-окно во время вызова</string>
+    <string name="mini_music_will_be_ended_when_launching_camera">Мини Музыка будет завершена при запуске камеры</string>
+    <string name="while_the_camera_is_running_mini_music_is_unavailable">В то время как камера работает, мини Музыка недоступна</string>
+    <string name="popupTransactionTooLargeException">Невозможно отобразить список музыки с песнями, включенных в настоящее время, список превысили 2000 песен</string>
+</resources>

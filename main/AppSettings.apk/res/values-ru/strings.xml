@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">По умолчанию диспетчер приложений</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="defaultapp_title">По умолчанию диспетчер приложений</string>
+    <string name="default_apps_title">Настройки приложений</string>
+    <string name="default_reset">Очистить</string>
+    <string name="title_activity_default_apps">Очистить текущие по умолчанию</string>
+    <string name="no_defaultapp">Не по умолчанию</string>
+    <string name="add_category_title">Добавить и изменить</string>
+    <string name="home_title">Домашняя страница</string>
+    <string name="sms_title">SMS</string>
+    <string name="clear_category_title">Очистить</string>
+    <string name="search_title">Поиск</string>
+    <string name="browser_title">Браузер</string>
+    <string name="email_title">Почта</string>
+    <string name="media_title">Мультимедиа</string>
+    <string name="dial_title">Набор</string>
+    <string name="etc_title">ЕЩЁ</string>
+    <string name="sb_str_delete">Удалить</string>
+    <string name="sb_str_item_selected">%d выбран</string>
+    <string name="sb_str_select_all">Выбрать все</string>
+    <string name="sb_str_deselect_all">Удалить все</string>
+    <string name="sb_str_uninstalled">Удаление завершено</string>
+    <string name="str_uninstalled">Удалить приложение</string>
+    <string name="str_yes">OK</string>
+    <string name="str_cancel">Отмена</string>
+    <string name="str_done">Готово</string>
+    <string name="sms_set_title">Изменение по умолчанию SMS прил.</string>
+    <string name="sms_set_msg">Настройки %s по умолчанию приложение SMS вы не сможете использовать спам, секретные функции ВЕГА сообщения. Вы хотите изменить значение SMS по умолчанию?</string>
+    <string name="dialog_desc_to_simple">"Простой режим, специальный режим для легкого использования смартфона.
+Применяя этот режим будет меняться блокировка экрана, домашний экран, экран меню и шрифтов для более легкого использования."</string>
+    <string name="dialog_desc_to_normal">"Стандартный режим для пользователей, знакомых с смартфоном.
+Применяя этот режим будет меняться блокировка экрана, домашний экран, экран меню и шрифты."</string>
+    <string name="str_apply">Применить</string>
+</resources>

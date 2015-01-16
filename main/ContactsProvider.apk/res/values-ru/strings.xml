@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Основные приложения Android</string>
+    <string name="app_label">Хранилище контактов</string>
+    <string name="provider_label">Контакты</string>
+    <string name="upgrade_msg">Обновление базы данных контактов...</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Для обновления контактов нужно больше памяти.</string>
+    <string name="upgrade_out_of_memory_notification_title">Недостаточно места для обновления контактов</string>
+    <string name="upgrade_out_of_memory_notification_text">Нажмите, чтобы завершить обновление.</string>
+    <string name="default_directory">Контакты</string>
+    <string name="local_invisible_directory">Другое</string>
+    <string name="read_write_all_voicemail_label">Доступ к голосовым сообщениям</string>
+    <string name="read_write_all_voicemail_description">Приложение сможет сохранять и загружать все голосовые сообщения, к которым есть доступ на этом устройстве.</string>
+    <string name="voicemail_from_column">"Голосовое сообщение от абонента "</string>
+    <string name="debug_dump_title">Копия базы данных контактов</string>
+    <string name="debug_dump_database_message">Вы собираетесь 1) Сделать копию базы данных, которая включает в себя все контакты и журнал вызовов во внутреннею память и 2) эл. почту. Не забудьте удалить другую копию, как только вы успешно скопировали его на устройство.</string>
+    <string name="debug_dump_delete_button">Удалить сейчас</string>
+    <string name="debug_dump_start_button">Начать</string>
+    <string name="debug_dump_email_sender_picker">Выберите программу, чтобы отправить файл</string>
+    <string name="debug_dump_email_subject">Контакты прикреплены</string>
+    <string name="debug_dump_email_body">Прилагается моя база данных контактов со всеми моими контактами. Обращаться с осторожностью.</string>
+    <string name="full_storage_msg">Недостаточно памяти. Проверьте память и попробуйте еще раз.</string>
+    <string name="full_storage_syncing_msg">Контакты не могут быть синхронизированы из-за недостаточного места для хранения</string>
+    <string name="preload_pantech">pantech</string>
+    <string name="preload_pantech_name">pantech Обслуживание клиентов</string>
+    <string name="preload_pantech_phone">15889111</string>
+    <string name="preload_pantech_website">http://www.pantechservice.co.kr</string>
+    <string name="preload_pantech_note">Смартфон использования и послепродажное обслуживание</string>
+    <string name="preload_pantech_photo">pantech_450.png</string>
+    <string name="preload_olleh">olleh</string>
+    <string name="preload_olleh_name">olleh Обслуживание клиентов</string>
+    <string name="preload_olleh_phone">100</string>
+    <string name="preload_olleh_website">http://m.olleh.com</string>
+    <string name="preload_olleh_note">Телекоммуникационные услуги, дополнительные услуги телекоммуникаций, контакт качества местного звонка</string>
+    <string name="preload_olleh_photo">olleh_450.png</string>
+    <string name="local_phone">телефон</string>
+    <string name="local_group_family_title">Семья</string>
+    <string name="local_group_family_notes">Семья</string>
+    <string name="local_group_friends_title">Друзья</string>
+    <string name="local_group_friends_notes">Друзья</string>
+    <string name="local_group_coworkers_title">Коллеги</string>
+    <string name="local_group_coworkers_notes">Коллеги</string>
+</resources>

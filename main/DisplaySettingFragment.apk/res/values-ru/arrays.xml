@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_timeout_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+    </string-array>
+    <string-array name="screen_timeout_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Маленький</item>
+        <item>Стандартный</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="entryvalues_font_size">
+        <item>0.85</item>
+        <item>1.0</item>
+        <item>1.15</item>
+        <item>1.30</item>
+    </string-array>
+    <string-array name="fonts_type_idx">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="systembar_type_entries">
+        <item>Стандартная панель навигации</item>
+        <item>Масшабируемая панель навигации</item>
+        <item>Перемещаемая панель навигации</item>
+        <item>Компактная панель навигации</item>
+    </string-array>
+    <string-array name="systembar_type_idx">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="systembar_skin_entries">
+        <item>Глубокий черный</item>
+        <item>Черная кожа</item>
+        <item>Насыщенный черный</item>
+        <item>Серый метал</item>
+        <item>Классический белый</item>
+    </string-array>
+    <string-array name="systembar_skin_idx">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="screencapture_type_entries">
+        <item>Создание снимка всего экрана</item>
+        <item>Создание снимка части экрана</item>
+    </string-array>
+    <string-array name="screencapture_type_info_entries">
+        <item>Создание снимка всего экрана, включая строку состояния и панель навигации.</item>
+        <item>Создание снимка части экрана, без строки состояния и панели навигации. Если приложение используется в полноэкранном режиме, будет сделан снимок всего экрана.</item>
+    </string-array>
+    <string-array name="touch_key_timeout_entries">
+        <item>1.5 секунды</item>
+        <item>3 секунды</item>
+        <item>6 секунд</item>
+        <item>Всегда вкл</item>
+        <item>Всегда выкл</item>
+    </string-array>
+    <string-array name="touch_key_timeout_values">
+        <item>1500</item>
+        <item>3000</item>
+        <item>6000</item>
+        <item>999999</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="noti_panel_theme_entries">
+        <item>Тема 1</item>
+        <item>Тема 2</item>
+        <item>Тема 3</item>
+    </string-array>
+    <string-array name="mobile_theme_entries">
+        <item>Уникальная</item>
+        <item>Синее небо</item>
+        <item>Модерн</item>
+    </string-array>
+    <string-array name="touch_mode_title_entries">
+        <item>Обычный режим</item>
+        <item>Режим перчатки</item>
+        <item>Режим пера</item>
+    </string-array>
+    <string-array name="touch_mode_summary_entries">
+        <item>оптимизированный режим для обычного использования</item>
+        <item>оптимизированный режим для использования в перчатках</item>
+        <item>оптимизированный режим для использования пера</item>
+    </string-array>
+    <string-array name="touch_mode_value_entries">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="autowakeup_help_dialog_title_entries">
+        <item>1.1 Живой верх</item>
+        <item>1.2 Живой верх</item>
+        <item>2. Живое время</item>
+        <item>3. Нажать дважды для откл экрана</item>
+    </string-array>
+    <string-array name="autowakeup_help_dialog_message_entries">
+        <item>"Определить ваше движение и показать вам экран уведомления.
+@@DcИспользуйте Живой верх, чтобы проверить свои уведомления!@@Dc"</item>
+        <item>"*Живой верх появится : @@DbЕсли ваш телефон не перемещается некоторое время, лежал в кармане или в сумке.@@Db
+
+*Живой верх не появится : @@Dbкогда ваш телефон лицом вниз,или экран включен и когда вам звонят.@@Db
+
+@@Dc*Живой верх датчик поможет батареи остаться заряженной.@@Dc"</item>
+        <item>Проверять каждый час экран уведомлений.</item>
+        <item>Дважды коснитесь панели уведомлений или на блокировке экрана для отключения экрана.</item>
+    </string-array>
+    <string-array name="font_category">
+        <item>VEGA</item>
+        <item>Добавленный шрифт</item>
+    </string-array>
+    <string-array name="default_font_list">
+        <item>VEGA</item>
+        <item>VEGA brand</item>
+        <item>Android</item>
+        <item>Kwangsu</item>
+        <item>Myungjo</item>
+        <item>Sky blue</item>
+        <item>Starry night</item>
+        <item>Kwangsu ppori</item>
+        <item>Good manner</item>
+        <item>Sweet candy</item>
+        <item>Lovely princess</item>
+        <item>Love poem</item>
+        <item>Seoul hangang</item>
+        <item>Seoul namsan</item>
+    </string-array>
+    <string-array name="add_font_from">
+        <item>"Загрузить с AppsPlay "</item>
+        <item>Импорт установленного приложения</item>
+    </string-array>
+</resources>

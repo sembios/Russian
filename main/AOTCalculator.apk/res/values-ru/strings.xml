@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мини-калькулятор</string>
+    <string name="title_calculator">Калькулятор</string>
+    <string name="POPUP_MAXLEN">Превышение максимального количества цифр</string>
+    <string name="POPUP_OUTMAXLEN">"Приносим извинения.
+- Ошибка переполнения."</string>
+    <string name="POPUP_LIST_FULL">список заполнен</string>
+    <string name="MENU_SAVE">Сохранить</string>
+    <string name="MENU_DELETE">Удалить</string>
+    <string name="MENU_RENAME">Переименовать</string>
+    <string name="MENU_EDIT">Изменить</string>
+    <string name="MENU_LIST">Список</string>
+    <string name="POPUP_INFOMATION">Информация</string>
+    <string name="POPUP_SAVE">Сохранено</string>
+    <string name="POPUP_SAVEQ">Сохранить?</string>
+    <string name="POPUP_DELETED">Удалено</string>
+    <string name="POPUP_DELETING">Удаление...</string>
+    <string name="POPUP_NOTCHECK">Элемент не выбран</string>
+    <string name="POPUP_INVALID_FORMAT">Недопустимый формат</string>
+    <string name="POPUP_CONVERT_FAIL">Сбой преобразования</string>
+    <string name="error_excute_calculator">Включите функцию калькулятора в параметрах системы</string>
+    <string name="EQUAL">Результат</string>
+    <string name="CLEAR">Очистить</string>
+</resources>

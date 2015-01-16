@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фото заставки</string>
+    <string name="table_screensaver_name">Фото Таблица</string>
+    <string name="flipper_screensaver_name">Фото рамка</string>
+    <string name="posts_album_name">Фотографии из постов</string>
+    <string name="unknown_album_name">Безымянный альбом</string>
+    <string name="stock_photo_album_name">Стоковые фото</string>
+    <string name="local_source_name">Фото устройства</string>
+    <string name="need_to_configure">Фотографии не выбраны.</string>
+    <string name="photodream_select_all">Выбрать все</string>
+    <string name="photodream_select_none">Отменить все</string>
+    <string name="no_photos">Нет фотографий на устройстве.</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Дополнительное место хранения контактов</string>
+    <string name="full_storage_msg">Недостаточно места. Проверьте наличие свободного места и повторите попытку.</string>
+</resources>

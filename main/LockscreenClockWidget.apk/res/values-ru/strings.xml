@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+    <string name="abbrev_wday_month_day">EEE, MMMM d yyyy</string>
+    <string name="simple_wday_month_day">EEE, MMMM d</string>
+    <string name="simple_dual_wday_month_day">M.dd (E)</string>
+    <string name="unique_clock_wday_month_day">EEE, MMMM d</string>
+    <string name="app_name">LockscreenClockWidget</string>
+    <string name="cancel">Отменить</string>
+    <string name="save">Сохранить</string>
+    <string name="ok">OK</string>
+    <string name="digital_gadget">Часы2 (Цифровые + пользовательское сообщение)</string>
+    <string name="unique_gadget">Часы1 (Уникальные)</string>
+    <string name="widget_12_hours_format_ampm">aa</string>
+    <string name="widget_12_hours_format">h:mm</string>
+    <string name="widget_12_hours_format_h">h</string>
+    <string name="widget_12_hours_format_no_ampm_m">mm</string>
+    <string name="widget_12_hours_format_m">mm<font size="15">aa</font></string>
+    <string name="widget_24_hours_format_ampm" />
+    <string name="widget_24_hours_format">h:mm</string>
+    <string name="widget_24_hours_format_h">k</string>
+    <string name="widget_24_hours_format_m">mm</string>
+    <string name="widget_setting">Настройки часов</string>
+    <string name="widget_set_align">Выровнять</string>
+    <string name="widget_set_phrase">Пользовательские сообщение</string>
+    <string name="widget_set_phrase_color">Цвет текста</string>
+    <string name="widget_phrase_default">Самая яркая звезда в небе</string>
+    <string name="widget_align_center">Центр</string>
+    <string name="widget_align_left">Левый</string>
+    <string name="widget_align_right">Правый</string>
+    <string name="widget_display_date">Отображение даты</string>
+    <string name="widget_font_type">Тип шрифта</string>
+    <string name="widget_setting_separator_preview">ПРЕД.ПРОСМОТР</string>
+    <string name="widget_setting_separator_details">ДЕТАЛИ</string>
+    <string name="font_settings_summary_type">%1$s</string>
+    <string name="sky_roaming_current">Текущий</string>
+    <string name="sky_roaming_seoul">Корея</string>
+    <string name="simple_roaming_current">Текущий</string>
+    <string name="simple_roaming_seoul">Корея</string>
+    <string name="simple_gadget">Простые часы</string>
+</resources>

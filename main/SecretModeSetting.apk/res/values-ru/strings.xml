@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Секретный Режим</string>
+    <string name="ok">OK</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="close">Закрыть</string>
+    <string name="secret_mode_setting">Секретный Режим</string>
+    <string name="secret_mode_disable">Отменить регистрацию секретного режима</string>
+    <string name="secret_mode_help">Советы</string>
+    <string name="secret_mode_state">Текущий режим — Секретный режим</string>
+    <string name="secret_mode_enable">Включить Секретный режим</string>
+    <string name="registration_help">"Используйте приватный режим с помощью Секретного режима!
+
+ Секретный режим это приватный режим заблокированный только отпечатками пальцев.
+ Скрыть вашу личную информацию с помощью Секретных прил. и контактов."</string>
+    <string name="bumper_use_help">"Секретный кейс требуется для включения секретного режима.
+
+Пожалуйста, приложите секретный кейс.
+
+Когда вы потеряли кейс,
+Пожалуйста, посетите центр обслуживания Pantech."</string>
+    <string name="finger_use_help">"Для использования секретного режима требуется отпечатки пальцев.
+
+Пожалуйста, зарегистрируйте ваш отпечаток."</string>
+    <string name="nomal_mode_help">"Чтобы увидеть настройки, включите Секретный Режим.
+
+ Пожалуйста, войдите в Секретный Режим проведя пальцем."</string>
+    <string name="unlock_secret_hlep">"Вся скрытая информация будет восстановлена.
+
+ Будьте осторожны с вашей скрытой информацией."</string>
+    <string name="secret_mode_intro_sub">Держите вашу частную жизнь в секрете</string>
+    <string name="secret_mode_intro">"СЕКРЕТЫЙ
+РЕЖИМ
+"</string>
+    <string name="secret_contacts">Секретные Контакты</string>
+    <string name="secret_contacts_management">Секретные Контакты Управление</string>
+    <string name="secret_apps">Секретные приложения</string>
+    <string name="secret_apps_management">Управление секретными приложениями</string>
+    <string name="secret_apps_block_noti">Секретные уведомления</string>
+    <string name="secret_apps_block_noti_summary">При включении этой опции, вы можете увидеть уведомления от скрытых приложений только в Секретном Режиме.</string>
+    <string name="secret_apps_block_noti_msg">Когда вы не используете Секретный режим вы не можете увидеть все уведомления от скрытых приложений. Вы хотите использовать Секретные уведомления?</string>
+    <string name="secret_apps_block_noti_msg_off">Если отключить этот параметр,уведомления секретных приложений могут подвергаться воздействию других. Вы действительно хотите отключить?</string>
+    <string name="register_finger_print">Регистрация отпечатков пальцев</string>
+    <string name="wizard_title">Установка секретного режима</string>
+    <string name="wizard_cancel_dialog_title">Отменить регистрацию</string>
+    <string name="wizard_cancel_dialog_detail">Вы хотите отменить регистрацию?</string>
+    <string name="wizard_apps_1_title">Введите секретный режим</string>
+    <string name="wizard_apps_1_detail">Вы можете ввести секретный режим проведя пальцем по нормальной блокировке</string>
+    <string name="wizard_apps_2_title">Войти, используя секретный ключ</string>
+    <string name="wizard_apps_2_detail">"Вы можете ввести секретный режим через секретный ключ.
+
+(V touch - Отключить управления фокусировкой)"</string>
+    <string name="wizard_apps_3_title">Предупреждение о потери секретного кейса</string>
+    <string name="wizard_apps_3_detail">"Без секретного кейса не можете видеть скрытые, которые использовали в секретном режиме.
+Чтобы использовать секретный режим, приложите секретный кейс."</string>
+    <string name="wizard_apps_4_title">Внимание применение пользовательской блокировки экрана и запуска</string>
+    <string name="wizard_apps_4_detail">Запрещенные приложения, запуска, блокировки экрана</string>
+    <string name="wizard_apps_4_1_detail">Пожалуйста, используйте блокировку экрана по умолчанию VEGA или запуск, чтобы нормально использовать секретный режим</string>
+    <string name="wizard_apps_4_2_detail">"● Скачать launcher
+● Скачать Блокировку экрана"</string>
+    <string name="wizard_completion_detail">"Регистрация завершена.
+
+Пожалуйста, нажмите кнопку Далее, чтобы начать настройку."</string>
+    <string name="wizard_apps_title">Установка Секретных Приложений</string>
+    <string name="wizard_apps_help">"Выберите приложения, чтобы скрыть.
+На нормальном режиме, выбранные приложения будут скрыкы с VEGA экрана.
+Даже если некоторые приложения запускаются, вы должны подтвердить ваш отпечаток.
+Вы можете использовать секретные приложения обычно в секретном режиме."</string>
+    <string name="wizard_apps_detail_title">Секретные уведомления</string>
+    <string name="wizard_apps_detail_help">"Это укрепление функции безопасности, чтобы защитить свою личную информацию скрывая все уведомления от скрытых приложений.
+Вы можете видеть их только в секретном режиме.
+Пожалуйста, обратите внимание на инструкции, что вы не сможете видеть уведомления в обычном режиме."</string>
+    <string name="wizard_apps_detail_block_noti">Секретные уведомления</string>
+    <string name="wizard_app_setting">Выберите секретные приложения</string>
+    <string name="wizard_contacts_title">Выберите секретные контакты</string>
+    <string name="wizard_contacts_help">При добавлении контакта в Секретные, Контактная информация, сообщения и вызовы будут скрыты. Скрытые контакты видны только в Секретных контактах.Вы хотите выбрать контакт для секретного?</string>
+    <string name="wizard_setting_contacts">Выберите секретный контакт</string>
+    <string name="wizard_contacts_detail_title">Доп. настройки секретных контактов</string>
+    <string name="wizard_contacts_detail_help">"Вы можете либо блокировать вызовы от Секретных контактов или скрыть имя контактов.
+Вы можете изменить оповещение на значках о пропущенных вызовах и новых сообщениях.
+(Секретные Контакты > Настройка уведомлений)"</string>
+    <string name="wizard_contacts_detail_block_calls">Блокировка вызовов</string>
+    <string name="wizard_contacts_detail_hide_name">Скрыть имя контакта</string>
+    <string name="wizard_setting_completion_title">Настройка завершена</string>
+    <string name="wizard_setting_completion_help">Настройка завершена нажмите кнопку, чтобы ввести секретный режим.</string>
+    <string name="secret_mode_start">Секретный режим включен</string>
+    <string name="secret_mode_home_start">Секретный режим Главного экрана запущен</string>
+    <string name="save_progress_msg">сохранение…</string>
+    <string name="wizard_setting_1_5">Шаг 1 / 5</string>
+    <string name="wizard_setting_2_5">Шаг 2 / 5</string>
+    <string name="wizard_setting_3_5">Шаг 3 / 5</string>
+    <string name="wizard_setting_4_5">Шаг 4 / 5</string>
+    <string name="wizard_setting_5_5">Шаг 5 / 5</string>
+    <string name="wizard_next">Далее</string>
+    <string name="wizard_cancel">Отмена</string>
+    <string name="wizard_back">Назад</string>
+    <string name="wizard_skip">Пропустить</string>
+    <string name="wizard_complete">Готово</string>
+    <string name="unregistration_help">"когда вы отменяете секретный режим, вся скрытая информация будет восстановлена.
+- скрытые приложения
+- скрытые контакты, журналы вызовов, сообщения
+Вся скрытая информация будет восстановлена. Вы хотите отменить Секретный режим?"</string>
+    <string name="unregistration_progress_msg">отмена…</string>
+    <string name="unregistration_completed_msg">Секретный режим отменён и вся информация будет восстановлена. Мы настоятельно рекомендуем использовать пароль или граф.ключ для защиты вашей личной информации.</string>
+    <string name="count_selected">выбрано</string>
+    <string name="auto_registration">Некоторые приложения будут зарегистрированы автоматически для безопасности</string>
+    <string name="over_sixty">Пожалуйста выберите приложения до 60</string>
+    <string name="unregistration">Отключить секретный режим</string>
+    <string name="separate_recommand_title">Рекомендуемые приложения</string>
+    <string name="separate_normal_title">Все приложения</string>
+    <string name="default_name">имя по умолчанию</string>
+    <string name="caution_lost_bumper_title">Предупреждение о потери секретного дела</string>
+    <string name="caution_lost_bumper">Без секретного дела не можете видеть скрытые, которые использовали в секретном режиме.</string>
+    <string name="restore_secret_data">Восстановить скрытую информацию</string>
+</resources>

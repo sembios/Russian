@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_popup_ramusage">
+        <item>Запустить</item>
+        <item>Имя</item>
+        <item>Использование ОЗУ</item>
+    </string-array>
+    <string-array name="sort_popup_datausage">
+        <item>Запустить</item>
+        <item>Имя</item>
+        <item>Использование данных</item>
+    </string-array>
+    <string-array name="running_apps_detail_info">
+        <item>Использование ОЗУ</item>
+        <item>Использование данных</item>
+    </string-array>
+    <string-array name="sort_protect_popup">
+        <item>Имя</item>
+        <item>Запущенные</item>
+    </string-array>
+    <string-array name="sort_downloadsort_popup">
+        <item>Последние возобновленные</item>
+        <item>Имя</item>
+    </string-array>
+    <string-array name="select_setting_period">
+        <item>1 месяц</item>
+        <item>2 месяца</item>
+        <item>3 месяца</item>
+        <item>6 месяцев</item>
+    </string-array>
+    <string-array name="select_setting_period_test">
+        <item>10 минут</item>
+        <item>20 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+    </string-array>
+    <string-array name="select_alarm_term">
+        <item>Не использовать</item>
+        <item>1 неделя</item>
+        <item>2 недели</item>
+        <item>1 месяц</item>
+        <item>2 месяца</item>
+        <item>3 месяца</item>
+    </string-array>
+    <string-array name="select_alarm_term_test">
+        <item>Не использовать</item>
+        <item>10 минут</item>
+        <item>20 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+    </string-array>
+    <string-array name="action_running_list">
+        <item>Запущенные приложения</item>
+        <item>Защищенные приложения</item>
+        <item>Неиспользуемые приложения</item>
+        <item>Системы</item>
+    </string-array>
+    <string-array name="action_select_list">
+        <item>Выбрать все</item>
+    </string-array>
+    <string-array name="action_deselect_list">
+        <item>Отменить выбор</item>
+    </string-array>
+</resources>

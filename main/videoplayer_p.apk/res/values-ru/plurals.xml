@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="number_of_results_searched">
+        <item quantity="other">"Результатов по запросу '%2$s': %1$d"</item>
+        <item quantity="one">"Результатов по запросу '%2$s': 1"</item>
+    </plurals>
+</resources>

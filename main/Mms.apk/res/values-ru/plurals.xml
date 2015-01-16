@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s сек.</item>
+        <item quantity="one">%s сек.</item>
+        <item quantity="few">%s сек.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Результатов по запросу \"%2$s\": %1$s</item>
+        <item quantity="one">Результатов по запросу \"%2$s\": %1$s</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s других сообщений</item>
+        <item quantity="one">+%1$s новое сообщение</item>
+    </plurals>
+</resources>

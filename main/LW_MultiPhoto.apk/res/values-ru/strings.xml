@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мультиобои</string>
+    <string name="app_description">Использование разных фоновых изображений на каждой из панелей главного экрана.</string>
+    <string name="direct_go">Мультиобои</string>
+    <string name="pref_cat_screen_title">Параметры обоев</string>
+    <string name="str_selectall_desc">Использование изображений, сохраненных в выбранных папках, в качестве обоев на всех панелях главного экрана.</string>
+    <string name="str_selectall_title">Установить на всех экранах</string>
+    <string name="str_selecteach_desc">Использование отдельного изображения или всех изображений папки на каждом отдельном экране.</string>
+    <string name="str_selecteach_title">Установить на отдельных экранах</string>
+    <string name="pref_screen_type_title">Выбрать фон</string>
+    <string name="pref_cat_draw_title">Параметры эффектов</string>
+    <string name="pref_draw_transition_title">Тип перехода</string>
+    <string name="pref_photo_auto_change">Автосмена изображения</string>
+    <string name="pref_folder_duration_summary">Изображения, сохраненные в папке, которая задана для экранов, будут автоматически изменяться через равный промежуток времени.</string>
+    <string name="pref_folder_duration_title">Интервал автосмены</string>
+    <string name="pref_screen_folder_order_title">Изменить порядок</string>
+    <string name="customized_save">OK</string>
+    <string name="customized_cancel">Отмена</string>
+    <string name="folder_picker_title">Выбрать папку</string>
+    <string name="pref_screen_no_bucket_exist_msg">Недопуст. папка с изображ.</string>
+    <string name="file_not_created">Невозможно создать файл.</string>
+    <string name="no_picture_folder">Нет папок с изображениями</string>
+    <string name="msg_folder_save">Сохранено.</string>
+    <string name="gallery_not_found">Не удалось найти галерею.</string>
+    <string name="pref_screen_no_bucket_select_msg">Альбом не выбран.</string>
+    <string name="pref_screen_type_val1_summary">"
+%s"</string>
+    <string name="pref_screen_type_val2_summary">%s</string>
+    <string name="pref_screen_bucket_title">Папка с изображ.</string>
+    <string name="pref_screen_bucket_list_title">Выбрать папку</string>
+    <string name="folder_up">../ (Переход вверх)</string>
+    <string name="msg_folder_change_guide">Все изображения, сохраненные в выбранной папке, будут использоваться в случайном порядке в качестве интерактивных обоев.</string>
+    <string name="not_support_format">Недопустимое изображение</string>
+    <string name="reset">Параметры запуска</string>
+    <string name="reset_popup">Параметры запуска</string>
+</resources>

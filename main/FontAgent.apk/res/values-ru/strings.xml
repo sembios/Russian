@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_dialog_cancel">Отменить</string>
+    <string name="app_name">Шрифт</string>
+    <string name="settings_safetylegal_activity_loading">обеспечение шрифта</string>
+    <string name="confirm">Добавить</string>
+    <string name="cancel">Отменить</string>
+    <string name="no_contents_add">Элемент не найден</string>
+    <string name="no_contents_storage">Нет больше шрифтов.</string>
+    <string name="add_list_title">Выберите какой добавить шрифт</string>
+    <string name="storage_list_title">Шрифт</string>
+    <string name="multiselect_actionbar_selected_item_count">%d выбранный</string>
+    <string name="multiselect_actionbar_select_all">Выбрать все</string>
+    <string name="multiselect_actionbar_deselect_all">Отменить выбор всех</string>
+    <string name="regist_font_searching">Поиск шрифта</string>
+    <string name="regist_count_format">Сделано : %1$d / Всего : %2$d</string>
+    <string name="search_date">Дата последнего поиска :</string>
+    <string name="search_description">показано шрифта и доступный шрифт может изменяться.</string>
+    <string name="search_button">Начать поиск шрифта</string>
+    <string name="date_format">yyyy. M. dd.</string>
+    <string name="no_date">нет</string>
+    <string name="toast_all_deleted">Удалить все</string>
+    <string name="trashcan_title">Удалить</string>
+    <string name="deleted">Удалено</string>
+</resources>

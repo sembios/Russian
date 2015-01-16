@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eco_battery_level_entries">
+        <item>Запускать напрямую</item>
+        <item>50 % от заряда аккумулятора</item>
+        <item>40 % от заряда аккумулятора</item>
+        <item>30 % от заряда аккумулятора</item>
+        <item>20 % от заряда аккумулятора</item>
+        <item>15 % от заряда аккумулятора</item>
+    </string-array>
+    <string-array name="eco_battery_level_values_entries">
+        <item>-1</item>
+        <item>50</item>
+        <item>40</item>
+        <item>30</item>
+        <item>20</item>
+        <item>15</item>
+        <item>10</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="etc_tips_category">
+        <item>Живые обои</item>
+        <item>Диспетчер задач</item>
+        <item>Синхронизация</item>
+        <item>GPS</item>
+    </string-array>
+    <string-array name="etc_tips_body">
+        <item>Использование живых обоев может увеличить потребление батареи.</item>
+        <item>Остановить запущенные приложения которые не используются с помощью диспетчера задач.</item>
+        <item>Синхронизация может увеличить потребление батареи.</item>
+        <item>Использование GPS может увеличить потребление батареи.</item>
+    </string-array>
+</resources>

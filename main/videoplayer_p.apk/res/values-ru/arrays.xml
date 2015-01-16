@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_arrange_dialog">
+        <item>Сортир. по названию</item>
+        <item>Сортир. по дате</item>
+        <item>Сортир. по размеру</item>
+    </string-array>
+    <string-array name="items_arrange_toast">
+        <item>Сортир. по названию (по возраст.)</item>
+        <item>Сортир. по дате (по убыв.)</item>
+        <item>Сортир. по размере (по возраст.)</item>
+        <item>Сортир. по названию (по убыв.)</item>
+        <item>Сортир. по дате (по возраст.)</item>
+        <item>Сортир. по размеру (по убыв.)</item>
+    </string-array>
+    <string-array name="items_file_list_quick_dialog">
+        <item>Удалить</item>
+        <item>Отправ.</item>
+        <item>Media Link</item>
+        <item>Поиск</item>
+        <item>Свойства</item>
+    </string-array>
+    <string-array name="items_folder_list_quick_dialog">
+        <item>Воспр.</item>
+        <item>Удалить</item>
+        <item>Отправ.</item>
+        <item>Media Link</item>
+        <item>Свойства</item>
+    </string-array>
+    <string-array name="repeat_mode">
+        <item>Выкл.</item>
+        <item>Один</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="preset_mode">
+        <item>Экшн &amp; приключения</item>
+        <item>Фантастика &amp; фэнтези</item>
+        <item>Военные</item>
+        <item>Ужасы &amp; триллеры</item>
+        <item>Мюзиклы</item>
+    </string-array>
+    <string-array name="new_preset_mode">
+        <item>Без Эффектов</item>
+        <item>Экшен и Приключения</item>
+        <item>Фантастака</item>
+        <item>Военные</item>
+        <item>Ужасы и Триллеры</item>
+        <item>Музыкальные</item>
+    </string-array>
+    <string-array name="array_subtitles_font_size">
+        <item>Малые</item>
+        <item>Нормальные</item>
+        <item>Большие</item>
+        <item>Огромные</item>
+    </string-array>
+    <string-array name="tablet_repeat_mode">
+        <item>Вкл</item>
+        <item>Выкл</item>
+    </string-array>
+    <string-array name="subtitles_font_type_array">
+        <item>По умолчанию</item>
+        <item>Gothic</item>
+        <item>Sky blue</item>
+        <item>Good manner</item>
+        <item>Seoul namsan</item>
+    </string-array>
+    <string-array name="new_subtitles_font_type_array">
+        <item>Как в настройках системы</item>
+        <item>VEGA</item>
+        <item>Sky blue</item>
+        <item>Good manner</item>
+        <item>Seoul namsan</item>
+    </string-array>
+    <string-array name="subtitles_japanese_font_type_array">
+        <item>Roboto</item>
+        <item>Morisawa Shin Go R</item>
+        <item>TypeBank UD Mincho M</item>
+    </string-array>
+    <string-array name="items_view_option_dialog">
+        <item>Файлы</item>
+        <item>Папки</item>
+    </string-array>
+</resources>

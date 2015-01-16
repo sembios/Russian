@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Примечание</item>
+    </string-array>
+    <string-array name="bell_items">
+        <item>Без сигнала</item>
+        <item>VEGA</item>
+        <item>Станд. сигнал Android</item>
+        <item>Память</item>
+        <item>Сигнал завершения загрузки</item>
+    </string-array>
+    <string-array name="bell_items_nodownload">
+        <item>Без сигнала</item>
+        <item>VEGA</item>
+        <item>Станд. сигнал Android</item>
+        <item>Память</item>
+    </string-array>
+    <string-array name="silent">
+        <item>Без звука</item>
+    </string-array>
+    <string-array name="sky">
+        <item>Beep Classic</item>
+        <item>Beep Dreamy</item>
+        <item>Beep Jazzy</item>
+        <item>Beep Simple</item>
+        <item>Before the Dawn</item>
+        <item>Beyond the Star</item>
+        <item>Catwalk</item>
+        <item>Confession</item>
+        <item>Default Ring</item>
+        <item>Emotional wave</item>
+        <item>Enigmatic</item>
+        <item>Feel better</item>
+        <item>Forest</item>
+        <item>Happy Sky Land</item>
+        <item>"Heaven's Morning"</item>
+        <item>Hello there</item>
+        <item>Let me out</item>
+        <item>Listen To Me</item>
+        <item>Maple Road</item>
+        <item>Marching Band</item>
+        <item>Melody Lake</item>
+        <item>Round World</item>
+        <item>Sunset Hill</item>
+        <item>Sweet Imagine</item>
+        <item>Tea Time</item>
+        <item>Toy Train</item>
+        <item>Traveling Butterfly</item>
+        <item>Walking in the clouds</item>
+        <item>Waltz with Birds</item>
+        <item>Welcome Party</item>
+        <item>World Of Network</item>
+    </string-array>
+    <string-array name="select_sns_item">
+        <item>Me2day</item>
+        <item>Twitter</item>
+        <item>Facebook</item>
+    </string-array>
+</resources>

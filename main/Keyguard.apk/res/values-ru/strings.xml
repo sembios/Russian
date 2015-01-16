@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Service UI</string>
+    <string name="ok">@android:string/ok</string>
+    <string name="system_ui_date_pattern">@string/vega_time_format</string>
+    <string name="widget_default_package_name" />
+    <string name="widget_default_class_name" />
+    <string name="abbrev_wday_month_day_no_year">EEEMMMMd</string>
+    <string name="clock_12hr_format">hm</string>
+    <string name="clock_24hr_format">Hm</string>
+    <string name="usim_pin_input_empty">Нет номера. Введите пароль (PIN).</string>
+    <string name="usim_pin_input_pukempty">Нет номера. Введите пароль (PUK).</string>
+    <string name="usim_pin_input_pintitle">Введите PIN-код, PIN-код должен быть от 4 до 8 цифр. Напомнить ввод : %1$d/3</string>
+    <string name="usim_pin_input_newpin">Введите новый пароль (PIN-код)</string>
+    <string name="usim_pin_input_renewpin">Введите новый пароль (PIN-код) again</string>
+    <string name="usim_pin_input_success">Новый PIN-код успешно зарегистрирован</string>
+    <string name="usim_pin_input_pin">PIN-код должен быть от 4 до 8 цифр</string>
+    <string name="usim_pin_input_new_pin">PIN-код должен быть от 4 до 8 цифр</string>
+    <string name="usim_pin_reinput_new_pin">Повторный ввод PIN-код должен быть от 4 до 8 цифр</string>
+    <string name="usim_pin_input_pukinput">PUK-код должен быть 8-значный</string>
+    <string name="usim_pin_input_error_pintitle">Ошибка ввода пароля</string>
+    <string name="usim_pin_input_error_pukinput">Неправильный PIN-код введен 3 раза подряд. Введите PUK-код. Мы рекомендуем вам посетить центр клиентов, если вы не уверены что знаете PUK код.</string>
+    <string name="usim_pin_input_puk">"Введите PUK-код
+Напомнить ввод : %1$d/10"</string>
+    <string name="usim_pin_input_ERROR_diablepuk">PUK-код введен неправильно 10 раз. SIM-карта заблокируется и не может быть разблокирована.</string>
+    <string name="usim_pin_input_ERROR_retrypin">"Неверный PIN-код. Осталось: %1$d
+Введите PIN-код еще раз."</string>
+    <string name="usim_pin_input_ERROR_retrypuktitle">Неверные коды</string>
+    <string name="usim_pin_input_ERROR_retrypuk">Неправильный PUK-код. Неправильно ввели %1$d. %2$d осталось. Внимание! Мы рекомендуем вам посетить центр клиентов, если вы не уверены что знаете PUK код.</string>
+    <string name="usim_pin_input_ERROR_renewpinfail">Введенный PIN-код не совпадает с новым PIN-кодом. Введите новый PIN-код еще раз.</string>
+    <string name="usim_pck_input_locktitle">Другие блокировки SIM карты</string>
+    <string name="usim_pck_input_title">Введите для блокировки SIM карты PIN-код</string>
+    <string name="usim_pck_input_ERROR">Неправильный PIN-код</string>
+    <string name="usim_pck_input_ERROR_diableperso">Превышено количество попыток 5 раз. Пожалуйста перезагрузите или посетить центр клиентов.</string>
+    <string name="usim_pck_input_empty">Нет номера. Введите пароль.</string>
+    <string name="usim_pck_input_pck">Пароль должен быть 4-значный</string>
+    <string name="lockscreen_other_sim_unlock_progress_dialog_message">Разблокирование SIM карты…</string>
+    <string name="usim_error_limited_message">Недопустимая SIM-карта</string>
+    <string name="usim_removed_message">SIM карта удалена. Перезагрузите после установки SIM карты.</string>
+    <string name="usim_notify_removed_message">SIM карта удалена</string>
+    <string name="usim_notify_removed_restart_message">Перезагрузите после установки SIM карты</string>
+    <string name="lockscreen_skt_empty_sim_message">Необходимо загрузить SIM</string>
+    <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
+    <string name="keyguard_password_enter_puk_code">Введите PIN-код SIM карты и новый PIN код</string>
+    <string name="keyguard_password_enter_puk_prompt">SIM PUK код</string>
+    <string name="keyguard_password_enter_pin_prompt">Новый SIM PIN код</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Нажмите, чтобы ввести пароль</font></string>
+    <string name="keyguard_password_enter_password_code">Введите пароль, чтобы разблокировать</string>
+    <string name="keyguard_password_enter_pin_password_code">Введите PIN-код для разблокировки</string>
+    <string name="keyguard_password_wrong_pin_code">Неправильный PIN-код.</string>
+    <string name="keyguard_password_wrong_puk_code">Неправильный PUK-код!</string>
+    <string name="keyguard_password_pin_failed">PIN операция не выполнена!</string>
+    <string name="keyguard_password_puk_failed">PUK операция не выполнена!</string>
+    <string name="keyguard_pin_accepted">Код принят!</string>
+    <string name="pinpuk_attempts">"
+Осталось попыток :"</string>
+    <string name="lockscreen_sim_error_message_short">Карта недействительна.</string>
+    <string name="keyguard_label_text">Чтобы разблокировать, нажмите Меню затем 0.</string>
+    <string name="faceunlock_multiple_failures">Максимальное количество попыток разблокировать лицом превышено</string>
+    <string name="keyguard_charged">Заряженно</string>
+    <string name="keyguard_plugged_in">Зарядка, %d%%</string>
+    <string name="keyguard_low_battery">Подключите зарядное устройство.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Нажмите кнопку Меню, чтобы разблокировать.</string>
+    <string name="keyguard_network_locked_message">Сеть заблокирована</string>
+    <string name="keyguard_perso_locked_message">SIM/RUIM в Perso заблокирована</string>
+    <string name="keyguard_missing_sim_message_short">Нет SIM-карты</string>
+    <string name="keyguard_missing_sim_message">Нет SIM-карты в телефоне.</string>
+    <string name="keyguard_missing_sim_instructions">Вставьте SIM-карту.</string>
+    <string name="keyguard_missing_sim_instructions_long">SIM-карта не читается или отсутствует. Вставьте SIM-карту.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Непригодная SIM карта.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Ваша SIM-карта была постоянно отключена.
+ Обратитесь к поставщику услуг для замены SIM-карты."</string>
+    <string name="keyguard_sim_locked_message">SIM-карта заблокирована.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM-карта заблокирована с помощью PUK-кода.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
+    <string name="keyguard_widget_12_hours_format">ч:mm</string>
+    <string name="keyguard_widget_24_hours_format">чч:mm</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Виджет %2$d of %3$d.</string>
+    <string name="keyguard_accessibility_add_widget">Добавить виджет.</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Пустой</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Разблокируйте расширенную область.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Разблокированная область свернута.</string>
+    <string name="keyguard_accessibility_widget">%1$s виджет.</string>
+    <string name="keyguard_accessibility_user_selector">Выбор пользователя</string>
+    <string name="keyguard_accessibility_status">Статус</string>
+    <string name="keyguard_accessibility_camera">Камера</string>
+    <string name="keygaurd_accessibility_media_controls">Управление мультимедиа</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Начать переназначение виджетов.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Переназначение виджетов закончилось.</string>
+    <string name="keyguard_accessibility_widget_deleted">Виджет %1$s удалён.</string>
+    <string name="keyguard_accessibility_expand_lock_area">Расширить область разблокировки.</string>
+    <string name="keyguard_accessibility_slide_unlock">Проведите чтобы разблокировать.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Граф. ключ разблокировки.</string>
+    <string name="keyguard_accessibility_face_unlock">Разблокировать лицом.</string>
+    <string name="keyguard_accessibility_pin_unlock">Разблокировать PIN-кодом.</string>
+    <string name="keyguard_accessibility_password_unlock">Разблокировать паролем.</string>
+    <string name="keyguard_accessibility_pattern_area">Граф. ключ область.</string>
+    <string name="keyguard_accessibility_slide_area">Провести область.</string>
+    <string name="keyguard_accessibility_transport_prev_description">Предыдущий трек кнопка</string>
+    <string name="keyguard_accessibility_transport_next_description">Следующий трек кнопка</string>
+    <string name="keyguard_accessibility_transport_pause_description">Кнопка паузы</string>
+    <string name="keyguard_accessibility_transport_play_description">Кнопка воспроизведения</string>
+    <string name="keyguard_accessibility_transport_stop_description">Кнопка стоп</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">Палец вверх</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">Палец вниз</string>
+    <string name="keyguard_accessibility_transport_heart_description">Центральный</string>
+    <string name="keyguard_accessibility_show_bouncer">Разблокируйте для продолжения</string>
+    <string name="keyguard_accessibility_hide_bouncer">Запуск отменен</string>
+    <string name="keyguard_accessibility_delete_widget_start">Виджет %1$s удален.</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s не будет удален.</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="keyboardview_keycode_alt">Alt</string>
+    <string name="keyboardview_keycode_cancel">Отмена</string>
+    <string name="keyboardview_keycode_delete">Удалить</string>
+    <string name="keyboardview_keycode_done">Готово</string>
+    <string name="keyboardview_keycode_mode_change">Изменение режима</string>
+    <string name="keyboardview_keycode_shift">Shift</string>
+    <string name="keyboardview_keycode_enter">Enter</string>
+    <string name="description_target_unlock">Разблокировать</string>
+    <string name="description_target_camera">Камера</string>
+    <string name="description_target_silent">Тихий</string>
+    <string name="description_target_soundon">Звук вкл</string>
+    <string name="description_target_search">Поиск</string>
+    <string name="description_direction_up">Проведите вверх для %s.</string>
+    <string name="description_direction_down">Проведите вниз для %s.</string>
+    <string name="description_direction_left">Проведите влево для %s.</string>
+    <string name="description_direction_right">Проведите вправо для %s.</string>
+    <string name="user_switched">Текущий пользователь %1$s.</string>
+    <string name="kg_emergency_call_label">Экстренный вызов</string>
+    <string name="kg_forgot_pattern_button_text">Забыли Граф.ключ</string>
+    <string name="kg_wrong_pattern">Неправильный Граф.ключ</string>
+    <string name="kg_wrong_password">Неправильный Пароль</string>
+    <string name="kg_wrong_pin">Неправильный PIN код</string>
+    <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %d сек.</string>
+    <string name="kg_pattern_instructions">Начертите ваш Граф.ключ</string>
+    <string name="kg_sim_pin_instructions">Введите PIN SIM-карты</string>
+    <string name="kg_pin_instructions">Введите PIN</string>
+    <string name="kg_password_instructions">Введите пароль</string>
+    <string name="kg_puk_enter_puk_hint">SIM-карта будет отключена. Введите PUK-код, чтобы продолжить. Обратитесь к поставщику услуг.</string>
+    <string name="kg_puk_enter_pin_hint">Введите PIN-код</string>
+    <string name="kg_enter_confirm_pin_hint">Подтвердите PIN-код</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
+    <string name="kg_invalid_sim_pin_hint">Введите ПИН-код, 4-8 цифр.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-код должен быть 8 чисел или более.</string>
+    <string name="kg_invalid_puk">Введите правильный PUK-код. Неоднократные попытки заблокируют SIM-карту.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN-коды не совпадают</string>
+    <string name="kg_login_too_many_attempts">Слишком много попыток начертить граф.ключ</string>
+    <string name="kg_login_instructions">Чтобы разблокировать, войдите в учетную запись Google.</string>
+    <string name="kg_login_username_hint">Имя пользователя (эл. почта)</string>
+    <string name="kg_login_password_hint">Пароль</string>
+    <string name="kg_login_submit_button">Войти</string>
+    <string name="kg_login_invalid_input">Неверное имя пользователя или пароль.</string>
+    <string name="kg_login_account_recovery_hint">"Забыли имя пользователя или пароль?
+Посетите "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Проверка учетной записи…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Неправильно введен %d раз. 
+Повторите попытку через %d сек."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Неправильно введен %d раз. 
+Повторите попытку через %d сек."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Неправильно начерчен %d раз. 
+Повторите попытку через %d сек."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Вы неправильно пытались разблокировать телефон %d раз. После %d неудачных попыток, ваш телефон восстановить заводские значения по умолчанию и все пользовательские данные будут утеряны.</string>
+    <string name="kg_failed_attempts_now_wiping">Вы неправильно пытались разблокировать телефон %d раз. Теперь телефон будет сброшен к заводским настройкам.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Вы неправильно начертили граф. ключ %d раз. После %d неудачных попыток, вам будет предложено разблокировать телефон с помощью учетной записи электронной почты.
+
+Повторите попытку через %d сек."</string>
+    <string name="kg_text_message_separator">" — "</string>
+    <string name="kg_reordering_delete_drop_target_text">Удаление</string>
+    <string name="kg_password_wrong_pin_code_pukked">Неправильный PIN-код SIM карты, теперь обратитесь к своему оператору, чтобы разблокировать устройство.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM-карта непригодна для использования. Обратитесь к оператору.</string>
+    <string name="kg_password_pin_failed">SIM PIN Сбой операции!</string>
+    <string name="kg_password_puk_failed">SIM PUK Сбой операции!</string>
+    <string name="kg_pin_accepted">Код принят!</string>
+    <string name="keyguard_transport_prev_description">Предыдущий трек кнопка</string>
+    <string name="keyguard_transport_next_description">Следующий трек кнопка</string>
+    <string name="keyguard_transport_pause_description">Кнопка паузы</string>
+    <string name="keyguard_transport_play_description">Кнопка воспроизведения</string>
+    <string name="keyguard_transport_stop_description">Кнопка стоп</string>
+    <string name="keyguard_carrier_default">Нет обслуживания.</string>
+    <string name="msim_kg_sim_pin_msg_format" formatted="false">SUB:%d : %s.</string>
+    <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
+    <string name="vega_roaming_title">Роуминг</string>
+    <string name="vega_time_format">E, MMM d</string>
+    <string name="lockscreen_too_many_failed_attempts_dialog_message_for_pin_and_password" formatted="false">"Неправильно введен %d раз. 
+Повторите попытку через %d сек."</string>
+    <string name="vega_lockscreen_too_many_failed_attempts_dialog_message_for_pattern" formatted="false">"Неправильно начертили %d раз. 
+Попробуйте еще раз через %d сек."</string>
+    <string name="vega_lockscreen_failed_attempts_almost_glogin" formatted="false">Неправильно введен %d раз. После %d неудачных попыток, вам будет предложено разблокировать телефон с помощью учетной записи электронной почты. Повторите попытку через %d сек.</string>
+    <string name="vega_add_widget_text">Новый виджет</string>
+    <string name="vega_keyguard_delete_remain_text">По крайней мере один виджет должен быть размещен</string>
+    <string name="vega_unlock_to_access">Разблокировать доступ</string>
+    <string name="vega_help_view_text1_1">Расширить виджет</string>
+    <string name="vega_help_view_text1_2">Посмотреть другие виджеты</string>
+    <string name="vega_help_view_text1_3">Добавить виджеты</string>
+    <string name="vega_help_view_text2_1">Проведите пальцем вниз в верхней части экрана</string>
+    <string name="vega_help_view_text2_2">"Проведите пальцем в верхней части экрана вправо или влево 
+для просмотра виджетов.
+
+Чтобы отключить виджеты
+'Настройки > Блокировка экрана'"</string>
+    <string name="vega_help_view_text2_3">Чтобы добавить виджет на экран блокировки, нажмите Добавить виджеты на левой панели</string>
+    <string name="vega_widget_toast_shortcut_text">Не удается переместить или удалить избранные приложения</string>
+    <string name="keygurad_pin_view_key_enter">OK</string>
+    <string name="keygurad_pin_small_tag">keyguard_small_pin</string>
+    <string name="keygurad_pattern_small_tag">keyguard_small_pattern</string>
+    <string name="sky_new_gesture_help_text">Проведите чтобы разблокировать</string>
+    <string name="simple_unlock_guide">Включите для разблокировки экрана</string>
+    <string name="simple_switch_text">Начать</string>
+    <string name="ice_voice_call_text">Экстренный вызов</string>
+    <string name="ice_vt_call_text">Видео вызов</string>
+    <string name="ice_sos_alarm_txt">S.O.S сигнал тревоги</string>
+    <string name="ice_normal_unlock">Разблокировать</string>
+    <string name="vega_account_unlock_backup_pin_text">Введите PIN-код для разблокировки</string>
+    <string name="vega_account_unlock_backup_pin_hint_text">Введите PIN-код</string>
+    <string name="vega_account_unlock_backup_pin_incorrect_text">Неправильный PIN резервного копирования.</string>
+    <string name="vega_account_unlock_find_by_pin_text">"Подтвердить
+PIN"</string>
+    <string name="vega_account_unlock_find_by_google_id_text">"Подтвердить
+аккаунт"</string>
+    <string name="vega_account_unlock_find_by_google_id_help_text">Введите Google аккаунт для разблокировки.</string>
+    <string name="vega_account_unlock_account_help_text">Если вы забыли Google аккаунт, посетите www.pantechservice.co.kr и перейти к Разблокировать для разблокировки телефона дистанционно. Для получения справки о блокировка экрана свяжитесь с Pantech сервисного центра по телефону 1588-9111.</string>
+    <string name="vega_account_unlock_calling_vega_center">"Pantech
+Сервис"</string>
+    <string name="vega_account_unlock_vega_center_dial_number">15889111</string>
+    <string name="vega_keyguard_pantech_service_notice">"Pantech Сервис
+www.pantechservice.co.kr homepage, 'Разблокировать' сервис может быть использован через меню 'разблокировать'."</string>
+    <string name="vega_secure_camera_kdm_help_text">"Для отображения экрана, разблокируйте
+С помощью экрана блокировки."</string>
+    <string name="vega_fingerprint_success">Проведите зарегистрированный отпечаток пальца по датчику.</string>
+    <string name="vega_fingerprint_fail">Неверный отпечаток пальца.</string>
+    <string name="vega_fingerprint_guide">Проведите пальцем прямо вниз по датчику на задней панели устройства.</string>
+    <string name="vega_fingerprint_fail_guide">Пожалуйста, проведите снова.</string>
+    <string name="vega_fingerprint_recognizing">Признать отпечатки пальцев.</string>
+    <string name="vega_fingerprint_recognizing_guide">Проведите пальцем прямо вниз с той же скоростью, что и в руководстве.</string>
+    <string name="keyguard_accessibility_fingerprint_unlock">Разблокировка отпечатком пальца.</string>
+    <string name="vega_fingerprint_fail_swipe_too_fast">Провели слишком быстро.</string>
+    <string name="vega_fingerprint_fail_swipe_too_slow">Провели слишком медленно.</string>
+    <string name="vega_fingerprint_fail_short_swipe">Провели слишком коротко.</string>
+    <string name="vega_fingerprint_fail_out_of_skewness">Провели слишком перекошенно.</string>
+    <string name="vega_fingerprint_fail_align_center">Провели не по центру.</string>
+    <string name="vega_fingerprint_fail_not_found_template">Не удается загрузить отпечаткок пальца в файл шаблона в устройство хранения.</string>
+    <string name="vega_fingerprint_fail_exceed_max_retry">Превышен предел проверки.</string>
+    <string name="vega_fingerprint_fail_user_cancel">Отменено пользователем во время регистрации / процесса проверки.</string>
+    <string name="vega_fingerprint_fail_inuse_device">Другое приложение использует датчик в настоящее время.</string>
+    <string name="vega_fingerprint_fail_invalid_parameter">Недопустимые параметры.</string>
+    <string name="vega_fingerprint_fail_invalid_fingerprint">Не удается идентифицировать отпечаток пальца.</string>
+    <string name="vega_fingerprint_fail_io_exception">Произошла ошибка ввода/вывода датчика.</string>
+    <string name="vega_fingerprint_fail_out_of_memory">Система находится не в состоянии памяти.</string>
+    <string name="vega_fingerprint_fail_already_enrolled">Отпечаток пальца уже зарегистрирован.</string>
+    <string name="vega_fingerprint_fail_mismatch_template">Неверный отпечаток пальца.</string>
+    <string name="vega_fingerprint_fail_different_finger">Не тот же палец как и предыдущий.</string>
+    <string name="vega_fingerprint_fail_request_timeout">Время операции ожидания настоящего палеца истекло.</string>
+    <string name="vega_fingerprint_fail_reverse_direction">обратное направление.</string>
+    <string name="vega_fingerprint_fail_enotenough_information">не достаточно информации.</string>
+    <string name="vega_fingerprint_fail_unknown_error">Неизвестная ошибка.</string>
+    <string name="vega_fingerprint_forgot_pattern">Подтвердите граф.ключ</string>
+    <string name="vega_fingerprint_forgot_pin">Подтвердите PIN код</string>
+    <string name="vega_fingerprint_no_registered">Нет зарегистрированных отпечатков пальцев.</string>
+    <string name="vega_fingerprint_fail_swipe_too_fast2">Пожалуйста проведите немного медленнее.</string>
+    <string name="vega_fingerprint_fail_swipe_too_slow2">Пожалуйста проведите немного быстрее.</string>
+    <string name="vega_fingerprint_fail_short_swipe2">Пожалуйста, проведите немного дольше.</string>
+    <string name="vega_fingerprint_fail_out_of_skewness2">Пожалуйста, проведите прямо.</string>
+    <string name="vega_fingerprint_fail_align_center2">Пожалуйста, проведите в центре датчика.</string>
+    <string name="vega_fingerprint_fail_mismatch_template2">Пожалуйста, проведите зарегистрированный отпечаток пальца.</string>
+    <string name="vega_fingerprint_disconnect_cable">Для улучшения скорости распознавания отключите зарядное устройство от телефона.</string>
+    <string name="lost_phone_default_user_message">Нашли сотовый телефон. Когда вы будете готовы связаться с владельцев мобильного телефона нажмите ниже.</string>
+    <string name="lost_phone_title">Этот телефон был потерян или украден!</string>
+    <string name="lost_phone_title_call_owner">Пожалуйста, позвоните мне</string>
+    <string name="lost_phone_title_unlock">Введите пароль</string>
+    <string name="lost_phone_unlock_hint">Введите пароль</string>
+    <string name="vega_secretmode_pattern_unlock">Начертите ключ для разблокировки.</string>
+    <string name="vega_secretmode_pin_unlock">Введите PIN-код для разблокировки.</string>
+    <string name="vega_secretmode_backup_confirm">Использовать дополнительный метод для подтверждения.</string>
+    <string name="keyguard_accessibility_transport_shuffle_description">играть в случайном порядке</string>
+    <string name="keyguard_accessibility_transport_repeat_description">повторное воспроизведение</string>
+    <string name="keyguard_accessibility_transport_favorite_description">играть любимые песни</string>
+    <string name="voice_command_help_title">Блокировка экрана список команд</string>
+    <string name="voice_command_help_unlock">Блокировка устройства</string>
+    <string name="str_voice_command_help_unlock">\"Блокировка экрана\", \"Настройки блокировки\"</string>
+    <string name="voice_command_help_missedcall">Разблокировать устройство</string>
+    <string name="str_voice_command_help_missedcall">\"Разблокировать\", \"Выключить экран\"</string>
+    <string name="voice_command_help_unread_msg">Контроль BGM в Экране блокировки</string>
+    <string name="str_voice_command_help_unread_msg">"\"Играть\", \"Назад\", \"Далее\"
+\"Пауза\", \"Стоп\""</string>
+    <item type="string" name="APKTOOL_DUMMY_00b7">false</item>
+</resources>

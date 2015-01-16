@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Снимок экрана с видео</string>
+    <string name="capture_saved">Созданный файл сохранен во внутренней памяти/%s.</string>
+    <string name="capture_fail">Невозможно записать видео.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Живой вверх</string>
+    <string name="time_seperator">:</string>
+    <string name="hours_format_h">h</string>
+    <string name="hours_format_m">:mm</string>
+    <string name="hours_format">h:mm</string>
+    <string name="date_format">EEE, MMMM d</string>
+    <string name="secret_contacts_noti_string1">Новые уведомления.</string>
+    <string name="secret_contacts_noti_string2">Новые уведомления</string>
+</resources>

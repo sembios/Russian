@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Карты календаря</string>
+    <string name="activity_name">Карты</string>
+    <string name="google_maps_api_key">0jzxpywoH0IC1I52DdW5CyWTutNJMqHWESI4EkA</string>
+    <string name="wrong_search_word">Ошибка поиска слова.</string>
+    <string name="no_search_result">Нет результатов поиска.</string>
+    <string name="venues_search_hint">Введите строку</string>
+    <string name="venues_search_label">Поиск адреса LBS</string>
+    <string name="search_description">Места встречи и друзья</string>
+    <string name="search">Поиск</string>
+    <string name="max_zoom_lev">Макс. уровень масштабирования</string>
+    <string name="min_zoom_lev">Миним. уровень масштабирования</string>
+    <string name="loading">Загрузка...</string>
+    <string name="done">Готово</string>
+    <string name="cancel">Отмена</string>
+    <string name="connect_network">Пожалуйста, подключитесь к сети</string>
+</resources>

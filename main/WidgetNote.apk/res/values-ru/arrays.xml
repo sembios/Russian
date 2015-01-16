@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="link_popup_menu_web_url">
+        <item>Сохранить URL</item>
+        <item>Перейти на URL</item>
+    </string-array>
+    <string-array name="link_popup_menu_email">
+        <item>Сохранить эл.почту</item>
+        <item>Отправить по почте</item>
+    </string-array>
+    <string-array name="link_popup_menu_phone">
+        <item>Вызов</item>
+        <item>Отправить сообщение</item>
+        <item>Сохранить контакт</item>
+    </string-array>
+    <string-array name="link_popup_menu_phone_all">
+        <item>Вызов</item>
+        <item>Видео вызов</item>
+        <item>Отправить сообщение</item>
+        <item>Сохранить контакт</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="PropertyCols">
+        <item>Имя свойства</item>
+        <item>Значение свойства</item>
+    </string-array>
+    <string-array name="select_dialog_autostop">
+        <item>Параметры не заданы</item>
+        <item>Через 10 минут</item>
+        <item>Через 20 минут</item>
+        <item>Через 30 минут</item>
+        <item>Через 1 час</item>
+    </string-array>
+    <string-array name="drmserverlist">
+        <item>Сервер онлайн-магазина</item>
+        <item>Тестовый сервер</item>
+        <item>Сервер Tally</item>
+    </string-array>
+    <string-array name="num_of_columns">
+        <item>2 отрезка</item>
+        <item>3 отрезка</item>
+        <item>4 отрезка</item>
+    </string-array>
+    <string-array name="num_of_columns_test">
+        <item>2 отрезка</item>
+        <item>3 отрезка</item>
+        <item>4 отрезка</item>
+        <item>5 отрезка</item>
+        <item>6 отрезка</item>
+        <item>7 отрезка</item>
+        <item>8 отрезка</item>
+        <item>9 отрезка</item>
+        <item>10 отрезка</item>
+    </string-array>
+</resources>

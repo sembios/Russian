@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alter_list">
+        <item>Изображение по умолчанию</item>
+        <item>Галерея</item>
+        <item>Сделать фото</item>
+    </string-array>
+    <string-array name="audio_list">
+        <item>Динамик</item>
+        <item>Микрофон</item>
+    </string-array>
+    <string-array name="call_list">
+        <item>Голосовой автовызов</item>
+        <item>Голосовой вызов</item>
+        <item>Отбой</item>
+    </string-array>
+    <string-array name="storage_list">
+        <item>Внутренняя память</item>
+        <item>SD-карта</item>
+    </string-array>
+</resources>

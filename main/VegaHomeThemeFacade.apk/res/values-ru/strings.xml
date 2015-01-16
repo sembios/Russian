@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="theme_options" />
+    <string name="app_name">Тема VEGA Фасад</string>
+    <string name="theme_title">Фасад</string>
+    <string name="dark_text">false</string>
+</resources>

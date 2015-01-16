@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Виджет Заметки</string>
+    <string name="wday_month_day_year">EEE, d MMM, yyyy</string>
+    <string name="all_note_view">Весь список</string>
+    <string name="empty_view_text">Список пуст</string>
+    <string name="no_memo">Нет заметок</string>
+    <string name="view_option">Выбрать папку</string>
+    <string name="ok">OK</string>
+    <string name="error">Ошибка.</string>
+    <string name="new_note">Новая заметка</string>
+    <string name="create">Создать</string>
+    <string name="input_limit">Дальн. ввод невозможен.</string>
+    <string name="saved">Сохранено.</string>
+    <string name="input_text">Введите текст.</string>
+    <string name="send">Отправ.</string>
+    <string name="lock_item_text">"Эта папка заблокирована
+Сбросьте параметры папки"</string>
+    <string name="edit_note">Изменить заметку</string>
+    <string name="default_folder">Папка по умолчанию</string>
+    <string name="enable_notepad">Вкл. функцию создания заметок в параметрах системы</string>
+    <string name="NFC_message_sent">Заметка отправлена.</string>
+    <string name="NFC_message_locked">Заметка заблокирована.</string>
+    <string name="storageshortage">Недостаточно места в памяти</string>
+    <string name="input_title_hint">Введите название</string>
+    <string name="input_memo_hint">Введите заметку</string>
+</resources>

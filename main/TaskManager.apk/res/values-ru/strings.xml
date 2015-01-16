@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диспетчер задач</string>
+    <string name="title_main">Диспетчер задач</string>
+    <string name="title_widget">Диспетчер задач</string>
+    <string name="title_widget_main">Диспетчер задач</string>
+    <string name="title_widget_main1">ДИСПЕТЧЕР</string>
+    <string name="title_widget_main2">ЗАДАЧ</string>
+    <string name="title_running">Запущенные</string>
+    <string name="title_system">Системы</string>
+    <string name="title_tip">Советы</string>
+    <string name="title_close">Закрыть</string>
+    <string name="close_app">Завершить</string>
+    <string name="close_all_app">Завершить все</string>
+    <string name="close_forced">Выключить</string>
+    <string name="close_normal">Завершить</string>
+    <string name="app_unistall">Удалить</string>
+    <string name="ram">ОЗУ</string>
+    <string name="cpu">ЦП</string>
+    <string name="internal_memory">Внутренняя память</string>
+    <string name="sd_card">Карта памяти SD</string>
+    <string name="insert_external_disk">Вставьте карту памяти SD</string>
+    <string name="option_protect_list">Защита снята</string>
+    <string name="option_protect">Защитить</string>
+    <string name="option_unprotect">Снять защиту</string>
+    <string name="option_sort">Сортировать</string>
+    <string name="option_detail_info">Подробная информация</string>
+    <string name="total_program_zero">Всего приложений: %1$d</string>
+    <string name="no_running_apps_title">Нет запущенных приложений</string>
+    <string name="mb">MB</string>
+    <string name="nothing_running_program">Нет запущенных задач.</string>
+    <string name="nothing_running_program_except_protect">Закрыть все приложения, кроме защищенных.</string>
+    <string name="running_apps_tips_title">"Советы по использованию приложений
+"</string>
+    <string name="running_apps_tips_content"><li>"Чтобы уменьшить нагрузку на систему, закройте некоторые приложения.
+
+"</li><li>"Регулярно обновляемые приложения (например, предоставляющие сведения о новостях, прогнозе погоды или ценах) могут быть защищены от закрытия.
+
+"</li><li>"Защищенные приложения отображаются в отдельном списке, из которого ими можно управлять.
+
+"</li><li>"Некоторые приложения могут не отображаться в списках.
+
+"</li><li>"Объем использованных данных для каждого приложения можно просмотреть в меню Параметры > Использование данных > Цикл использования данных. Под использованными данными подразумевается объем данных, которые были переданы с телефона или на него в течение определенного периода.
+"</li></string>
+    <string name="system_tips_title">"Советы по использованию системы
+"</string>
+    <string name="system_tips_content">"&lt;ЦП>
+
+"<li>"При интенсивном использовании ЦП увеличивается нагрузка на систему и возрастает использование заряда аккумулятора.
+
+"</li><li>"Использование приложений, загруженных из ненадежных источников, может привести к более интенсивному использованию ЦП.
+
+"</li>"&lt;ОЗУ>
+
+"<li>"Использование памяти можно уменьшить вручную, закрыв приложения.
+
+"</li><li>"Приложения, которые редко используются, будут закрыты автоматически, чтобы снизить потребление ресурсов памяти.
+
+"</li>"&lt;Внутренняя память/карта памяти SD>
+
+"<li>"Информация о каждом графике. Советы по упорядочению данных, сохраненных во внутренней памяти и на карте памяти.
+
+"</li>"&lt;Сеть>
+
+"<li>"Включите отображение текущего состояния подключения к сети.
+
+"</li><li>"Интенсивная передача данных по сети требует значительных ресурсов аккумулятора.
+
+"</li><li>"Включите отображение сведений о данных, которые передаются в фоновом режиме, во время использования передачи данных.
+"</li></string>
+    <string name="zero">0</string>
+    <string name="protect_end">Защита</string>
+    <string name="protect_end_detail">Защитить эту программу от закрытия.</string>
+    <string name="status">Состояние</string>
+    <string name="unprotect">Снять защиту</string>
+    <string name="cancel">ОТМЕНА</string>
+    <string name="done">готово</string>
+    <string name="network">Сеть</string>
+    <string name="network_up">Отправ</string>
+    <string name="network_down">Получить</string>
+    <string name="option_select_all">Выбрать все</string>
+    <string name="option_deselect_all">Отменить выбор</string>
+    <string name="data_foreground">Основные</string>
+    <string name="data_background">Фоновые</string>
+    <string name="select_data_option">Использование данных</string>
+    <string name="sky_recent_title">Последние</string>
+    <string name="sky_recent_no_recent_tasks">Нет недавно использ. приложений</string>
+    <string name="sky_recent_task_manager">Диспетчер задач</string>
+    <string name="widget_total_program1">Всего</string>
+    <string name="widget_total_program2">Запущенные приложения</string>
+    <string name="widget_total_program3">Прилож.</string>
+    <string name="widget_total_program4">Запущенные прил.</string>
+    <string name="running_item">Запущенные</string>
+    <string name="protect_app_tip_title">"Советы касательно защищенных приложений
+"</string>
+    <string name="protect_app_tip_content"><li>"Список защищенных приложений.
+
+"</li><li>"Приложения, добавленные в этот список, нельзя принудительно закрыть с помощью нажатия кнопки завершения работы.
+"</li></string>
+    <string name="not_exist_protected_app_title">Нет защищенных приложений</string>
+    <string name="not_exist_protected_app_content">"Добавить защищенные приложения в список 'Запущенные приложения'"</string>
+    <string name="cannot_start_this_activity">Невозможно запустить приложение.</string>
+    <string name="text_protect_info">Защищать постоянно обновляемые приложения, таких как сообщения и SNS от подения</string>
+    <string name="cancel_btn">Отмена</string>
+    <string name="protect">Защитить</string>
+    <string name="no_item_selected">Нет выбранных элементов.</string>
+    <string name="delete_select_all">Выбрать все</string>
+    <string name="delete_deselect_all">Отменить выбор</string>
+    <string name="delete_selected">Удалить</string>
+    <string name="downloaded_setup">Настройки</string>
+    <string name="downloaded_tip">Советы</string>
+    <string name="downloaded_alert_dialog_title">Загруженные</string>
+    <string name="downloaded_alert_dialog_content">"'Последние используемые не возможно перечислить, если время неправильное"</string>
+    <string name="downloaded_alert_dialog_disable_checkbox">Больше не показывать</string>
+    <string name="downloaded_setup_title">Настройка неиспользуемых прил.</string>
+    <string name="option_downloaded_setting_period_title">Время без использования</string>
+    <string name="downloaded_progress_content">Загрузка...</string>
+    <string name="not_exist_downloaded_app_title">Нет загруженных прил.</string>
+    <string name="option_downloaded_alarm_term_title">Интервал уведомления</string>
+    <string name="option_downloaded_alarm_term_content">Задать интервал уведомления неиспользуемых приложения на панель уведомлений</string>
+    <string name="downloaded_app_nonexist_info">Удаление неиспользуемых приложений для защиты памяти и уменьшить использование батареи</string>
+    <string name="downloaded_app_tip_title">"Советы для неиспользуемых приложений
+"</string>
+    <string name="downloaded_app_tip_content"><li>"Удалите неиспользуемые приложения для защиты памяти и уменьшить использование батареи.
+
+"</li><li>"'Последние используемые не возможно перечислить, если время неправильное.
+
+"</li><li>"Автоматически уведомлять о приложениях, которые не были использованы  более чем определенного периода времени.
+"</li></string>
+    <string name="downloaded_app_tip_content_ohters"><li>"Удалите неиспользуемые приложения для защиты памяти и уменьшить использование батареи.
+
+"</li><li>"'Последние используемые не возможно перечислить, если время неправильное.
+"</li></string>
+    <string name="widget_kill_no_tasks">Нет приложений, которые можно закрыть</string>
+    <string name="widget_kill_all_tasks">Закрыть все приложения.</string>
+    <string name="widget_kill_all_tasks_except_protected_item">Закрыть все приложения, кроме защищенных.</string>
+    <string name="number_of_item_selected">Выбрано: %1$d</string>
+    <string name="title_widget_running">Запущенные</string>
+    <string name="title_widget_apps">прилож.</string>
+    <string name="widget_end_all">Стоп всё</string>
+    <string name="tips_ok">OK</string>
+    <string name="actionbar_tab_list_running">Запущенные</string>
+    <string name="actionbar_tab_list_protected">Защищенные</string>
+    <string name="actionbar_tab_list_downloaded">Загруженные</string>
+    <string name="actionbar_tab_list_system">Система</string>
+    <string name="last_resume_day">Время последнего запуска</string>
+    <string name="add_protect">Добавить приложение</string>
+    <string name="cannot_read_datainfo">Не может подтвердить информацию об использования данных</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AOT Календарь</string>
+    <string name="title_calendar">Календарь</string>
+    <string name="POPUP_MAXLEN">Превышение максимальное число цифр</string>
+    <string name="POPUP_OUTMAXLEN">"Извините.
+- Ошибка переполнения."</string>
+    <string name="POPUP_LIST_FULL">Полный список</string>
+    <string name="MENU_SAVE">Сохранить</string>
+    <string name="MENU_DELETE">Удалить</string>
+    <string name="MENU_RENAME">Переименовать</string>
+    <string name="MENU_EDIT">Изменить</string>
+    <string name="MENU_LIST">Список</string>
+    <string name="POPUP_INFOMATION">Информация</string>
+    <string name="POPUP_SAVE">Сохранено</string>
+    <string name="POPUP_SAVEQ">Сохранить?</string>
+    <string name="POPUP_DELETED">Удаленно</string>
+    <string name="POPUP_DELETING">Удаление...</string>
+    <string name="POPUP_NOTCHECK">Нет выбранных элементов</string>
+    <string name="POPUP_INVALID_FORMAT">Неверный формат</string>
+    <string name="POPUP_CONVERT_FAIL">Сбой конвертирования</string>
+    <string name="error_excute_calendar">Включите календарь в настройки системы</string>
+    <string name="app_name_day">День календаря виджет</string>
+    <string name="app_name_month">Месяц календаря виджет</string>
+    <string name="app_name_week">Неделя календаря виджет</string>
+    <string name="day_widget_name">Ежедневно</string>
+    <string name="big_widget_name">Ежемесячно1</string>
+    <string name="small_widget_name">Ежемесячно2</string>
+    <string name="week_widget_name">Еженедельно</string>
+    <string name="no_event_today">Нет событий сегодня.</string>
+    <string name="no_title">(Нет заголовка)</string>
+    <string name="all_day">Весь день</string>
+    <string name="holiday_event">Праздник</string>
+    <string name="birthday">День рождения</string>
+    <string name="anniv">Юбилей</string>
+    <string name="other">Другие</string>
+    <string name="sunday">Вс</string>
+    <string name="monday">ПОН</string>
+    <string name="tuesday">ВТ</string>
+    <string name="wednesday">СР</string>
+    <string name="thursday">ЧТ</string>
+    <string name="friday">ПЯТ</string>
+    <string name="saturday">СУБ</string>
+    <string name="no_event_today1">Нет событий сегодня.</string>
+    <string name="no_event_today2">Нажмите кнопку +, чтобы добавить расписание.</string>
+    <string name="allday">весь день</string>
+    <string name="date_title_year" />
+    <string name="contact_event_birthday">День рождения</string>
+    <string name="contact_event_anniversary">Юбилей</string>
+    <string name="popup_title_date_lunar">Ln</string>
+    <string name="popup_title_date_leap">Lp</string>
+    <string name="no_title_label">(Без названия)</string>
+    <string name="todo">Сделать</string>
+    <string name="edit_event_all_day_label">Весь день</string>
+</resources>

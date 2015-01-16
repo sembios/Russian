@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="total_program">
+        <item quantity="other">Всего %1$d прил</item>
+        <item quantity="one">Всего %1$d прил</item>
+    </plurals>
+    <plurals name="not_exist_downloaded_app_content">
+        <item quantity="other">Нет загруженных приложений, не используемых в течение %1$d месяцев</item>
+        <item quantity="one">Нет загруженных приложений, не используемых в течение %1$d месяца</item>
+    </plurals>
+    <plurals name="option_downloaded_setting_period_content">
+        <item quantity="other">Загруженные приложения, не используемые в течение %1$d месяцев будут отнесены к Загруженным приложениям</item>
+        <item quantity="one">Загруженные приложения, не используемые в течение %1$d месяца будут отнесены к Загруженным приложениям</item>
+    </plurals>
+    <plurals name="option_downloaded_setting_period_content_test">
+        <item quantity="other">Загруженные приложения, не используемые в течение %1$d0 минут будут отнесены к Загруженным приложениям</item>
+        <item quantity="one">Загруженные приложения, не используемые в течение %1$d0 минут будут отнесены к Загруженным приложениям</item>
+    </plurals>
+    <plurals name="downloaded_noti_title">
+        <item quantity="other">%1$d Неиспользуемых приложений</item>
+        <item quantity="one">%1$d Неиспользуемых приложений</item>
+    </plurals>
+    <plurals name="downloaded_noti_content_test">
+        <item quantity="other">Нажмите, чтобы увидеть приложения, которые не использовались %1$d0 минут</item>
+        <item quantity="one">Нажмите, чтобы увидеть приложения, которые не использовались %1$d0 минут</item>
+    </plurals>
+    <plurals name="downloaded_noti_content">
+        <item quantity="other">Нажмите, чтобы увидеть приложения, которые не использовались %1$d месяцев</item>
+        <item quantity="one">Нажмите, чтобы увидеть приложения, которые не использовались %1$d месяца</item>
+    </plurals>
+    <plurals name="downloaded_unused_separate_test">
+        <item quantity="other">Прил. неиспользованные в течение %1$d минут</item>
+        <item quantity="one">Прил. неиспользованные в течение %1$d минут</item>
+    </plurals>
+    <plurals name="downloaded_unused_separate">
+        <item quantity="other">Прил. неиспользованные в течение %1$d месяцев</item>
+        <item quantity="one">Прил. неиспользованные в течение %1$d месяца</item>
+    </plurals>
+    <plurals name="downloaded_used_separate_test">
+        <item quantity="other">Прил. неиспользованные в течение %1$d минут</item>
+        <item quantity="one">Прил. неиспользованные в течение %1$d минут</item>
+    </plurals>
+    <plurals name="downloaded_used_separate">
+        <item quantity="other">Прил. неиспользованные в течение %1$d месяцев</item>
+        <item quantity="one">Прил. неиспользованные в течение %1$d месяца</item>
+    </plurals>
+</resources>

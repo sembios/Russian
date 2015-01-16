@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_text">
+        <item>Солнечно</item>
+        <item>Преимущественно солнечно</item>
+        <item>Частично Солнечно</item>
+        <item>Прерывистый</item>
+        <item>Пасмурно</item>
+        <item>Облачно</item>
+        <item>Пасмурно</item>
+        <item>Мрачно</item>
+        <item>Мрачно</item>
+        <item>Туман</item>
+        <item>Туман</item>
+        <item>Ливни</item>
+        <item>Облачно с ливнями</item>
+        <item>Облачно с ливнями</item>
+        <item>Грозы</item>
+        <item>Облачно с ливнем и грозами</item>
+        <item>Временами солнечно с ливнем и грозами</item>
+        <item>Дождь</item>
+        <item>Порывы</item>
+        <item>Пасмурно, порывистый ветер</item>
+        <item>Местами солнечно с порывистым ветером</item>
+        <item>Снег</item>
+        <item>Преимущественно облачно, снег</item>
+        <item>Гололед</item>
+        <item>Мокрый снег</item>
+        <item>Ледяной дождь</item>
+        <item>Горячий</item>
+        <item>Холодный</item>
+        <item>Снег и дождь</item>
+        <item>Холодный</item>
+        <item>Холодная</item>
+        <item>Ветреный</item>
+        <item>Ясно</item>
+        <item>Небольшая облачность</item>
+        <item>Переменная облачность</item>
+        <item>Временами Облака</item>
+        <item>Туман</item>
+        <item>Переменная облачность</item>
+        <item>Переменная облачность с дождем</item>
+        <item>Облачно с дождем</item>
+        <item>Переменная облачность с дождем и грозами</item>
+        <item>Облачно с ливнем и грозами</item>
+        <item>Пасмурно, порывистый ветер</item>
+        <item>Преимущественно облачно, снег</item>
+    </string-array>
+    <string-array name="holiday_solar_ko">
+        <item>Новый год</item>
+        <item>День независимости</item>
+        <item>День защиты детей</item>
+        <item>День памяти</item>
+        <item>День национального освобождения</item>
+        <item>Национальный день Кореи</item>
+        <item>Hangeul день</item>
+        <item>Рождество</item>
+    </string-array>
+    <string-array name="holiday_lunar_ko">
+        <item>Лунный Новый год</item>
+        <item>Лунные Новогодние Праздники</item>
+        <item>День рождения Будды</item>
+        <item>Корейский День благодарения</item>
+        <item>Корейские Праздники Благодарения</item>
+    </string-array>
+</resources>

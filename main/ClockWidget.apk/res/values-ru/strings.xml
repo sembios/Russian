@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Часы</string>
+    <string name="loading">Загрузка...</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="analog_clock_01">Аналоговые1</string>
+    <string name="analog_clock_02">Аналоговые2</string>
+    <string name="digital_clock_01">Цифровые1</string>
+    <string name="digital_clock_02">Цифровые2</string>
+    <string name="digital_clock_03">Цифровые3</string>
+    <string name="abbrev_wday_month_day">EEE, MMMM d</string>
+    <string name="widget_12_hours_format_h">h</string>
+    <string name="widget_12_hours_format_m">mm</string>
+    <string name="widget_12_hours_format_h_m">h:mm</string>
+    <string name="widget_12_hours_format_ampm">aa</string>
+    <string name="widget_24_hours_format_ampm" />
+    <string name="widget_24_hours_format_h">k</string>
+    <string name="widget_24_hours_format_m">mm</string>
+    <string name="widget_24_hours_format_h_m">k:mm</string>
+    <string name="disabled_app_popup">"в настоящее время отключено. Включите приложение и попробуйте снова. 
+ * Чтобы включить, перейдите в Настройки> Диспетчер приложений"</string>
+</resources>

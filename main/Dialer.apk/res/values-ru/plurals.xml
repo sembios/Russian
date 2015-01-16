@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Нет соединения для передачи данных %s мин.</item>
+        <item quantity="one">Нет соединения для передачи данных %s мин.</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Телефон будет оставаться в режиме экстренных обратных вызовов еще %s мин.. При этом будут недоступны приложения с поддержкой передачи данных. Выйти?</item>
+        <item quantity="one">Телефон будет оставаться в режиме экстренных обратных вызовов еще %s мин.. При этом будут недоступны приложения с поддержкой передачи данных. Выйти?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Выбранное действие невозможно при экстренных обратных вызовах. Телефон будет оставаться в этом режиме еще %s мин. Выйти?</item>
+        <item quantity="one">Выбранное действие невозможно при экстренных обратных вызовах. Телефон будет оставаться в этом режиме еще %s мин. Выйти?</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d найдено</item>
+        <item quantity="one">1 найдено</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Голосовая почта</item>
+        <item quantity="one">Голосовая почта</item>
+    </plurals>
+</resources>

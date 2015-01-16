@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сегодня</string>
+    <string name="widget_name_5x6">Сегодня1</string>
+    <string name="widget_name_4x5">Сегодня1</string>
+    <string name="black_1x1_widget_name">Сегодня2</string>
+    <string name="white_1x1_widget_name">Сегодня3</string>
+    <string name="action_settings">Настройки</string>
+    <string name="main_menu_setting_label">Параметры отображения</string>
+    <string name="today_item_setting_label">Параметры отображения</string>
+    <string name="preference_weather_label">Погода</string>
+    <string name="preference_daily_view_label">Ежедневный обзор</string>
+    <string name="preference_to_do_label">Сделать</string>
+    <string name="preference_anniversary_label">Юбилей</string>
+    <string name="today_show_hidden_card_again_button_text">Восстановить карточку, которая скрыта сегодня</string>
+    <string name="today_show_hidden_card_again_toast_message">Скрытая карта будет показана снова</string>
+    <string name="weather_label">Погода</string>
+    <string name="loading">Загрузка...</string>
+    <string name="current_location_setting_button_text">Установка для текущего местоположения</string>
+    <string name="weather_no_network_message">Не удается найти текущее местоположение.</string>
+    <string name="weather_small_temperature_symbol">°</string>
+    <string name="weather_current_location">Текущее местоположение</string>
+    <string name="schedule_label">Расписание</string>
+    <string name="daily_view_no_event_title">(Без названия)</string>
+    <string name="daily_view_next_event_guide_message">Следующее мероприятие %s.</string>
+    <string name="daily_view_next_event_guide_message_portrait">Следующее мероприятие %s</string>
+    <string name="daily_view_no_event_message">"Нажмите кнопку +
+ чтобы добавить ваш график"</string>
+    <string name="daily_view_no_event_message1">Нажмите кнопку +</string>
+    <string name="daily_view_no_event_message2">чтобы добавить ваш график</string>
+    <string name="daily_view_today_no_event_message">Нет более событий на сегодня.</string>
+    <string name="daily_view_tomorrow_event_guide_message">Есть %s запланированные мероприятия завтра.</string>
+    <string name="daily_view_tomorrow">завтра</string>
+    <string name="daily_view_event_unit" />
+    <string name="daily_view_all_day_event">весь день</string>
+    <string name="to_do_label">Сделать</string>
+    <string name="quick_task_add_title">Быстрое добавление</string>
+    <string name="quick_task_add_task_list_label">Список задач</string>
+    <string name="quick_task_add_more_details_button_label">Подробнее</string>
+    <string name="quick_task_add_save_button_label">Готово</string>
+    <string name="quick_task_add_cancel_button_label">Отмена</string>
+    <string name="task_saved_message">Сохранить задачу</string>
+    <string name="no_task">"Нажмите кнопку +
+ чтобы добавить ваш график"</string>
+    <string name="to_do_no_title">(Без названия)</string>
+    <string name="to_do_no_installed_message">Сделать удалено. Скачать Сделать из AppsPlay</string>
+    <string name="to_do_no_installed_left_button_text">Перейти к загрузке</string>
+    <string name="to_do_no_installed_right_button_text">Больше не показывать</string>
+    <string name="to_do_secret_app_message">Установить в качестве секретного приложения.</string>
+    <string name="anniversary_label">Юбилей</string>
+    <string name="quick_event_add_more_details_button_label">Подробнее</string>
+    <string name="quick_event_add_save_button_label">Готово</string>
+    <string name="quick_event_add_cancel_button_label">Отмена</string>
+    <string name="no_anniversary">"Нажмите кнопку +
+ чтобы добавить ваш Юбилей"</string>
+    <string name="anniversary_no_title">(Без названия)</string>
+    <string name="anniversary_secret_app_message">Установить в качестве секретного приложения.</string>
+    <string name="card_hiddened_text">Скрыть</string>
+    <string name="card_hiddened_delimeter">|</string>
+    <string name="card_hiddened_cancel_text">Отмена</string>
+    <string name="card_hiddened_guide_toast_message">Включить карту в Настройках. Восстановление карты, которая скрыта сегодня</string>
+    <string name="disabled_calendar_dialog_title">Календарь</string>
+    <string name="disabled_calendar_dialog_message">"'Календарь' в настоящее время отключен. Включите приложение и попробуйте снова.
+
+* Чтобы включить приложение, перейдите к менеджеру приложений"</string>
+    <string name="today">сегодня</string>
+    <string name="tomorrow">завтра</string>
+    <string name="today_at_time_fmt">в %s</string>
+    <string name="tomorrow_at_time_fmt">завтра в %s</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
+    <string name="contacts_anniversary_birthday">День рождения</string>
+    <string name="contacts_anniversary_anniversary">Юбилей</string>
+    <string name="contacts_anniversary_other">Другие</string>
+</resources>

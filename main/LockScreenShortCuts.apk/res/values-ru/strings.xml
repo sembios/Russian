@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Любимые приложения</string>
+    <string name="add_title">Добавить любимые приложения</string>
+    <string name="edit">Изменить</string>
+    <string name="done">Готово</string>
+    <string name="add">Добавить</string>
+    <string name="delete">Удалить</string>
+    <string name="full_storage_msg">Не хватает места для хранения. Проверьте наличие свободного места и попробуйте еще раз.</string>
+</resources>

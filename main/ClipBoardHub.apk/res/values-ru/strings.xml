@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Буфер обмена</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_empty_main">MainActivity</string>
+    <string name="title_activity_attach_clipboard_image">Буфер обмена</string>
+    <string name="attachment_title_string">" выбранный пункт"</string>
+    <string name="seleted_max_item_noty">"Максимальное количество пунктов  "</string>
+    <string name="seleted_max_item_noty_2" />
+    <string name="copied_to_gallery">Скопировать в Галерею</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+</resources>

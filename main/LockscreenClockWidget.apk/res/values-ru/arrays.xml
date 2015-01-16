@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="TEMPLATE_DIARY">
+        <item>20</item>
+        <item>194</item>
+        <item>290</item>
+        <item>90</item>
+        <item>20</item>
+        <item>240</item>
+        <item>290</item>
+        <item>230</item>
+        <item>23</item>
+        <item>33</item>
+        <item>284</item>
+        <item>205</item>
+    </integer-array>
+    <integer-array name="TEMPLATE_HAND_LETTER">
+        <item>5</item>
+        <item>-16</item>
+        <item>170</item>
+        <item>184</item>
+    </integer-array>
+    <integer-array name="TEMPLATE_MUSIC">
+        <item>160</item>
+        <item>45</item>
+    </integer-array>
+    <integer-array name="TEMPLATE_RECIPE">
+        <item>22</item>
+        <item>11</item>
+        <item>280</item>
+        <item>187</item>
+        <item>20</item>
+        <item>172</item>
+        <item>147</item>
+        <item>119</item>
+        <item>20</item>
+        <item>265</item>
+        <item>147</item>
+        <item>119</item>
+    </integer-array>
+    <integer-array name="TEMPLATE_TODO">
+        <item>35</item>
+        <item>53</item>
+        <item>280</item>
+        <item>90</item>
+        <item>35</item>
+        <item>100</item>
+        <item>280</item>
+        <item>90</item>
+        <item>35</item>
+        <item>147</item>
+        <item>280</item>
+        <item>90</item>
+        <item>35</item>
+        <item>194</item>
+        <item>280</item>
+        <item>90</item>
+        <item>35</item>
+        <item>241</item>
+        <item>280</item>
+        <item>90</item>
+        <item>35</item>
+        <item>288</item>
+        <item>280</item>
+        <item>90</item>
+        <item>35</item>
+        <item>335</item>
+        <item>280</item>
+        <item>90</item>
+    </integer-array>
+    <string-array name="widget_align">
+        <item>Слева</item>
+        <item>По Центру</item>
+        <item>Справа</item>
+    </string-array>
+    <string-array name="fonts_type_entries">
+        <item>VEGA</item>
+        <item>Android</item>
+        <item>Kwangsu</item>
+        <item>Gothic</item>
+        <item>Myungjo</item>
+        <item>Sky blue</item>
+        <item>Starry night</item>
+        <item>Kwangsu ppori</item>
+        <item>Good manner</item>
+        <item>Sweet candy</item>
+        <item>Lovely princess</item>
+        <item>Love poem</item>
+        <item>Seoul hangang</item>
+        <item>Seoul namsan</item>
+    </string-array>
+</resources>

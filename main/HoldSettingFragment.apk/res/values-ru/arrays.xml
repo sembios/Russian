@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Немедленно</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="lock_after_timeout_values">
+        <item>0</item>
+        <item>5000</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+    </string-array>
+    <string-array name="background_entries">
+        <item>Фон галереи</item>
+        <item>Стандартный фон</item>
+        <item>Фон главного экрана</item>
+    </string-array>
+    <string-array name="background_values">
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="background_simple_entries">
+        <item>Фон галереи</item>
+        <item>Стандартный фон</item>
+    </string-array>
+    <string-array name="background_simple_values">
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="effect_entries">
+        <item>Пузырь</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="effect_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="hold_title_entries">
+        <item>Слайд</item>
+        <item>Жест слайд</item>
+        <item>Android слайд</item>
+        <item>Разблокировать лицом</item>
+        <item>Отпечаток пальцев</item>
+        <item>Граф.ключ</item>
+        <item>PIN</item>
+        <item>Пароль</item>
+    </string-array>
+    <string-array name="hold_summary_entries">
+        <item>Разблокировать считыванием вкл</item>
+        <item>Разблокировать считыванием</item>
+        <item>Разблокировать перемещением значка</item>
+        <item>Разблокировать распознав лицо</item>
+        <item>Разблокировать отпечатком пальца</item>
+        <item>Разблокировать начертить ключ</item>
+        <item>Разблокировать Ввод чисел</item>
+        <item>Разблокировать Ввод букв и цифр</item>
+    </string-array>
+    <string-array name="lock_screen_tip_top_entries">
+        <item>Расширить виджет</item>
+        <item>Посмотреть другие виджеты</item>
+        <item>Добавьте виджеты</item>
+    </string-array>
+    <string-array name="lock_screen_tip_bottom_entries">
+        <item>Проведите пальцем вниз в верхней части экрана</item>
+        <item>"Проведите пальцем в верхней части экрана влево или вправо для просмотра виджетов.
+(Чтобы отключить виджеты 'Настройки > Блокировка экрана')"</item>
+        <item>Чтобы добавить виджет на экран блокировки, нажмите Добавить значок на левой панели</item>
+    </string-array>
+    <string-array name="fingerscan_dlg_titles_before_chooselock_info">
+        <item>Разблокировать путем зарегистрированных пальцев</item>
+        <item>Разблокировать путем зарегистрированных пальцев</item>
+        <item>Разблокировать путем зарегистрированных пальцев</item>
+        <item>Разблокировать путем зарегистрированных пальцев</item>
+        <item>Разблокировать путем зарегистрированных пальцев</item>
+        <item>Разблокировать путем зарегистрированных пальцев</item>
+        <item>Разблокировать путем зарегистрированных пальцев</item>
+        <item>Разблокировать путем зарегистрированных пальцев</item>
+    </string-array>
+    <string-array name="fingerscan_dlg_messages_before_chooselock_info">
+        <item>제스처</item>
+        <item>안드로이드</item>
+        <item>Вы можете разблокировать отпечатком пальца вместо Граф.ключа.</item>
+        <item>Вы можете разблокировать отпечатком пальца вместо 4-значного номера.</item>
+        <item>Вы можете разблокировать отпечатком пальца вместо букв и цифр.</item>
+        <item>Вы можете разблокировать отпечатком пальца вместо признание лица.</item>
+        <item>지문인식</item>
+        <item>사용안함</item>
+    </string-array>
+    <string-array name="fingerscan_dlg_titles_after_chooselock_info">
+        <item>제스처 잠금 설정</item>
+        <item>안드로이드 잠금 설정</item>
+        <item>Защищено Граф.ключом</item>
+        <item>Защищено PIN</item>
+        <item>Защищено паролем</item>
+        <item>얼굴인식 잠금 설정</item>
+        <item>지문인식 잠금 설정</item>
+        <item>사용안함 잠금 설정</item>
+    </string-array>
+    <string-array name="fingerscan_dlg_messages_after_chooselock_info">
+        <item>제스처</item>
+        <item>안드로이드</item>
+        <item>"Ваш телефон защищен граф.ключом.
+Можно также использовать ваш палец как метод для разблокировки телефона."</item>
+        <item>"Ваш телефон защищен PIN.
+Можно также использовать ваш палец как метод для разблокировки телефона."</item>
+        <item>"Ваш телефон защищен паролем.
+Можно также использовать ваш палец как метод для разблокировки телефона."</item>
+        <item>얼굴인식</item>
+        <item>지문인식</item>
+        <item>사용안함</item>
+    </string-array>
+    <string-array name="HoldThemeType">
+        <item>Android</item>
+        <item>Жест</item>
+    </string-array>
+    <string-array name="HoldEffectType">
+        <item>Куб</item>
+        <item>Подсветка</item>
+        <item>3D</item>
+    </string-array>
+</resources>

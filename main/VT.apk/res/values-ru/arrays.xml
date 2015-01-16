@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="Audio">
+        <item>AMR</item>
+        <item>AMR-WB</item>
+    </string-array>
+    <string-array name="Video">
+        <item>H.263</item>
+        <item>H.264</item>
+    </string-array>
+    <string-array name="SelectAPCS">
+        <item>Тест сервера</item>
+        <item>Коммерческий сервер</item>
+    </string-array>
+    <string-array name="SelectACSValue">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="setDefaultValue">
+        <item>Установить SIP/SDP Меню по умолчанию</item>
+    </string-array>
+    <string-array name="setDefaultReturnValue">
+        <item>Установить SIP/SDP Меню по умолчанию</item>
+    </string-array>
+    <string-array name="removeCallLogs">
+        <item>Удалить журналов вызовов</item>
+    </string-array>
+    <string-array name="removeCallLogsReturn">
+        <item>Удалить журналов вызовов</item>
+    </string-array>
+    <string-array name="capture_1_list">
+        <item>Захватить экран партнера</item>
+    </string-array>
+    <string-array name="capture_2_list">
+        <item>Захватить экран партнера</item>
+        <item>Захватить мой экран</item>
+    </string-array>
+    <string-array name="alter_list">
+        <item>Изображение по умолчанию</item>
+        <item>Галерея</item>
+        <item>Захватить мой экран</item>
+    </string-array>
+    <string-array name="alter_list_dms_lock">
+        <item>Изображение по умолчанию</item>
+        <item>Захватить мой экран</item>
+    </string-array>
+</resources>

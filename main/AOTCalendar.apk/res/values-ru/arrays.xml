@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="holiday_solar_ko">
+        <item>Новый год</item>
+        <item>День независимости</item>
+        <item>День защиты детей</item>
+        <item>День памяти</item>
+        <item>Национальный День освобождения</item>
+        <item>Национальный фонд День Корея</item>
+        <item>Хангыль объявления день</item>
+        <item>Рождество</item>
+    </string-array>
+    <string-array name="holiday_lunar_ko">
+        <item>Лунный Новый год</item>
+        <item>Лунные Новогодние Праздники</item>
+        <item>День рождения Будды</item>
+        <item>Корейский День благодарения</item>
+        <item>Корейские Праздники Благодарения</item>
+    </string-array>
+    <string-array name="holiday_solar_us">
+        <item>Новый год</item>
+        <item>День рождения Мартина Лютера Кинга.</item>
+        <item>День рождения Вашингтона</item>
+        <item>День памяти</item>
+        <item>День независимости</item>
+        <item>День труда</item>
+        <item>День Колумба</item>
+        <item>День ветеранов</item>
+        <item>День благодарения</item>
+        <item>Рождество</item>
+    </string-array>
+</resources>
